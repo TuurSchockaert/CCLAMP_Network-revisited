@@ -1,0 +1,7452 @@
+	Author	Partition
+0	Ed. Hoornik	0
+1	Nico Rost	0
+2	A. Roland Holst	0
+3	Gérard de Nerval	0
+4	Sigmund Freud	0
+5	William Blake	0
+6	Joris Iven	0
+7	Joris Ivens	0
+8	Herluf van Merlet	0
+9	Herman Heijermans	0
+10	Insider	0
+11	Louis Saalborn	0
+12	J.C. Noordstar	0
+13	Giacomo Leopardi	0
+14	Han G. Hoekstra	0
+15	D.H. Lawrence	0
+16	Ben Onie	0
+17	H.M. van Randwijk	0
+18	Anton Koolhaas	0
+19	Bertus van Lier	0
+20	Stéphane Mallarmé	0
+21	Maurits Mok	0
+22	Bertus Aafjes	0
+23	Bert Bakker	0
+24	Victor J. Brunclair	0
+25	Thomas Mann	0
+26	Dick Elffers	0
+27	Hans Keilson	0
+28	Frans Kusters	0
+29	Victor E. van Vriesland	0
+30	Pierre H. Dubois	0
+31	Max Nord	0
+32	Gerrit Achterberg	0
+33	James Joyce	0
+34	H.J.M.F. Lodewick	0
+35	J. van Delden	0
+36	William Butler Yeats	0
+37	L.M. Heemskerk	0
+38	David Koning	0
+39	Jan Wit	0
+40	Edgar Allan Poe	0
+41	A. Viruly	0
+42	H. van Lennep	0
+43	H. de Lange	0
+44	Francis Bacon	0
+45	W. Burger	0
+46	J. Pen	0
+47	Daniël de Lange	0
+48	Jan Noordzij	0
+49	J. Bruyn	0
+50	Jan de Bruin	0
+51	Heinrich von Kleist	0
+52	P. Krug	0
+53	Jan Mulder	0
+54	Arthur Rimbaud	0
+55	Armando	0
+56	Rudyard Kipling	0
+57	Frans de Haes	0
+58	Fleur Bourgonje	0
+59	Maarten van Rossem	0
+60	Hugo von Hofmannsthal	0
+61	D. van der Meulen	0
+62	A. van Collem	0
+63	Edgar Degas	0
+64	Jeanne van Schaik-Willing	0
+65	Johannes van Dam	0
+66	Paul Valéry	0
+67	Johan Huijts	0
+68	Enrico Nencioni	0
+69	Antonio Machado	0
+70	C.H. van Os	0
+71	P.J. Fehmers	0
+72	L.G.M. Baas Becking	0
+73	L. de Jong	0
+74	Max de Jong	0
+75	Gottfried Benn	0
+76	Chr. Cornelissen	0
+77	Federico García Lorca	0
+78	Alexander West	0
+79	Rudolf Escher	0
+80	M.E. Kronenberg	0
+81	Nes Tergast	0
+82	Adriaan van der Veen	0
+83	Annie Romein-Verschoor	0
+84	M. Vasalis	0
+85	Jan Don	0
+86	T.S. Eliot	0
+87	Godfried Bomans	0
+88	Marius Flothuis	0
+89	Leonhard Huizinga	0
+90	Hella S. Haasse	0
+91	Guus Dijkhuizen	0
+92	Willem van Reymerswael	0
+93	A. Meeus	0
+94	Koos Schuur	0
+95	William Faulkner	0
+96	H.A. Gomperts	0
+97	Jacoba Eggink	0
+98	Dirk Wiersma	0
+99	Leo Vroman	0
+100	W.J. van der Molen	0
+101	Paul Rodenko	0
+102	R.A.V. van Haersolte	0
+103	W. Lubberink	0
+104	B.W. Schaper	0
+105	Mies Bouhuys	0
+106	Ernst van Raalte	0
+107	M. van der Plas	0
+108	Michel van der Plas	0
+109	Jan C. M. Leijten	0
+110	Jan Leyten	0
+111	S.R. de Groot	0
+112	Anna Blaman	0
+113	Ezra Pound	0
+114	Manuel van Loggem	0
+115	Elisabeth Augustin	0
+116	Maria van Royen	0
+117	Bert Voeten	0
+118	J.W. Schulte Nordholt	0
+119	Nico Verhoeven	0
+120	Ad den Besten	0
+121	Simon Vinkenoog	0
+122	J.B. Charles	0
+123	Charles B. Timmer	0
+124	John Vandenbergh	0
+125	Bert Schierbeek	0
+126	Truman Capote	0
+127	Gertrude Stein	0
+128	Kenneth Patchen	0
+129	William Carlos Williams	0
+130	Dylan Thomas	0
+131	Wallace Stevens	0
+132	Charles-Henry Ford	0
+133	Carl Sandburg	0
+134	Zack Gilbert	0
+135	Edgar Lee Masters	0
+136	Jan G. Elburg	0
+137	C. Buddingh'	0
+138	Thomas McGrath	0
+139	Gerrit Kouwenaar	0
+140	Robert Hayden	0
+141	Rosey E. Pool	0
+142	Annetje Reens-Neufeld	0
+143	W.H. Auden	0
+144	Wim Vesseur	0
+145	Max Croiset	0
+146	Ton Lutz	0
+147	Hans Berghuis	0
+148	Dolf Verspoor	0
+149	Lo van Hensbergen	0
+150	Lucebert	0
+151	Hans Lodeizen	0
+152	Alfred Kossmann	0
+153	Tom Eekman	0
+154	Eugenio Montale	0
+155	R.J. Valkhoff	0
+156	Giulio Carlo Argan	0
+157	Lucio Fontana	0
+158	Corrado Govoni	0
+159	Lionello Venturi	0
+160	Hugo Claus	0
+161	Luc Lutz	0
+162	Thea Diepenbrock	0
+163	Jan Hanlo	0
+164	Remco Campert	0
+165	Hans Andreus	0
+166	S. Carmiggelt	0
+167	M.A. Schwartz	0
+168	Fred Polak	0
+169	H. Wielek	0
+170	Jan Walravens	0
+171	H.B.G. Casimir	0
+172	Hans Warren	0
+173	H.J. van Tienhoven	0
+174	Gerrit Borgers	0
+175	G.M. Hopkins	0
+176	Doris Lessing	0
+177	J. Kröner	0
+178	Reyner Banham	0
+179	Robert Melville	0
+180	Peter Brook	0
+181	Frits Staal	0
+182	Anton Kloppers	0
+183	Mary McCarthy	0
+184	Adriaan Morriën	0
+185	A. Alberts	0
+186	Bernard Vlekke	0
+187	Ellen Warmond	0
+188	Yvan Goll	0
+189	K. Lekkerkerker	0
+190	C.A. van Peursen	0
+191	Herman Cohen	0
+192	Ben Stroman	0
+193	Piet Sterckx	0
+194	Cees Nooteboom	0
+195	Nel Noordzij	0
+196	James S. (Jim) Holmes	0
+197	Erik Vos	0
+198	Pablo Neruda	0
+199	Horacio Quiroga	0
+200	Nicolás Guillén	0
+201	D. Nauta	0
+202	Th. Govaart	0
+203	Roger Raveel	0
+204	Louis Paul Boon	0
+205	Harry Mulisch	0
+206	Guillaume Apollinaire	0
+207	H.L.C. Jaffé	0
+208	Augusto Roa Bastos	0
+209	Carlos Drummond de Andrade	0
+210	Cecília Meireles	0
+211	Amy van Marken	0
+212	Erik Lindegren	0
+213	Sybren Polet	0
+214	Gunnar Ekelöf	0
+215	Artur Lundkvist	0
+216	Edith Södergran	0
+217	David Rokeah	0
+218	Pham Van Ky	0
+219	Makhali-Phal	0
+220	Saint-John Perse	0
+221	Waring Cuney	0
+222	Leslie M. Collins	0
+223	Owen Dodson	0
+224	Charles Causley	0
+225	Z.R. Dittrich	0
+226	Ursy M. Lichtveld	0
+227	Jan Voorhoeve	0
+228	Francisco Carrasquer	0
+229	Willem van Elden	0
+230	Hermann Kesten	0
+231	Nol Gregoor	0
+232	G. Puchinger	0
+233	Martien J.G. de Jong	0
+234	Victor Varangot	0
+235	Th.G. Sinnige	0
+236	Clarín	0
+237	Piet Calis	0
+238	Paul Snoek	0
+239	Tjalie Robinson	0
+240	Leo Peters	0
+241	A.D. de Groot	0
+242	Jan F. de Zanger	0
+243	Erik Stinus	0
+244	J. Sperna Weiland	0
+245	A. Middeldorp	0
+246	Paul de Wispelaere	0
+247	Ivo Michiels	0
+248	J. Bernlef	0
+249	Stephen Crane	0
+250	Karl Krolow	0
+251	Hans Magnus Enzensberger	0
+252	Paul Celan	0
+253	Jaap Harten	0
+254	P. Gros	0
+255	J. Kassies	0
+256	Tom Kerber	0
+257	Philip Mechanicus	0
+258	A.J. Dekker	0
+259	James Brockway	0
+260	Blas de Otero	0
+261	Marcus de Jong	0
+262	B.A. Sijes	0
+263	R.A. Cornets de Groot	0
+264	A.J. Koejemans	0
+265	J.J. Buskes	0
+266	P. Eldering	0
+267	Hans Verhagen	0
+268	Huub Oosterhuis	0
+269	Sonja Prins	0
+270	Jan Verhoef	0
+271	Hans Sleutelaar	0
+272	Willem van Toorn	0
+273	Peter Berger	0
+274	Hugues C. Pernath	0
+275	Wim Gijsen	0
+276	E. Eijkemans	0
+277	H. van der Linde	0
+278	Han Lammers	0
+279	Paul van 't Veer	0
+280	J.L. Heldring	0
+281	A.L. Constandse	0
+282	Ger Harmsen	0
+283	F.E. Frenkel	0
+284	D.R. Jonker	0
+285	Felipe M. Lorda Alaiz	0
+286	Jan Wolkers	0
+287	Ewald Vanvugt	0
+288	K. Schippers	0
+289	Hugh Jans	0
+290	W. Boswinkel	0
+291	Wilbert Bank	0
+292	Miguel Hernández	0
+293	Gabriel Celaya	0
+294	Rudy Kousbroek	0
+295	W. Gortzak	0
+296	Carl Friedrich von Weizsäcker	0
+297	Hans Snoek	0
+298	Aya Zikken	0
+299	Yves Bonnefoy	0
+300	Coenraad van Emde Boas	0
+301	C.J.B.J. Trimbos	0
+302	Kees Fens	0
+303	J.H. van den Berg	0
+304	Huug Kaleis	0
+305	W. Drees	0
+306	J.W. Holsbergen	0
+307	Peter Schat	0
+308	W.L. Brugsma	0
+309	S.C. Derksen	0
+310	Michaël Slory	0
+311	Else Lasker-Schüler	0
+312	Nico Scheepmaker	0
+313	Reinbert de Leeuw	0
+314	A. Chorus	0
+315	H.J.A. Hofland	0
+316	Heere Heeresma	0
+317	Hendrik van Teylingen	0
+318	Harry Mesterom	0
+319	Willem Hussem	0
+320	Rein Bloem	0
+321	F.B. Löhnis	0
+322	Abram de Swaan	0
+323	Lydia van Rietschote	0
+324	Wim Klinkenberg	0
+325	Hugo Raes	0
+326	Jacques Hamelink	0
+327	Hans Keller	0
+328	Jac. van Hattum	0
+329	Louis Andriessen	0
+330	Corly Verlooghen	0
+331	Wim Zaal	0
+332	R. Roegholt	0
+333	Robert Lema	0
+334	Jan Blokker	0
+335	Charles Boost	0
+336	Edmond Campers	0
+337	J.H. Donner	0
+338	Inne de Jong	0
+339	B.J. Fris	0
+340	Freddy de Vree	0
+341	Gust Gils	0
+342	Mischa de Vreede	0
+343	Ed van der Elsken	0
+344	Roel van Duyn	0
+345	Lodewijk Prins	0
+346	M.G. Plattel	0
+347	Judith Herzberg	0
+348	Karel van het Reve	0
+349	Benno J. Stokvis	0
+350	G. van Benthem van den Bergh	0
+351	Paul Goodman	0
+352	John H. Schaar	0
+353	Johan de Meester jr.	0
+354	Hans van den Bergh	0
+355	Joop den Uyl	0
+356	Daniel de Lange	0
+357	Rudi Fuchs	0
+358	Lizzy Sara May	0
+359	R.J.C. Cornegoor	0
+360	Alain Robbe-Grillet	0
+361	Maurits Engelborghs	0
+362	Cor de Groot	0
+363	Ferenc Karinthy	0
+364	H. Daudt	0
+365	Joop van Tijn	0
+366	Gérard van den Eerenbeemt	0
+367	W.P. Pos	0
+368	John Berger	0
+369	L.H.C. Hulsman	0
+370	J.F. Glastra van Loon	0
+371	H.H. Kirchheiner	0
+372	A.J. van der Staay	0
+373	Nico Wijnen	0
+374	Aad van der Mijn	0
+375	Jan Rogier	0
+376	Krijn ter Braak	0
+377	Philippe Sollers	0
+378	Günter Grass	0
+379	François Haverschmidt	0
+380	S. Pinkhof	0
+381	G.M.N. Verschuuren	0
+382	Konrad Boehmer	0
+383	Huib Riethof	0
+384	Henk Sneevliet	0
+385	Aad Nuis	0
+386	I. Samkalden	0
+387	H.C. ten Berge	0
+388	David Kettler	0
+389	Theo de Boer	0
+390	Gerrit Krol	0
+391	W. Draijer	0
+392	Renee	0
+393	Dick Hillenius	0
+394	K.L. Poll	0
+395	K. Zickhardt	0
+396	Rudolf Geel	0
+397	Hans Gruyters	0
+398	Henri van Praag	0
+399	Joke Kool-Smit	0
+400	M. Rácz	0
+401	Nic Brink	0
+402	H.J. Lankhorst	0
+403	Jos Ruting	0
+404	W.K.N. Schmelzer	0
+405	E.H. Toxopeus	0
+406	Herman Liebaers	0
+407	Frits Lapidoth	0
+408	Martin Hartkamp	0
+409	Thierry de Beaucé	0
+410	Paul Citroen	0
+411	Jan van der Vegt	0
+412	Loden Vogel	0
+413	J.T. Barendregt	0
+414	Abraham Sutzkever	0
+415	W.J. Molenaar-de Winter	0
+416	Peter Weibel	0
+417	Theo Stibbe	0
+418	E.M. Barth	0
+419	Aryiris Chionis	0
+420	M. Blijstra	0
+421	Lau Mazirel	0
+422	A.G. van der Spek	0
+423	J.A.H.J.S. Bruins Slot	0
+424	Th. van Tijn	0
+425	Hans Faverey	0
+426	Bastiaan Willink	0
+427	Dirk van Dalen	0
+428	Rolf Italiaander	0
+429	Jacques Vallier	0
+430	Wim Hora Adema	0
+431	Lucas van der Land	0
+432	Mia Boxman	0
+433	Alejo Carpentier	0
+434	Heberto Padilla	0
+435	Guy Kilian	0
+436	Jacq Firmin Vogelaar	0
+437	Jef Geeraerts	0
+438	Wiek Röling	0
+439	Frits Dekking	0
+440	Hans Vlek	0
+441	C.C. Krijgelmans	0
+442	Frans Brüggen	0
+443	T.M.T. Coolen	0
+444	A. van Dantzig	0
+445	C.O. Jellema	0
+446	Rinus Ferdinandusse	0
+447	W. Reich	0
+448	Peter Collier	0
+449	Else Hoog	0
+450	Ho Chi Minh	0
+451	Sem Davids	0
+452	Vasilis Vasilikos	0
+453	C. Gorisse	0
+454	Kenneth Keniston	0
+455	Jacques L. Schmitz	0
+456	Lambert Meertens	0
+457	Leo Geurts	0
+458	Lieuwe Brouwers	0
+459	César Vallejo	0
+460	Jeroen Brouwers	0
+461	Bertus Dijk	0
+462	Nicanor Parra	0
+463	Wim Hazeu	0
+464	Walter Haesaert	0
+465	Reinjan Mulder	0
+466	Percy B. Lehning	0
+467	Eva Hoornik	0
+468	Dirk Kroon	0
+469	Wim Hijmans	0
+470	D.W. Bloemena	0
+471	Leo Haring	0
+472	Friedrich Hölderlin	0
+473	Louise van Santen	0
+474	P. Maliepaard	0
+475	Eva Tas	0
+476	H.J. Smeding	0
+477	Burny Every	0
+478	F. Tichelman	0
+479	J.D. van der Meulen	0
+480	Sheldon S. Wolin	0
+481	Fernando Costa Andrade	0
+482	Luandino Vieira	0
+483	Mário de Andrade	0
+484	Agostinho Neto	0
+485	António Jacinto	0
+486	Riekus Waskowsky	0
+487	Norbert Elias	0
+488	Willem van Malsen	0
+489	Charles Bettelheim	0
+490	Mark Brusse	0
+491	Klaas de Jonge	0
+492	W.G. Wolters	0
+493	E. Mandel	0
+494	D. van Arkel	0
+495	Hans Tentije	0
+496	H.G. Matthes	0
+497	Johan Goudsblom	0
+498	Max Beckmann	0
+499	Hans Plomp	0
+500	Jozef Slagveer	0
+501	Thea Doelwijt	0
+502	Edgar Cairo	0
+503	Bea Vianen	0
+504	R. Dobru	0
+505	Silvia W. de Groot	0
+506	Judith Allard-de Kom	0
+507	R. de Jong	0
+508	M. de Boer	0
+509	Wim Huyskens	0
+510	Geerten Meijsing	0
+511	Keith Snell	0
+512	Erwin Garden	0
+513	G.P.F. Buddingh'	0
+514	Rein Blijstra	0
+515	Hugo Pos	0
+516	Pieter Polanen	0
+517	Arie Querido	0
+518	L.U. de Sitter	0
+519	Anneke Jansen	0
+520	R. Sierksma	0
+521	S. Kleerekoper	0
+522	Kees Winkler	0
+523	Leo Ross	0
+524	Ton Anbeek	0
+525	Ted Hughes	0
+526	Ben Bos	0
+527	Lidy van Marissing	0
+528	Cor Blok	0
+529	Theo de Jong	0
+530	Cas Wouters	0
+531	Fritz Zondervan	0
+532	Piet van Caldenborgh	0
+533	W.H. van der Linden	0
+534	Herman de Lange	0
+535	H. Berkhof	0
+536	Peter Harper	0
+537	C. Schepel	0
+538	C.W. Rietdijk	0
+539	Ivan Illich	0
+540	Hugh P. Gallacher	0
+541	Frans Verpoorten jr.	0
+542	Fons Elders	0
+543	Jaap van Ginneken	0
+544	Bram van der Lek	0
+545	R.D. Schuiling	0
+546	Dolph Kohnstamm	0
+547	S.J. Doorman	0
+548	J.M.W. van Ussel	0
+549	Jan Donkers	0
+550	Adam Szirmai	0
+551	Bert Vanheste	0
+552	Imke van der Steur	0
+553	Jan Pluvier	0
+554	Reinier Lucassen	0
+555	Derek Phillips	0
+556	Peter Hofstede	0
+557	H. Schaafsma	0
+558	Lien Heyting	0
+559	Ph.P. Everts	0
+560	Richard B. du Boff	0
+561	Oscar Timmers	0
+562	Alvin W. Gouldner	0
+563	Hidde van der Ploed	0
+564	T. Varekamp	0
+565	Barber van de Pol	0
+566	Julio Cortázar	0
+567	Margaret Abels	0
+568	Emiel Hullebroeck	0
+569	Martin Schouten	0
+570	Nadjezjda Mandelstam	0
+571	Samuel de Lange	0
+572	Michel Korzec	0
+573	M.J. Broekmeyer	0
+574	Alexander Münninghoff	0
+575	Esselien 't Hart	0
+576	Joeri Galanskov	0
+577	Adam Tern	0
+578	Jan van Eijk	0
+579	Guy Desrole	0
+580	Irene van Grinsven	0
+581	Nico Wilterdink	0
+582	Han de Vries	0
+583	Laurens van Krevelen	0
+584	Octavio Paz	0
+585	Hendrik Cramer	0
+586	Ruud A.J. Kraaijeveld	0
+587	Roger van de Velde	0
+588	L.J. Boon	0
+589	Gerrit Komrij	0
+590	Kees Ouwens	0
+591	Peter Hoefnagels	0
+592	C.J.M. Schuyt	0
+593	J.A.A. van Doorn	0
+594	Hilbert Kuik	0
+595	Cherry Duyns	0
+596	J.H. de Haas	0
+597	Arie Gelderblom	0
+598	C.D. Fuchs	0
+599	Carel Peeters	0
+600	Bart Tromp	0
+601	W.A.M. de Moor	0
+602	Bart van Heerikhuizen	0
+603	G.C. Lijphart-Bezuidenhout	0
+604	M.C. Brands	0
+605	H.W. von der Dunk	0
+606	Herman de Liagre Böhl	0
+607	Ampie Coetzee	0
+608	Françoise van Rossum-Guyon	0
+609	Marcel van der Linden	0
+610	Gerard Reve	0
+611	J.M.A. Biesheuvel	0
+612	Margreet Blankesteijn-Blees	0
+613	Peter Handke	0
+614	José Cardoso Pires	0
+615	August Willemsen	0
+616	C.P. Bertels	0
+617	Elly de Waard	0
+618	Martin Ros	0
+619	Anton Haakman	0
+620	Gerben Hellinga	0
+621	Rita Verschuur	0
+622	Siep Stuurman	0
+623	René Marres	0
+624	Arnold Cornelis	0
+625	E.C.P. van Waalwijk van Doorn	0
+626	Anton Blok	0
+627	Paul Knolle	0
+628	H.M. Reijzer	0
+629	Johan Kuin	0
+630	H.E. Ruitenberg	0
+631	A.C. Zijderveld	0
+632	Dick Pels	0
+633	Martin Mooij	0
+634	Hans van de Waarsenburg	0
+635	Patricia Lasoen	0
+636	Mongane Wally Serote	0
+637	Charles Tomlinson	0
+638	Jana Beranová	0
+639	Philip Levine	0
+640	Mazisi Kunene	0
+641	Michael Krüger	0
+642	Bob den Uyl	0
+643	Sapardi Djoko Damono	0
+644	Roland Jooris	0
+645	Ruud Löbler	0
+646	Hans Carl Artmann	0
+647	Keorapetse Kgositsile	0
+648	Czeslaw Milosz	0
+649	Sylvia Bodnár	0
+650	János Pilinszky	0
+651	Waldo Rojas	0
+652	Kazuko Shiraisi	0
+653	Noriko de Vroomen-Kondo	0
+654	Hugo Röling	0
+655	Michael Hamburger	0
+656	Ingrid Jonker	0
+657	Maarten 't Hart	0
+658	Ethel Portnoy	0
+659	P.A. Wackie Eysten	0
+660	Jak van der Meulen	0
+661	P.R. Baehr	0
+662	A. de Kool	0
+663	V.S. Naipaul	0
+664	Tymen Trolsky	0
+665	Emil Bentzen	0
+666	Marguérite M.J. van Berckel	0
+667	Ed van Thijn	0
+668	Adriaan van Dis	0
+669	B. Bloemsma	0
+670	Pier Boorsma	0
+671	Willem M. Roggeman	0
+672	M. Fennema	0
+673	Thom Holterman	0
+674	Elmer Schönberger	0
+675	Misha Mengelberg	0
+676	Mieke Westra	0
+677	Aline Glastra van Loon	0
+678	Mario Vargas Llosa	0
+679	Jan Cox	0
+680	Christine Brinkgreve	0
+681	Alex Korzec	0
+682	Peter Nijmeijer	0
+683	J.W. Niemeijer	0
+684	Frans de Rover	0
+685	Magda van Emde Boas	0
+686	Stefan Morawski	0
+687	Joep à Campo	0
+688	Jacques Kruithof	0
+689	Fernando Schellen	0
+690	Wim de Bie	0
+691	A.K. Koekkoek	0
+692	A.J. Cnoop Koopmans	0
+693	Cees Cruson	0
+694	Ton Zwaan	0
+695	Philip Ramp	0
+696	Max Arian	0
+697	Arthur Mitzman	0
+698	Nelleke van Maaren	0
+699	Leo Damen	0
+700	Stephen Mennell	0
+701	Pieter Spierenburg	0
+702	Johanna Fortuin	0
+703	Dick van den Bosch	0
+704	Jojada Verrips	0
+705	Leo Fretz	0
+706	Godert van Colmjon	0
+707	Tom van Deel	0
+708	R.L.K. Fokkema	0
+709	R.H.J. Egeter van Kuyk	0
+710	Lloyd Haft	0
+711	Rafael Alberti	0
+712	Albert Dijkstra	0
+713	B.F. Galjart	0
+714	A.Th. Derksen	0
+715	Lodewijk Brunt	0
+716	Frank Bovenkerk	0
+717	Patrick Conrad	0
+718	Marcel van Maele	0
+719	E.J. Dommering	0
+720	Th.J. de Jong	0
+721	Joyce van Lankeren	0
+722	Rob Delvigne	0
+723	J.N. Swallow	0
+724	Jan Siebelink	0
+725	Ad Kooyman	0
+726	Botto van den Bergh	0
+727	Rob Schouten	0
+728	Carlo Ginzburg	0
+729	Freek Bruinsma	0
+730	Henk Romijn Meijer	0
+731	I. van der Sluis	0
+732	J.J. Klinkert	0
+733	Geert Rooijakkers	0
+734	Jan Kommandeur	0
+735	Hendrik Doeff	0
+736	Akira Nagazumi	0
+737	Jan Noordhoek	0
+738	Yukio Mishima	0
+739	Frans Boenders	0
+740	Kenzaburo Oë	0
+741	Wim Markus	0
+742	Louis Emmerij	0
+743	Koen Koch	0
+744	M.B. ter Borg	0
+745	E.V.W. Vercruijsse	0
+746	Eva Abraham-van der Mark	0
+747	Rob van der Veer	0
+748	Joyce Outshoorn	0
+749	Wiel Kusters	0
+750	Huib Hoste	0
+751	Kees Bruin	0
+752	A.H. Peters	0
+753	Hugo Krabbe	0
+754	William H. McNeill	0
+755	Emma Brunt	0
+756	Dick Dooijes	0
+757	John Kleinen	0
+758	Beate Zilversmidt	0
+759	J. Popken	0
+760	F.B. Hotz	0
+761	Doeschka Meijsing	0
+762	Jos de Roo	0
+763	Ida van Heteren	0
+764	Ad Teulings	0
+765	Jurriaan Fransman	0
+766	Jaap Goudsmit	0
+767	Fransje van der Waals	0
+768	G. Dijkink	0
+769	Herman ten Kroode	0
+770	Carolijn Visser	0
+771	R. Kruk	0
+772	R.J. Spruit	0
+773	Jan Bank	0
+774	Steef Davidson	0
+775	Isaak Kaplanas	0
+776	Oek de Jong	0
+777	F. Springer	0
+778	A.L. Schneiders	0
+779	Huub Beurskens	0
+780	R.B. Kitaj	0
+781	Boudewijn Büch	0
+782	R. Kroes	0
+783	Nicolaas Matsier	0
+784	Aleid Truijens	0
+785	Jérôme Vervaecke	0
+786	Lu Xun	0
+787	Albert Jan Govers	0
+788	John Jansen van Galen	0
+789	Jean Pierre Rawie	0
+790	Hans Dorrestijn	0
+791	Margot de Hartog	0
+792	Frans W. Saris	0
+793	Dawn Foor	0
+794	R.J.C. Sijthoff	0
+795	Pieter Veenboer	0
+796	Jos Vandeloo	0
+797	Henk Tromp	0
+798	Hans Achterhuis	0
+799	Fenna van den Burg	0
+800	Frits Abrahams	0
+801	A.M.J. de Keijser	0
+802	Peter van Seters	0
+803	Marjolijn Sorbi	0
+804	Freek de Jonge	0
+805	Piet de Rooy	0
+806	Reiner de Winter	0
+807	Jean-Paul Franssens	0
+808	Kester Freriks	0
+809	Jean-Pierre Plooij	0
+810	Gunther S. Stent	0
+811	W.A. Verloren van Themaat	0
+812	Rien Goettsch	0
+813	J.D. Querido	0
+814	Paul Casparie	0
+815	H.H. ter Balkt	0
+816	Theodor Duquesnoy	0
+817	Jan Brokken	0
+818	Rien van den Broek	0
+819	Christel van Boheemen-Saaf	0
+820	J. Hoogendoorn	0
+821	J.E. Ellemers	0
+822	Maarten Steenmeijer	0
+823	Ton Ceelen	0
+824	Kees Nijland	0
+825	Klaus Siegel	0
+826	Ed de Moor	0
+827	Henk de Velde	0
+828	G. Groenhuis	0
+829	Jules de Palm	0
+830	Aart G. Broek	0
+831	Peter Zeeman	0
+832	Joseph Brodsky	0
+833	Robert Lemm	0
+834	Peter Bergsma	0
+835	R. Overeem	0
+836	Ben Knapen	0
+837	Tonja van Rijthoven	0
+838	Jaap van Heerden	0
+839	Pieter Sijpersma	0
+840	Seamus Heaney	0
+841	H.F. Cohen	0
+842	Wil Rouleaux	0
+843	Marie-José Heijkant	0
+844	Raymond Corbey	0
+845	Selma Leydesdorff	0
+846	Adriaan M. van der Hoeven	0
+847	Sirkka-Liisa Hahmo	0
+848	Marc Bruynseraede	0
+849	Vojtech Mastny	0
+850	J.C.H. Blom	0
+851	F.W. Zeylmans van Emmichoven	0
+852	Anne Wadman	0
+853	Günter Eich	0
+854	Johannes Bobrowski	0
+855	Remco Ekkers	0
+856	Elsbeth Etty	0
+857	Bob de Nijs	0
+858	G.L. Durlacher	0
+859	Hans Ree	0
+860	Jan Timman	0
+861	Paul van Heck	0
+862	W.L. Stokvis	0
+863	Toon Tellegen	0
+864	Dieter Hülsmanns	0
+865	Tinke Davids	0
+866	Adolf Wölfli	0
+867	Edouard Roditi	0
+868	Georges Wildemeersch	0
+869	John Ashbery	0
+870	Hub. Hermans	0
+871	Jan van Hoften	0
+872	Berthe Meijer	0
+873	A. Komen	0
+874	Ton Lemaire	0
+875	Douwe Draaisma	0
+876	E. T. Woudstra	0
+877	Gerardjan Rijnders	0
+878	Karst Woudstra	0
+879	Stefan Hertmans	0
+880	Herman Tieken	0
+881	M.E. 't Hart	0
+882	B.J.S. Hoetjes	0
+883	Johannes de Hullu	0
+884	Lieve Joris	0
+885	Astrid Roemer	0
+886	Chitra Gajadin	0
+887	Jit Narain	0
+888	Igma van Putte-De Windt	0
+889	Henry Habibe	0
+890	Alette Beaujon	0
+891	Elis Juliana	0
+892	Henk Dennert	0
+893	Carel de Haseth	0
+894	B. Zwaal	0
+895	David Minter	0
+896	Terrence Doody	0
+897	Luc Huyse	0
+898	Harold Beaver	0
+899	Juan Carlos Onetti	0
+900	Martin Veltman	0
+901	Mariolein Sabarte Belacortu	0
+902	B.G.J. de Graaff	0
+903	A.F. Manning	0
+904	Kees Revier	0
+905	Han Foppe	0
+906	Flora Stiemer	0
+907	H.G. van Bueren	0
+908	Johan Heilbron	0
+909	Jan H. Mysjkin	0
+910	Jacques Roubaud	0
+911	Ben van Melick	0
+912	M.A. Wes	0
+913	Ben de Pater	0
+914	Mario Molegraaf	0
+915	Marietta Ioannidou	0
+916	Jan Klees	0
+917	Hero Hokwerda	0
+918	M. Blijstra-van der Meulen	0
+919	Louise O. Fresco	0
+920	Ton Naaijkens	0
+921	Jan Gielkens	0
+922	Jos van Asperen	0
+923	Paul Beers	0
+924	Siem Bakker	0
+925	Jan Peter Nauta	0
+926	Guy Posson	0
+927	M. Mendel	0
+928	Hans Aniba	0
+929	Jenny Tuin	0
+930	René van Hezewijk	0
+931	Philip van der Eijk	0
+932	Jan Eijkelboom	0
+933	H. Brugge	0
+934	Wim Crouwel	0
+935	G. van Os	0
+936	B.J. Asscher	0
+937	Frans Budé	0
+938	Menno Kraan	0
+939	David Kouwenaar	0
+940	Frans van Dooren	0
+941	Hubert Smeets	0
+942	Peter Odell	0
+943	Chun-chan Yeh	0
+944	Henny Scheepmaker	0
+945	Tess Visser	0
+946	Jean-Clarence Lambert	0
+947	Robert P. Swierenga	0
+948	Jan Zielonka	0
+949	Ágnes Roboz	0
+950	Eva Bodor	0
+951	Geoffrey Douglas Madge	0
+952	Mea M. Flothuis	0
+953	J.S. Henriksson	0
+954	Gèr Boosten	0
+955	Jeroen Henneman	0
+956	Bart van der Sijde	0
+957	Willem de Ruiter	0
+958	Benno Barnard	0
+959	Jan Versteeg	0
+960	Wolfgang Hilbig	0
+961	Juan José Arreola	0
+962	Ria van Hengel	0
+963	Ieme van der Poel	0
+964	Manet van Montfrans	0
+965	Ruud Meijer	0
+966	John Heymans	0
+967	Gregor Laschen	0
+968	Ernst Jandl	0
+969	Michael O'Loughlin	0
+970	Jinke Obbema	0
+971	Joseph Campbell	0
+972	Philippe Jaccottet	0
+973	Mark Schaevers	0
+974	Marc Reynebeau	0
+975	Walter van den Broeck	0
+976	Gust Faes	0
+977	Georges Adé	0
+978	Julien Vandiest	0
+979	Monika van Paemel	0
+980	Herman de Coninck	0
+981	Lucienne Stassaert	0
+982	Claude Korban	0
+983	Nic van Bruggen	0
+984	Michel Bartosik	0
+985	Frans Denissen	0
+986	Wim van Rooy	0
+987	Piet Meeuse	0
+988	Michel Oukhow	0
+989	Hugo Brems	0
+990	Mark Insingel	0
+991	Stefaan van den Bremt	0
+992	Nico Frijda	0
+993	Annet Mooij	0
+994	Jolande Withuis	0
+995	Marijke Smalbraak	0
+996	Rogi Wieg	0
+997	Peter Zonderland	0
+998	Joost Zwagerman	0
+999	Martin Reints	0
+1000	Laurens van Schie	0
+1001	Rudi Wester	0
+1002	Hans Groenewegen	0
+1003	Marc Reugebrink	0
+1004	Ian Gibson	0
+1005	Nan Lenders	0
+1006	Evert van Uitert	0
+1007	Kees Mercks	0
+1008	Greetje van den Bergh	0
+1009	Max van Rooy	0
+1010	Edgar Rice Burroughs	0
+1011	K. Kolthoff	0
+1012	Geert Maessen	0
+1013	Arjen Duinker	0
+1014	K. Michel	0
+1015	Jan van der Waals	0
+1016	Graa Boomsma	0
+1017	Patricia de Martelaere	0
+1018	C.J.F. Stuldreher	0
+1019	Helena Spanjaard	0
+1020	Jero Gardenia	0
+1021	Fred Spier	0
+1022	Dirk van Weelden	0
+1023	Oscar van Weerdenburg	0
+1024	Thomas Rosenlöcher	0
+1025	Frank Albers	0
+1026	Joachim von der Thüsen	0
+1027	Paul van der Heijde	0
+1028	J.W. Onderdelinden	0
+1029	Maarten Doorman	0
+1030	L. Laeyendecker	0
+1031	Karin van Lierop	0
+1032	Jean A. Schalekamp	0
+1033	René Boomkens	0
+1034	Arnold Heumakers	0
+1035	Bert Jansma	0
+1036	Jules de Corte	0
+1037	Marc Schreurs	0
+1038	Henny Vlot	0
+1039	Ko Kooman	0
+1040	Maarten van der Wee	0
+1041	Karl Renner	0
+1042	Niek Muller	0
+1043	Jan Juffermans	0
+1044	Maria van Daalen	0
+1045	Cisca Dresselhuys	0
+1046	Hans Maarten van den Brink	0
+1047	Maxim de Winter	0
+1048	Klaus Theweleit	0
+1049	Michiel Mastenbroek	0
+1050	Henk Harbers	0
+1051	Andries Sarlemijn	0
+1052	Wouter Donath Tieges	0
+1053	Michiel van Kempen	0
+1054	Joanna Werners	0
+1055	Nardo Aluman	0
+1056	Lourina de Voogd	0
+1057	Theo Damsteegt	0
+1058	Orlando Emanuels	0
+1059	Surianto	0
+1060	Christine D'haen	0
+1061	Jeroen J.H. Dekker	0
+1062	Jan Brands	0
+1063	Els Launspach	0
+1064	Joël Cahen	0
+1065	Maarten Asscher	0
+1066	Hans Bendien	0
+1067	Henriëtte Boas	0
+1068	Christa Schuenke	0
+1069	Maruschka Romijn	0
+1070	Anneke Brassinga	0
+1071	Christine Delhaye	0
+1072	Carine Meulders	0
+1073	Rokus Hofstede	0
+1074	Koen Dille	0
+1075	Jaap Kruithof	0
+1076	Leo Apostel	0
+1077	Rik Lina	0
+1078	Saskia Poldervaart	0
+1079	W.S. Huberts	0
+1080	Nico de Haas	0
+1081	Steven Barends	0
+1082	Bert Wartena	0
+1083	Kamiel Vanhole	0
+1084	Ward Ruyslinck	0
+1085	M.J.P.M. Weijtens	0
+1086	Olga Krijtová	0
+1087	Felix de Rooy	0
+1088	Roel J. den Dulk	0
+1089	Theo Para	0
+1090	Wim Neetens	0
+1091	Marcel Bénabou	0
+1092	Gemma Pappot	0
+1093	Cyrille Offermans	0
+1094	Sjoerd de Vries	0
+1095	Maurice van Lieshout	0
+1096	Gert Hekma	0
+1097	Willy Spillebeen	0
+1098	Marc Groenhuijsen	0
+1099	Jos Joosten	0
+1100	Jack van der Weide	0
+1101	Hans Kloos	0
+1102	Marc Kregting	0
+1103	Charlotte Mutsaers	0
+1104	J.W. Nobel	0
+1105	Charles Simic	0
+1106	Frans van Zetten	0
+1107	W.E. Krul	0
+1108	Fransje Klaver	0
+1109	Clem Schouwenaars	0
+1110	Gaston Eyskens	0
+1111	Conny Kristel	0
+1112	H.W.J. Drijvers	0
+1113	Ben van der Velden	0
+1114	Peter van Ham	0
+1115	Vincent Hunink	0
+1116	R.Th. van der Paardt	0
+1117	Piet Gerbrandy	0
+1118	Marja Brouwers	0
+1119	Cornelia Wilhelmina Bosch	0
+1120	Rien Verhoef	0
+1121	H.J. de Roy van Zuydewijn	0
+1122	C.M.J. Sicking	0
+1123	Julia Quak-Stoilova	0
+1124	Mark Smeets	0
+1125	Arend Heyting	0
+1126	Wim Denslagen	0
+1127	Gerrit Rietveld	0
+1128	Joes Segal	0
+1129	J.J. Wesselo	0
+1130	Jan Oegema	0
+1131	Sjoerd Kuyper	0
+1132	Charles Ducal	0
+1133	Marko Fondse	0
+1134	Frans van Woerden	0
+1135	Michael Ondaatje	0
+1136	Léon Hanssen	0
+1137	Casper Hakfoort	0
+1138	Geert van Beek	0
+1139	Ulrike Weinhold	0
+1140	Nan van Houte	0
+1141	Janny Donker	0
+1142	Jan Fabre	0
+1143	Robert Steijn	0
+1144	Ger Thijs	0
+1145	Tonie van Marle	0
+1146	Hana Bobková	0
+1147	Paul Binnerts	0
+1148	Marianne van Kerkhoven	0
+1149	Cas Enklaar	0
+1150	J.P. Stoop	0
+1151	Loek Zonneveld	0
+1152	Tom Blokdijk	0
+1153	Otto Valkman	0
+1154	Ritsaert ten Cate	0
+1155	Erik Slagter	0
+1156	Jan Blonski	0
+1157	Karol Lesman	0
+1158	Jan van der Meer	0
+1159	Gerard Ras	0
+1160	Gerard Rasch	0
+1161	Goenawan Mohamad	0
+1162	Hans Goedkoop	0
+1163	Rienk Visser	0
+1164	Joris Note	0
+1165	Ad ten Bosch	0
+1166	Hendrik de Waard	0
+1167	Gitte Postel	0
+1168	Hans Vandevoorde	0
+1169	Sjaak Commandeur	0
+1170	Cora Polet	0
+1171	K.-J. Citron	0
+1172	Henri Beunders	0
+1173	J.C. Hess	0
+1174	Franz Baermann Steiner	0
+1175	Annemiek Munstermann	0
+1176	Bodo Kirchhoff	0
+1177	Walter Debrock	0
+1178	Peter Abelsen	0
+1179	Frans Geraedts	0
+1180	Leonard de Jong	0
+1181	Connie Palmen	0
+1182	Tijn Boon	0
+1183	Bart Vervaeck	0
+1184	Georgine Sanders	0
+1185	Anna Enquist	0
+1186	Jacques Arends	0
+1187	Erik Spinoy	0
+1188	Dirk van Bastelaere	0
+1189	Peter Ghyssaert	0
+1190	Dirk de Geest	0
+1191	Nanda van den Berg	0
+1192	Esther Jansma	0
+1193	Catherine Barel	0
+1194	Fernando Venâncio	0
+1195	Harrie Lemmens	0
+1196	Mário-Henrique Leiria	0
+1197	Sophia de Mello Breyner Andresen	0
+1198	Luís de Sousa Rebelo	0
+1199	Jan Ritsma	0
+1200	Emanuel Overbeeke	0
+1201	Frank Kouwenhoven	0
+1202	Gerrit Serné	0
+1203	Willy Coolsaet	0
+1204	David Vaughan	0
+1205	Mark Richartz	0
+1206	Theodore Roethke	0
+1207	Marcel Möring	0
+1208	Lela Zeckovic	0
+1209	Guy Widdershoven	0
+1210	Chris van Houts	0
+1211	Tonnus Oosterhoff	0
+1212	Xandra Schutte	0
+1213	Margriet de Moor	0
+1214	Ed Leeflang	0
+1215	Peter Nijssen	0
+1216	Frida Vogels	0
+1217	Atte Jongstra	0
+1218	Weldon Kees	0
+1219	Yves van Kempen	0
+1220	Nelleke Noordervliet	0
+1221	Frank vande Veire	0
+1222	Thomas Rosenboom	0
+1223	Jan Hein Furnée	0
+1224	Sybren Modderman	0
+1225	Jorge Esquinca	0
+1226	Alexander Koesjner	0
+1227	Onno Kosters	0
+1228	Simon Armitage	0
+1229	Anne Duden	0
+1230	Michael Donhauser	0
+1231	Bruno K. Öijer	0
+1232	Peter Yvon de Vries	0
+1233	Ulrich Meister	0
+1234	Johan Reyniers	0
+1235	Hugo Dittberner	0
+1236	Karl Edersheimer	0
+1237	Roland Jaccard	0
+1238	Slavoj Zizek	0
+1239	Anton Ent	0
+1240	Phillip Herring	0
+1241	Jan Lampo	0
+1242	Winnie Sorgdrager	0
+1243	Johan de Boose	0
+1244	Lut Missinne	0
+1245	Kristien Hemmerechts	0
+1246	Thomas Leeflang	0
+1247	Rudy Bremer	0
+1248	Frank Reijnders	0
+1249	Derek Walcott	0
+1250	Les Murray	0
+1251	Monica Soeting	0
+1252	Chris Rutenfrans	0
+1253	Jeanne Holierhoek	0
+1254	Graciliano Ramos	0
+1255	Leon Gommers	0
+1256	Serge van Duijnhoven	0
+1257	André Schmitz	0
+1258	Ernst van Altena	0
+1259	Josef Winkler	0
+1260	Chris Honingh	0
+1261	Mattijs van de Port	0
+1262	Ariejan Korteweg	0
+1263	Maghiel van Crevel	0
+1264	Chuan Xi	0
+1265	Peter Buwalda	0
+1266	Martijn van Calmthout	0
+1267	Yücel Yesilgöz	0
+1268	Ankie Lempens	0
+1269	Kees 't Hart	0
+1270	Maria de Groot	0
+1271	Hein Groen	0
+1272	Jan Heemstra	0
+1273	Maarten Elzinga	0
+1274	Jacques Westerhoven	0
+1275	Peter Verhelst	0
+1276	Wislawa Szymborska	0
+1277	Felicitas Hoppe	0
+1278	C.F. van Beusekom	0
+1279	Sjaak Koenis	0
+1280	Michael Eenhoorn	0
+1281	William T. Vollmann	0
+1282	Pol Hoste	0
+1283	Hugo Bousset	0
+1284	Kreek Daey Ouwens	0
+1285	M. Februari	0
+1286	Leo Pleysier	0
+1287	Koen Peeters	0
+1288	Yra van Dijk	0
+1289	Goffe Jensma	0
+1290	Geert Mak	0
+1291	Harry Oosterhuis	0
+1292	Leo van Maris	0
+1293	Arjen Mulder	0
+1294	Ciaran Carson	0
+1295	Flip de Kam	0
+1296	Tomas Vanheste	0
+1297	Ido de Haan	0
+1298	Joost Niemöller	0
+1299	Irene Costera Meijer	0
+1300	Juergen Teller	0
+1301	Paul Bogaert	0
+1302	Geert Buelens	0
+1303	Kees Bokweide	0
+1304	Manon Uphoff	0
+1305	Kees Vreugdenhil	0
+1306	Erik Menkveld	0
+1307	Charles Reznikoff	0
+1308	Lennart Sjögren	0
+1309	Ria Loohuizen	0
+1310	Arnon Grunberg	0
+1311	Bart Moeyaert	0
+1312	Helga Ruebsamen	0
+1313	Pierre Michon	0
+1314	David Foster Wallace	0
+1315	Durs Grünbein	0
+1316	Robbert-Jan Henkes	0
+1317	Erik Bindervoet	0
+1318	Miguel Declercq	0
+1319	Carla Bogaards	0
+1320	Fred Dijs	0
+1321	Pam Emmerik	0
+1322	Tijs Goldschmidt	0
+1323	Huib Schwab	0
+1324	Jos van der Lans	0
+1325	Peter Theunynck	0
+1326	Marjoleine de Vos	0
+1327	Hans Onno van den Berg	0
+1328	Simon Frith	0
+1329	Jacob ter Veldhuis	0
+1330	Kees Vuyk	0
+1331	Elma van Haren	0
+1332	Peter Holvoet-Hanssen	0
+1333	Pieter Cramer	0
+1334	Ivan Nio	0
+1335	Mustafa Stitou	0
+1336	Thomas Vaessens	0
+1337	José van Dijck	0
+1338	Erwin Mortier	0
+1339	Jonathan Treitel	0
+1340	Jan Job	0
+1341	Erik Jespersen	0
+1342	L. Patris	0
+1343	Karel Dekeukeleire	0
+1344	John L. Brown	0
+1345	Hans Reykers	0
+1346	Alex de Herdt	0
+1347	Jos van der Steen	0
+1348	Raymond Pouilliart	0
+1349	Remy C. van de Kerckhove	0
+1350	Paul Vanderschaeghe	0
+1351	Prosper de Smet	0
+1352	Eugène van Itterbeek	0
+1353	Joris Delameillieure	0
+1354	Fernand Auwera	0
+1355	Robin Hannelore	0
+1356	Daniël van Ryssel	0
+1357	Ludo Abicht	0
+1358	Lionel Deflo	0
+1359	Manuel Kneepkens	0
+1360	Julien Vangansbeke	0
+1361	Jan Vanriet	0
+1362	Hedwig Speliers	0
+1363	Roger Pieters	0
+1364	Alstein	0
+1365	Steven Membrecht	0
+1366	Frans Depeuter	0
+1367	Dirk Christiaens	0
+1368	Jo Gisekin	0
+1369	Wilfried Adams	0
+1370	Kees Simhoffer	0
+1371	Fjodor Sologoeb	0
+1372	Boris Tomas	0
+1373	Miel Vanstreels	0
+1374	Jan Vaerten	0
+1375	Jef Barthels	0
+1376	Luuk Gruwez	0
+1377	Claude van de Berge	0
+1378	Herman Sabbe	0
+1379	Jef van Gool	0
+1380	Frans Deschoemaeker	0
+1381	Erika Dedinszky	0
+1382	Marc Andries	0
+1383	Paul Koeck	0
+1384	Gerrit Bakker	0
+1385	Joris Denoo	0
+1386	Rudolf van de Perre	0
+1387	R.A. Basart	0
+1388	Bob van Laerhoven	0
+1389	J.H. van Dijk	0
+1390	Willy Lauwens	0
+1391	Hanna Kirsten	0
+1392	Bert Kooijman	0
+1393	Car Flanders	0
+1394	Hervé J. Casier	0
+1395	Maurice D'Haese	0
+1396	Eriek Verpale	0
+1397	Jean-Marie Maes	0
+1398	George Huppert	0
+1399	Jos Janssen	0
+1400	F.R. Gilfillan	0
+1401	Jozef Eyckmans	0
+1402	Roger Serras	0
+1403	Gilbert Decock	0
+1404	Wim de Poorter	0
+1405	Pjeroo Roobjee	0
+1406	Frans van Isacker	0
+1407	Maria van der Moer	0
+1408	Rita Ghesquiere	0
+1409	Hendrik Carette	0
+1410	Roger Binnemans	0
+1411	Johan Ballegeer	0
+1412	Karel Hellemans	0
+1413	Louis Dieltjens	0
+1414	Bert Bevers	0
+1415	Wim Hofman	0
+1416	Wessel te Gussinklo	0
+1417	M.K. van der Steeg	0
+1418	Lisette Keustermans	0
+1419	W. van Dort	0
+1420	Wouter Kotte	0
+1421	Koen Vermeiren	0
+1422	Rudy de Rybel	0
+1423	E. Standaert	0
+1424	Jules A. Deelder	0
+1425	Rob Bartels	0
+1426	Frank Liedel	0
+1427	L.D. Couprie	0
+1428	Lieve Scheer	0
+1429	J. Hoet	0
+1430	Raf Coorevits	0
+1431	Frans Kuipers	0
+1432	Hugo Brutin	0
+1433	Elke Brems	0
+1434	Bert Nienhuis	0
+1435	Hedda Martens	0
+1436	Guido Eekhaut	0
+1437	Frans Berkelmans	0
+1438	Piet Thomas	0
+1439	G.M. van Asperen	0
+1440	Leendert Witvliet	0
+1441	Willy Balyon	0
+1442	Bouke B. Jagt	0
+1443	J.H. van Geemert	0
+1444	Mark Kinet	0
+1445	Leander Hanssen	0
+1446	Elisabeth Marain	0
+1447	Guy Rombouts	0
+1448	Alex van Gelder	0
+1449	Joris Gerits	0
+1450	August Thiry	0
+1451	Hans Bouma	0
+1452	Wim Pendrecht	0
+1453	Stefaan Evenepoel	0
+1454	Frank Pollet	0
+1455	Jan van Coillie	0
+1456	Lambert Jageneau	0
+1457	Jaap van der Bent	0
+1458	Ida Vos	0
+1459	Margaretha Ferguson	0
+1460	Hans de Greve	0
+1461	Luk De Vos	0
+1462	Patricia vanden Bulcke	0
+1463	Karel Roelants	0
+1464	Mark Eyskens	0
+1465	Bernard Dewulf	0
+1466	Vic Nachtergaele	0
+1467	Hugo Heyens	0
+1468	Nel Veenboer	0
+1469	Jan Flamend	0
+1470	Frans de Clercq	0
+1471	Guus Vleugel	0
+1472	Luc Vanhaecke	0
+1473	Mark de Bie	0
+1474	Maurits Schuyten	0
+1475	Nicolette Smabers	0
+1476	H.C. Halberstadt-Freud	0
+1477	Anne van Herreweghen	0
+1478	Luc Renders	0
+1479	Gilbert Swimberghe	0
+1480	Marc Potiau	0
+1481	Luk Lambrechts	0
+1482	Ray Gilles	0
+1483	A. Roels	0
+1484	Jo Govaerts	0
+1485	Urbain Marin	0
+1486	Jef Snauwaert	0
+1487	J.J. Roest van Alkemade	0
+1488	Maurits van Saene	0
+1489	D.M. Schenkeveld	0
+1490	Bart Vonck	0
+1491	Toon Saelens	0
+1492	Lieven de Cauter	0
+1493	Lenze L. Bouwers	0
+1494	Emile Clemens	0
+1495	Pierre Alechinsky	0
+1496	Raf de Smedt	0
+1497	Gilbert van Hool	0
+1498	Rik Deweerdt	0
+1499	Steven Wilsens	0
+1500	Leen Huet	0
+1501	Bob Carlier	0
+1502	Fem Rutke	0
+1503	Miriam Van hee	0
+1504	Greet Vandepitte	0
+1505	Johan Reijmerink	0
+1506	Els Vos	0
+1507	Tom Schalken	0
+1508	Ewoud de Kat	0
+1509	Jutka Rona	0
+1510	Boris Todoroff	0
+1511	Kishin Shinoyama	0
+1512	Rafaël Gorsen	0
+1513	Dany Tulkens	0
+1514	Jo Boon	0
+1515	Lieve Blancquaert	0
+1516	Dees de Bruyne	0
+1517	Hans Vermeulen	0
+1518	Dirk Huyghe	0
+1519	Jacques De Visscher	0
+1520	Stefaan Somers	0
+1521	Eddy Walrave	0
+1522	Rik Vermeersch	0
+1523	Judit Gera	0
+1524	Bart Janssen	0
+1525	Joke van Leeuwen	0
+1526	Heppe de Moor	0
+1527	Geertrui Daem	0
+1528	Annemiek Neefjes	0
+1529	C. Wilkeshuis	0
+1530	Carl de Keyzer	0
+1531	Yves T'Sjoen	0
+1532	Luk van den Dries	0
+1533	A.F.Th. van der Heijden	0
+1534	Kaat Tilley	0
+1535	Herman Leenders	0
+1536	Eric de Volder	0
+1537	Guido Vrolix	0
+1538	Carl Friedman	0
+1539	Rolf Wolfswinkel	0
+1540	Johan Vandenbroucke	0
+1541	Peter Verstraten	0
+1542	Pascal Cornet	0
+1543	Bernardo Ashetu	0
+1544	Lieven Baeyens	0
+1545	Kristiaan Borret	0
+1546	Dianne Hagen	0
+1547	Prosper Dinges	0
+1548	Ultra Violet	0
+1549	Johnny Maeschalck	0
+1550	Walter Verdin	0
+1551	Guido van Heulendonk	0
+1552	Idel Ianchelevici	0
+1553	Gerard van Elden	0
+1554	Nic van Beeck	0
+1555	Stefan Brijs	0
+1556	L. Frank	0
+1557	J. M. Welcker	0
+1558	Jan Gonda	0
+1559	Jeanette van der Valk	0
+1560	A.J.A. Fehr	0
+1561	S.N. Bakker	0
+1562	J.J. Moerman	0
+1563	John W.M. Verhaar	0
+1564	Tj.A. Westendorp	0
+1565	Hub Zwart	0
+1566	Matthias Prangel	0
+1567	Arnoud Wils	0
+1568	Amélie de Man	0
+1569	M.D. Henkel	0
+1570	Frans Hannema	0
+1571	J.P. van Lonkhuijzen	0
+1572	Arie Mout	0
+1573	Johannes van Melle	0
+1574	G.M. de Gelder	0
+1575	Hans Reddingius	0
+1576	Inge Tielman	0
+1577	Dick Steenkamp	0
+1578	Frederice Kalmijn	0
+1579	J.U. Terpstra	0
+1580	H.H. Grünhagen	0
+1581	Fred van Leeuwen	0
+1582	Maarten Mourik	0
+1583	Frans van der Linde	0
+1584	Caroline Rehorst-de Westenholz	0
+1585	Majorie Bottenheim	0
+1586	A.E. Kersten	0
+1587	L.J. de Ruiter	0
+1588	Peter J.A. Nissen	0
+1589	Frank Daen	0
+1590	G.R. Zondergeld	0
+1591	Tine Leiker-Kooijmans	0
+1592	René Klinkenbergh	0
+1593	Jaap de Moor	0
+1594	G.W.B. Borrie	0
+1595	Kees de Bakker	0
+1596	Maarten Vrolijk	0
+1597	Ann Van Sevenant	0
+1598	Robert van Amerongen	0
+1599	Konstantínos Chatzópoulos	0
+1600	Strátis Myriwílis	0
+1601	Arthur Constandse	0
+1602	Jórgos Theotokás	0
+1603	L. Sluimers	0
+1604	Manja Croiset	0
+1605	Swan-Liat Kwee	0
+1606	J.H.L. Laps	0
+1607	H. Leffelaar	0
+1608	José María de Semprún Gurrea	0
+1609	Zbigniew Ogonowski	0
+1610	Adri Laan	0
+1611	Friederike Granberg	0
+1612	Pandelis Prewelakis	0
+1613	Paul van der Loeff	0
+1614	J. Patijn	0
+1615	J.B. Bakema	0
+1616	Bernard van Delfshaven	0
+1617	Heinz Neudecker	0
+1618	C. Ch. Mout	0
+1619	Teo Anton van Kooten	0
+1620	Jerzy Holzer	0
+1621	Astère Michel Dhondt	0
+1622	Th.J. Hooning	0
+1623	J.H. de Haas-Posthuma	0
+1624	H.Th. Kok	0
+1625	W. van der Marck	0
+1626	G.G. Bauman	0
+1627	Maarten van Dullemen	0
+1628	René Louis Gysen	0
+1629	Kazimir Malewitsj	0
+1630	F.N. Jansen	0
+1631	Seymour L. Flaxman	0
+1632	Raymond Kaye	0
+1633	John Drager	0
+1634	Ben Wolken	0
+1635	J.B. de Caluwé	0
+1636	C. Monster	0
+1637	A.J. Welschen	0
+1638	Bert Hofman	0
+1639	Hubert Janssen	0
+1640	Serge Govaert	0
+1641	Th.H. van Doorn	0
+1642	N.H. Ridderbos	0
+1643	Dorian Cumps	0
+1644	Gerrit van Olivier	0
+1645	N. Rowan	0
+1646	Franc Schuerewegen	0
+1647	Sytske Sötemann	0
+1648	Émile Verhaeren	0
+1649	Eberhard Nehlsen	0
+1650	Gisleine Peeters	0
+1651	A.H.M. de Graaf	0
+1652	A. van der Zwan	0
+1653	Franco Ferrarotti	0
+1654	Luc Pierre Maes	0
+1655	Philippe Cailliau	0
+1656	Eleonore Vigenon	0
+1657	Werner Cranshoff	0
+1658	Konstantínos Kaváfis	0
+1659	G.E. Woneman	0
+1660	P.O. Eet	0
+1661	Jan Das	0
+1662	Ev. Grolle	0
+1663	Hans Arup	0
+1664	C yrus Ataban	0
+1665	Walter Toman	0
+1666	Henk Kooijman	0
+1667	Jan Donia	0
+1668	Kees Ouboter	0
+1669	Johan Schooneberg	0
+1670	Frans Vanderlinde	0
+1671	G. Tuil	0
+1672	J.F.M.J. Jansen	0
+1673	A.J. van Dulst	0
+1674	Jan D. 't Lam	0
+1675	Peter van Amstel	0
+1676	Viviane Geuffens	0
+1677	Martha Gerlo	0
+1678	Jozef Marechal	0
+1679	L.P. van den Bergh	0
+1680	Raymond Jouve	0
+1681	G. de Vocht	0
+1682	C.H.A. Broos	0
+1683	Han ten Brummelhuis	0
+1684	Josef Goedertier	0
+1685	Jean-Luc Lambreghts	0
+1686	Monica Droste	0
+1687	T. Noordenbos-de Klerk	0
+1688	Jacob Léon Wertheim	0
+1689	Herman Gorter	1
+1690	H. Mol	1
+1691	J. Wille	1
+1692	P.N. van Eyck	1
+1693	J.H. Leopold	1
+1694	W.A.P. Smit	1
+1695	Heleen Hoekstra	1
+1696	J. de Jong	1
+1697	F.A. Vercammen	1
+1698	Peter van Gestel	1
+1699	Titus Brandsma	1
+1700	D. Plooij	1
+1701	Willem Bilderdijk	1
+1702	C.C. Berg	1
+1703	W.H. Beuken	1
+1704	Louis Couperus	1
+1705	Garmt Stuiveling	1
+1706	A. Sassen	1
+1707	W.J.C. Buitendijk	1
+1708	L. Peeters	1
+1709	J. Karsemeijer	1
+1710	P. Minderaa	1
+1711	J.A. Worp	1
+1712	Montanus	1
+1713	K.J. Hahn	1
+1714	M. Rutten	1
+1715	Jan de Weert	1
+1716	Willem van den Berg	1
+1717	W.J.A. Jonckbloet	1
+1718	H. Roose	1
+1719	Theo Hermans	1
+1720	H. Vos	1
+1721	R. Vos	1
+1722	Taco Roorda	1
+1723	F.A. Snellaert	1
+1724	John Bake	1
+1725	A. Quak	1
+1726	Michaël Wilhelm Scheltema	1
+1727	J. Gerritsen	1
+1728	Anton Gillis Cornelis van Duyl	1
+1729	Sadi de Gorter	1
+1730	J. de Groot	1
+1731	A.J.C. Geerts	1
+1732	Jan Herman	1
+1733	Rolande	1
+1734	Jan Knol	1
+1735	R.M. van Goens	1
+1736	J. Winkler Prins	1
+1737	F.W.N. Hugenholtz	1
+1738	H. Mulder	1
+1739	J. Bosch	1
+1740	W. Martin	1
+1741	Maurits van Hattum	1
+1742	Jan te Winkel	1
+1743	F. de Jong	1
+1744	C.H. den Hertog	1
+1745	H. Hulshof	1
+1746	J. van Santen	1
+1747	Jan van der Veen	1
+1748	André van Hasselt	1
+1749	F.A. Stoett	1
+1750	Emmanuel de Bom	1
+1751	Hendrik van Dijk	1
+1752	Willem Visser	1
+1753	anoniem Ridder metter swane	1
+1754	J.F.D. Blöte	1
+1755	Eugeen van Oye	1
+1756	Nellie van Kol	1
+1757	R.C. Boer	1
+1758	Frans Claes	1
+1759	H. Zwaardemaker	1
+1760	G.A. Nauta	1
+1761	Elizabeth Visser	1
+1762	C.B. Hylkema	1
+1763	Tine van Buul	1
+1764	P. Leendertz (jr.)	1
+1765	Bas Veth	1
+1766	Theo Thijssen	1
+1767	H. Duits	1
+1768	H.J.E. Endepols	1
+1769	Carry van Bruggen	1
+1770	Matthijs Siegenbeek	1
+1771	E. Rijpma	1
+1772	J.A.N. Knuttel	1
+1773	J. van Oudshoorn	1
+1774	S.P.E. Boshoff	1
+1775	P.C. Schoonees	1
+1776	P.J. Meertens	1
+1777	W. Feuilletau de Bruyn	1
+1778	J. van IJzeren	1
+1779	W. de Vries	1
+1780	T.J.C. Gerritsen	1
+1781	C.L. Heesakkers	1
+1782	J.M.J. Schepper	1
+1783	E.T. Kuiper	1
+1784	B. de Ligt	1
+1785	G.S. Nienaber	1
+1786	G.S. Overdiep	1
+1787	A.W. de Groot	1
+1788	Louis Gillet	1
+1789	Jan Hulsker	1
+1790	L. Brummel	1
+1791	L.C. Michels	1
+1792	K. Kooiman	1
+1793	Eduard A. Serrarens	1
+1794	M.M. Prinsen	1
+1795	Paul van Ostaijen	1
+1796	G.G. Kloeke	1
+1797	Edward Rombauts	1
+1798	H. Drion	1
+1799	L.M. van Dis	1
+1800	H.W. van Tricht	1
+1801	Ida Gerhardt	1
+1802	J. Naarding	1
+1803	K. Fokkema	1
+1804	A.J. Jansen	1
+1805	C.F.P. Stutterheim	1
+1806	K. ter Laan	1
+1807	F. Lulofs	1
+1808	F.K.H. Kossmann	1
+1809	L.W. de Bree	1
+1810	C.B. van Haeringen	1
+1811	H. Bonger	1
+1812	Willem de Jong	1
+1813	Paul de Keyser	1
+1814	Maarten Klein	1
+1815	F. Veenstra	1
+1816	G. Kazemier	1
+1817	G.A. van Es	1
+1818	S. Dresden	1
+1819	Herman Meyer	1
+1820	H. Nieuwenhuis	1
+1821	B. Hunningher	1
+1822	A.A. Weijnen	1
+1823	A. van Loey	1
+1824	W.C. van Unnik	1
+1825	J.C. Arens	1
+1826	Maartje Draak	1
+1827	Paul A.G. Dibon	1
+1828	J.L. Swellengrebel	1
+1829	Lou Vleugelhof	1
+1830	Maria Dermoût	1
+1831	A. Bouwman	1
+1832	Karel Meeuwesse	1
+1833	H. de la Fontaine Verwey	1
+1834	A.L. Sötemann	1
+1835	H.H.J. de Leeuwe	1
+1836	G. Geerts	1
+1837	Hanny Michaelis	1
+1838	Guido Eeckels	1
+1839	C. Bittremieux	1
+1840	G. Jo Steenbergen	1
+1841	Reinder P. Meijer	1
+1842	W.J.H. Caron	1
+1843	P. Maximilianus O.F.M. Cap.	1
+1844	Rob Nieuwenhuys	1
+1845	Herman Uyttersprot	1
+1846	René Goris	1
+1847	G. Quispel	1
+1848	Frans Debrabandere	1
+1849	E.H. Kossmann	1
+1850	J.J.A. Mooij	1
+1851	Adriaan J. Barnouw	1
+1852	Ary Delen	1
+1853	Gilbert Degroote	1
+1854	C.A. Zaalberg	1
+1855	J.C. Trimp	1
+1856	Marga Minco	1
+1857	Attila József	1
+1858	A. Kibédi Varga	1
+1859	Sándor Weöres	1
+1860	J.J. Oversteegen	1
+1861	W.M.H. Hummelen	1
+1862	N.C.H. Wijngaards	1
+1863	Harry G.M. Prick	1
+1864	C.M. Geerars	1
+1865	J.C. Kamerbeek	1
+1866	Willem Frederik Hermans	1
+1867	G.W. Huygens	1
+1868	S.F. Witstein	1
+1869	L. Strengholt	1
+1870	Wilfred Smit	1
+1871	C.J.E. Dinaux	1
+1872	J.G. Bomhoff	1
+1873	H. Bianchi	1
+1874	G.J. Resink	1
+1875	F. van der Blij	1
+1876	D.J.H. ter Horst	1
+1877	W. Drop	1
+1878	W. Blok	1
+1879	Willem Brakman	1
+1880	P.H. Pott	1
+1881	A.G.H. Bachrach	1
+1882	J.A. van Dorsten	1
+1883	J. Weisgerber	1
+1884	Ada Deprez	1
+1885	J.M.J. Sicking	1
+1886	G. van der Meer	1
+1887	O.M. de Vaal	1
+1888	N. Brugman-Begemann	1
+1889	J.A.G. Tans	1
+1890	H.C.J. Duijker	1
+1891	J.F. Heijbroek	1
+1892	P. Hijmans	1
+1893	Jan van Dam	1
+1894	Herman Servotte	1
+1895	Umberto Eco	1
+1896	Neeltje Maria Min	1
+1897	Noam Chomsky	1
+1898	Marcel Janssen	1
+1899	Marcel Janssens	1
+1900	G.H. van Es	1
+1901	Enno Endt	1
+1902	Carel Swinkels	1
+1903	H.M. Ruitenbeek	1
+1904	Luk Wenseleers	1
+1905	A. Mooij	1
+1906	Gerard Termorshuizen	1
+1907	Pieter A.M. Seuren	1
+1908	W.G. Klooster	1
+1909	W.J.M. Levelt	1
+1910	S.C. Dik	1
+1911	H.J. Verkuyl	1
+1912	A. Kraak	1
+1913	D.M. Bakker	1
+1914	Charles Grivel	1
+1915	R.P. Botha	1
+1916	J.G. Kooij	1
+1917	Frida Balk-Smit Duyzentkunst	1
+1918	C. Kruyskamp	1
+1919	Geert Evert Booij	1
+1920	O.J. de Jong	1
+1921	H.F.J.M. van den Eerenbeemt	1
+1922	A.T. Vos	1
+1923	D.W. Fokkema	1
+1924	Bernt Luger	1
+1925	T.A. van Dijk	1
+1926	Marc Galle	1
+1927	Friedhelm Debus	1
+1928	Camiel Hamans	1
+1929	Willem Wilmink	1
+1930	Hugo Brandt Corstius	1
+1931	Jan Fontijn	1
+1932	Sies de Haan	1
+1933	Klaus Beekman	1
+1934	F.L. van Holthoon	1
+1935	Pramudya Ananta Tur	1
+1936	Hessel Miedema	1
+1937	Marten Toonder	1
+1938	J. Boers	1
+1939	C. de Deugd	1
+1940	J.P. Guépin	1
+1941	André Brink	1
+1942	Robert S. Cohen	1
+1943	Jan Stroop	1
+1944	Jacob Groot	1
+1945	Karel Reijnders	1
+1946	J.M. Bremer	1
+1947	Herman Pleij	1
+1948	Jean Améry	1
+1949	Rutger Kopland	1
+1950	Breyten Breytenbach	1
+1951	Frank Martinus Arion	1
+1952	Rien T. Segers	1
+1953	Ton Korver	1
+1954	L. Kolakowski	1
+1955	F.G. Droste	1
+1956	J. Goossens	1
+1957	Pieter de Meijer	1
+1958	Peter van Zonneveld	1
+1959	H.P.H. Teesing	1
+1960	H.W.J. Vekeman	1
+1961	J.W. Oerlemans	1
+1962	Jan Kuijper	1
+1963	F. Vos	1
+1964	Rudolf Dekker	1
+1965	N. de Paepe	1
+1966	Pieter Lukkenaer	1
+1967	J.W. Steenbeek	1
+1968	Louis Ferron	1
+1969	Eddy van Vliet	1
+1970	Paul Hadermann	1
+1971	H.T. Boonstra	1
+1972	Grahame Lock	1
+1973	Maaike Meijer	1
+1974	Rob Grootendorst	1
+1975	T. Kruiger	1
+1976	C.J. Ruijgh	1
+1977	Els Elffers	1
+1978	Alied Blom	1
+1979	Evert Werkman	1
+1980	Saskia Daalder	1
+1981	J.M. van der Horst	1
+1982	Frans H. van Eemeren	1
+1983	J.H. Maureau	1
+1984	W.K.B. Koning	1
+1985	J. Griffioen	1
+1986	H. Schultink	1
+1987	H. van Gorp	1
+1988	Herman Roodenburg	1
+1989	J. Beijk	1
+1990	J. Fischer	1
+1991	Lea Dasberg	1
+1992	A.H. de Groot	1
+1993	E.M. Uhlenbeck	1
+1994	Jaap Goedegebuure	1
+1995	Oscar de Wit	1
+1996	Anthony Mertens	1
+1997	Judicus Verstegen	1
+1998	Harry Scholten	1
+1999	Philippe Noble	1
+2000	R. Vanderauwera	1
+2001	E.M. Beekman	1
+2002	J. van Heugten	1
+2003	R. Lindeman	1
+2004	Annie van den Oever	1
+2005	Hannes Meinkema	1
+2006	Arie Rip	1
+2007	Jona Oberski	1
+2008	A.J. Hanou	1
+2009	H.W. Pleket	1
+2010	Hans van de Braak	1
+2011	Gary Schwartz	1
+2012	Willem G. Weststeijn	1
+2013	Ariane van Santen	1
+2014	P.J. de Voogd	1
+2015	Arthur Langeveld	1
+2016	Hans Bertens	1
+2017	Elisabeth Roudinesco	1
+2018	August Hans den Boef	1
+2019	C.W. van de Watering	1
+2020	W.W. Mijnhardt	1
+2021	A. de Groot	1
+2022	Jan van den Velden	1
+2023	E.M. Janssen Perio	1
+2024	Pim de Vroomen	1
+2025	Gerard de Vries	1
+2026	P.E.L. Verkuyl	1
+2027	Jan Lechner	1
+2028	H. Schuttevâer	1
+2029	Gerhard Dünnhaupt	1
+2030	A.J. Dunning	1
+2031	Wilt Idema	1
+2032	A.M. Hagen	1
+2033	M.C. van den Toorn	1
+2034	Jo Daan	1
+2035	Dédé Brouwer	1
+2036	Cor van Bree	1
+2037	J.W. de Vries	1
+2038	B. van den Berg	1
+2039	Marinel Gerritsen	1
+2040	Wim Zonneveld	1
+2041	Mieke Trommelen	1
+2042	W.A. Ornée	1
+2043	B.C. Damsteegt	1
+2044	Wout Ultee	1
+2045	René Bekius	1
+2046	G.H.M. Posthumus Meyjes	1
+2047	Hans Anten	1
+2048	Joris Duytschaever	1
+2049	Paul Claes	1
+2050	Bram Kempers	1
+2051	D.P. Blok	1
+2052	J.J. Woltjer	1
+2053	F. Drijkoningen	1
+2054	S.A.J. van Faassen	1
+2055	H.A. Wage	1
+2056	Leo Herberghs	1
+2057	Joke Huisman	1
+2058	Edmund Licher	1
+2059	Luk Adriaens	1
+2060	Frank Ligtvoet	1
+2061	Elrud Ibsch	1
+2062	Cok van der Voort	1
+2063	Ludo Simons	1
+2064	W.J. Aerts	1
+2065	Peter Verstegen	1
+2066	Etienne van Heerden	1
+2067	Rob Wolfs	1
+2068	Raymond van den Broeck	1
+2069	Anneke Neijt	1
+2070	Q.W.J. Daas	1
+2071	G.J. Vis	1
+2072	Kitty M. van Leuven-Zwart	1
+2073	G.J. de Haan	1
+2074	W.J. van den Akker	1
+2075	G.J. Dorleijn	1
+2076	C. van de Ketterij	1
+2077	A.D. Leeman	1
+2078	Maarten van Buuren	1
+2079	Jan van Luxemburg	1
+2080	M.H. Schenkeveld	1
+2081	Ger Groot	1
+2082	Olf Praamstra	1
+2083	Peter King	1
+2084	Leonard Forster	1
+2085	A.J. Goblet (d'Alviella)	1
+2086	Hans Hom	1
+2087	Sitor Situmorang	1
+2088	Kees Snoek	1
+2089	Gerrit-Jan Berendse	1
+2090	H. Schröder	1
+2091	P. van Hees	1
+2092	Guus Middag	1
+2093	Ad Zuiderent	1
+2094	Henk Hillenaar	1
+2095	Anton Korteweg	1
+2096	Kas Deprez	1
+2097	P.C. Paardekooper	1
+2098	A. Wynants	1
+2099	J. Taeldeman	1
+2100	Jozef Deleu	1
+2101	Roland Mortier	1
+2102	Anne Marie Musschoot	1
+2103	Nop Maas	1
+2104	A. van Elslander	1
+2105	F.L. Bastet	1
+2106	Fr. Daems	1
+2107	W.P. Gerritsen	1
+2108	C. Schmidt	1
+2109	Joop van den Berg	1
+2110	Marius Buning sr.	1
+2111	Antoine Bodar	1
+2112	J.H. Croon	1
+2113	Marijke Spies	1
+2114	Mieke B. Smits-Veldt	1
+2115	Adriaan Venema	1
+2116	Jan Kostwinder	1
+2117	M.J. Trappenburg	1
+2118	G.C. Molewijk	1
+2119	Liesbeth Dolk	1
+2120	Tobie Goedewaagen	1
+2121	Marita Mathijsen	1
+2122	Riet de Jong-Goossens	1
+2123	M.F. Fresco	1
+2124	H.H. Kubbinga	1
+2125	Lieneke Frerichs	1
+2126	J.D.F. van Halsema	1
+2127	Arie Zevenhuijzen	1
+2128	Mary G. Kemperink	1
+2129	Anton van Wilderode	1
+2130	Eva Gerlach	1
+2131	Léopold Sédar Senghor	1
+2132	Wina Born	1
+2133	A. van Mourik	1
+2134	W.H.M. Mattens	1
+2135	F. Jansonius	1
+2136	Agnes Verbiest	1
+2137	A. Agnes Sneller	1
+2138	P.J. Buijnsters	1
+2139	J.J. Kloek	1
+2140	Ron Elshout	1
+2141	Geert Koefoed	1
+2142	Wim Rutgers	1
+2143	Ernst van Alphen	1
+2144	Mieke Bal	1
+2145	Ria van den Brandt	1
+2146	Rob Tempelaars	1
+2147	Hugo Verdaasdonk	1
+2148	Rudi Laermans	1
+2149	Bart Verschaffel	1
+2150	Frank van den Bogaard	1
+2151	J.A. Dautzenberg	1
+2152	A.R. Hol	1
+2153	Richard Todd	1
+2154	Winnie Todd-Kooy	1
+2155	Theo D'haen	1
+2156	Durk Gorter	1
+2157	André Lefevere	1
+2158	Zofia Klimaszewska	1
+2159	Peter Meel	1
+2160	André Kramp	1
+2161	G.F.H. Raat	1
+2162	Mineke Schipper	1
+2163	E.W.F. van den Elzen	1
+2164	J.J.M. Bakker	1
+2165	Hans van Stralen	1
+2166	Doris Edel	1
+2167	H.A.J.F. Misset	1
+2168	Mieke Koenen	1
+2169	P.H. Schrijvers	1
+2170	Reinold Vugs	1
+2171	Hans Renders	1
+2172	Anita Wijzenbroek-Zoethout	1
+2173	Wilbert Smulders	1
+2174	Alette van Doggenaar	1
+2175	Jeanette Koekman	1
+2176	Gerrit Jan Zwier	1
+2177	Odile Heynders	1
+2178	W. Bronzwaer	1
+2179	Irene de Jong	1
+2180	Peter Buijs	1
+2181	Ina Schermer-Vermeer	1
+2182	J. Leenen	1
+2183	H. Bauer	1
+2184	Caroline van Eck	1
+2185	Frank Joostens	1
+2186	W.R.H. Koops	1
+2187	Pamela Koevoets	1
+2188	Hans Oranje	1
+2189	Joep Leerssen	1
+2190	Hugo Dyserinck	1
+2191	Willem Frijhoff	1
+2192	Ton Hoenselaars	1
+2193	Helen Gerretsen	1
+2194	Niels Helsloot	1
+2195	Gerrit Noordzij	1
+2196	C.C. de Bruin	1
+2197	Cees van Dijk	1
+2198	Gerard Unger	1
+2199	Christoph Noordzij	1
+2200	Cees Koster	1
+2201	Edwin Krijgsman	1
+2202	Chris Lorenz	1
+2203	Lies Wesseling	1
+2204	Maarten van Delden	1
+2205	Per Hojholt	1
+2206	Annelies van Hees	1
+2207	Arie Pos	1
+2208	E.K. Grootes	1
+2209	Ben Peperkamp	1
+2210	Eric de Kuyper	1
+2211	Olga Sedakova	1
+2212	P.J. Vinken	1
+2213	H.A.M. Snelders	1
+2214	H.J. Houte	1
+2215	Geert Lernout	1
+2216	Ido Weijers	1
+2217	Martien Kappers	1
+2218	Karen Vintges	1
+2219	Beatrijs Ritsema	1
+2220	Karel Capek	1
+2221	Frans Ruiter	1
+2222	K. van Berkel	1
+2223	Gerrit Valk	1
+2224	F. Bulhof	1
+2225	Bibiana Mikkelsen	1
+2226	Arnaq Grove	1
+2227	Pamela Pattynama	1
+2228	Armand van Assche	1
+2229	B. Sliggers	1
+2230	Robert Gernhardt	1
+2231	Gerrie Bruil	1
+2232	van der Veur	1
+2233	J. Verest	1
+2234	Piet van Assche	1
+2235	P. Soens	1
+2236	Jozef Vercoullie	1
+2237	René Gaspar	1
+2238	J. Coenen	1
+2239	Robert van Passen	1
+2240	Jos Vermeulen	1
+2241	A.C. Bouman	1
+2242	Th. De Ronde	1
+2243	Edward van Even	1
+2244	Victor Naveau	1
+2245	Oscar Dambre	1
+2246	J.F.J. van Tol	1
+2247	Willem van Eeghem	1
+2248	J. Rombouts	1
+2249	J.F. Vanderheyden	1
+2250	B.H. Erné	1
+2251	J.C. van der Does	1
+2252	Chr. Stapelkamp	1
+2253	G.I. Lieftinck	1
+2254	Günther Müller	1
+2255	Emiel van Hemeldonck	1
+2256	J.L. Pauwels	1
+2257	Lode Roose	1
+2258	A.J. de Jong	1
+2259	Aloïs Gerlo	1
+2260	W. Everaet	1
+2261	J.J. Mak	1
+2262	Lieven Rens	1
+2263	Jos Smeyers	1
+2264	Lode Wils	1
+2265	Fa Claes	1
+2266	F.L. Zwaan	1
+2267	Paul Brondeel	1
+2268	Gerd Segers	1
+2269	J.D.P. Warners	1
+2270	L.H. Wiener	1
+2271	J.J.M. Westenbroek	1
+2272	Bert Verm	1
+2273	Antoine Braet	1
+2274	René Appel	1
+2275	J. Uyttendaele	1
+2276	Helma Wolf-Catz	1
+2277	Jan de Piere	1
+2278	Jozef Boets	1
+2279	P.F. Schmitz	1
+2280	Jan Biezen	1
+2281	M.A. Schenkeveld-van der Dussen	1
+2282	A.N. Paasman	1
+2283	Hanneke van Buuren	1
+2284	Johanna Kruit	1
+2285	G.M. Mesland	1
+2286	F.C. Terborgh	1
+2287	Charles Vergeer	1
+2288	P.P.J. van Caspel	1
+2289	P.J. Verkruijsse	1
+2290	José Lambert	1
+2291	L. Macken	1
+2292	G.R.W. Dibbets	1
+2293	Freddy Puts	1
+2294	W. Gobbers	1
+2295	Wijnand Steemers	1
+2296	Eep Francken	1
+2297	W. Waterschoot	1
+2298	Paul Schampaert	1
+2299	Mark Braet	1
+2300	W.F. Jonckheere	1
+2301	J. Reynaert	1
+2302	Aleidis Dierick	1
+2303	B.W.E. Veurman	1
+2304	Philip Vermoortel	1
+2305	R. Breugelmans	1
+2306	Jaak De Maere	1
+2307	Dirk Coigneau	1
+2308	Marleen de Crée-Roex	1
+2309	Nienke Bakker	1
+2310	Carlos Tindemans	1
+2311	Robert Lagrain	1
+2312	Jos Houtsma	1
+2313	Marcel de Smedt	1
+2314	Eric Derluyn	1
+2315	Ingrid van de Wijer	1
+2316	F. de Tollenaere	1
+2317	Frank de Glas	1
+2318	Mark Baeyens	1
+2319	Rabin Gangadin	1
+2320	Michel Dupuis	1
+2321	Willem Bijsterbosch	1
+2322	B.M. Salman	1
+2323	J. Huyghebaert	1
+2324	Frank Jansen	1
+2325	Riemer Reinsma	1
+2326	Karel Porteman	1
+2327	Ludo Verbeeck	1
+2328	Piet Couttenier	1
+2329	Paul Verhuyck	1
+2330	Herman Balthazar	1
+2331	Jan Nuyts	1
+2332	Harry Bekkering	1
+2333	Clem Neutjens	1
+2334	Julien Vermeulen	1
+2335	R. Dellaert	1
+2336	Annie Verhaeghe	1
+2337	Hilda van Assche	1
+2338	J. Hoogteijling	1
+2339	Ineke Bulte	1
+2340	A.M.J. van Buuren	1
+2341	F.P. van Oostrom	1
+2342	D. Geeraerts	1
+2343	J.J.V.M. de Vet	1
+2344	E. van der Starre	1
+2345	J.H. Winkelman	1
+2346	Marieke M. van Oostrom	1
+2347	A.M. Duinhoven	1
+2348	J. de Gier	1
+2349	C. Reedijk	1
+2350	G. de Bruijn	1
+2351	D. Delabastita	1
+2352	A. Sturm	1
+2353	W.E. Hegman	1
+2354	C. Angelet	1
+2355	Tim Krabbé	1
+2356	A.E. Jacobs	1
+2357	P.P. Schmidt	1
+2358	Gerben Wynia	1
+2359	Jan Schoolmeesters	1
+2360	Herman Koch	1
+2361	J.J. de Rooij	1
+2362	Jaap de Rooij	1
+2363	Herbert van Uffelen	1
+2364	Esteban López	1
+2365	J.C. Kannemeyer	1
+2366	L. Mosheuvel	1
+2367	L. Beheydt	1
+2368	Hans Vanacker	1
+2369	Jos Verhoogen	1
+2370	Joost van der Vleuten	1
+2371	J.J. Goossens	1
+2372	J. Deschamps	1
+2373	Veerle Uyttersprot	1
+2374	Amand Berteloot	1
+2375	Frank Willaert	1
+2376	Paul Pelckmans	1
+2377	Gerbrand Muller	1
+2378	Kasimierz Bendkowski	1
+2379	Victor Burgin	1
+2380	K. van der Stighelen	1
+2381	Frans Kingma	1
+2382	Eric Vos	1
+2383	Pieter Boskma	1
+2384	H.F.A. van der Lubbe	1
+2385	A.G.F. van Holk	1
+2386	A.E. Cohen	1
+2387	J.A. Huisman	1
+2388	A.J. van Duyvendijk	1
+2389	Frederik Willem Nicolaas Hugenholtz	1
+2390	T.A. Birrell	1
+2391	B. Siertsema	1
+2392	C.L. Thijssen-Schoute	1
+2393	Frank C. Maatje	1
+2394	Wiecher Zwanenburg	1
+2395	Louise Kaiser	1
+2396	J. van der Eng	1
+2397	A.J.J. de Witte	1
+2398	G. Nuchelmans	1
+2399	G.F. Bos	1
+2400	J.B. Drewes	1
+2401	W.A.M. de Vroomen	1
+2402	B.J. Hoff	1
+2403	H. Prudon	1
+2404	Steven ten Brinke	1
+2405	Louise Statenus	1
+2406	S.A.P.J.H. Iansen	1
+2407	B.Th. Tervoort	1
+2408	G.A.C. Hubers	1
+2409	R.S. Prins	1
+2410	E. Wagenaar-Cornelissen	1
+2411	J.G. Schippers	1
+2412	Ronald Landheer	1
+2413	W. Hogendoorn	1
+2414	Co Vet	1
+2415	J.M.H. Vossen	1
+2416	L. Pepplinkhuizen	1
+2417	A.W.G. Eijgendaal	1
+2418	Sjaak de Mey	1
+2419	S.G. Nooteboom	1
+2420	Mojmír Grygar	1
+2421	Willem Mooijman	1
+2422	H.J. Brinkman	1
+2423	B.P.F. Al	1
+2424	A.L. des Tombe	1
+2425	Guus Extra	1
+2426	H. Entjes	1
+2427	W. Kaper	1
+2428	Horst A. Steinmetz	1
+2429	Gerard Kempen	1
+2430	D.J.M. ten Berge	1
+2431	J.G.P. Best	1
+2432	Antonie Cohen	1
+2433	A.A. Verrijn Stuart	1
+2434	A. Ollongren	1
+2435	P.G.J. van Sterkenburg	1
+2436	Maurits Gysseling	1
+2437	Em. Kummer	1
+2438	Johan Mönninck	1
+2439	Theo Walraven	1
+2440	Alfred G.H. Kerckhoffs	1
+2441	A.G. Sciarone	1
+2442	P.A. Verburg	1
+2443	Harry van der Hulst	1
+2444	L. Boves	1
+2445	A.C.M. Rietveld	1
+2446	Jan van Bakel	1
+2447	Teun Hoekstra	1
+2448	S.J. Lenselink	1
+2449	Th. van den Hoek	1
+2450	Arnold Evers	1
+2451	Flor Aarts	1
+2452	Jan Koster	1
+2453	J. van Marle	1
+2454	Thijs Pollmann	1
+2455	Johan van Benthem	1
+2456	W. Pijnenburg	1
+2457	M.J. Moortgat-Keukelinck	1
+2458	A. Moerdijk	1
+2459	Hans Heestermans	1
+2460	Erik Maten	1
+2461	E. Nuijtens	1
+2462	D. Otten	1
+2463	Arthur Eijffinger	1
+2464	P. Th. van Reenen	1
+2465	A. Dees	1
+2466	Marie-Louise Montulet	1
+2467	Dina Aristodemo	1
+2468	A.P. de Bont	1
+2469	L.H. Hoek	1
+2470	A. Feitsma	1
+2471	A.J. van Essen	1
+2472	Dolf Hartveldt	1
+2473	Roger Henrard	1
+2474	Jelle Kaldewaij	1
+2475	Jos Hoogeveen	1
+2476	Bert van Selm	1
+2477	Rosalien van Witsen	1
+2478	Herman Koningsveld	1
+2479	Tom Etty	1
+2480	J.A. de Vries	1
+2481	Dirk Geeraerts	1
+2482	Theo van Els	1
+2483	Bernadette van der Heijden	1
+2484	W.U.S. van Lessen Kloeke	1
+2485	J.J. le Roux	1
+2486	J.P. Fokkelman	1
+2487	Annemiek Geurts	1
+2488	Marijke Loots	1
+2489	Julia van Gunsteren-Viersen	1
+2490	Pieter Nieuwint	1
+2491	Frank Berndsen	1
+2492	Henk Bloemhoff	1
+2493	V.J.J.P. van Heuven	1
+2494	J.G. Kruyt	1
+2495	F.R. Klinkhamer	1
+2496	Josien Lalleman	1
+2497	Tibor Klaniczay	1
+2498	B.P. Visser	1
+2499	Erica van Boven	1
+2500	Marjan Birkenhäger	1
+2501	Jeanette den Ouden	1
+2502	Arie Verhagen	1
+2503	Peter V. Zima	1
+2504	Harry Verschuren	1
+2505	Adeline Petersen	1
+2506	Will Derks	1
+2507	Ton van Haaften	1
+2508	Annelies Pauw	1
+2509	J.J.L. Smolenaars	1
+2510	A.M. Mertens	1
+2511	Rob Doeve	1
+2512	Bert Schouten	1
+2513	C.S.M. Rademaker	1
+2514	Guy Janssens	1
+2515	Annechien Vink	1
+2516	Fokkelien van Dijk-Hemmes	1
+2517	Arrie van Berkel	1
+2518	Dick Springorum	1
+2519	Evert van den Berg	1
+2520	N. van der Blom	1
+2521	Erica C. García	1
+2522	J. Knol	1
+2523	Hans Bennis	1
+2524	Dorothé te Riele	1
+2525	Erica Huls	1
+2526	P. Stijnen	1
+2527	Sophie Levie	1
+2528	Frans de Haan	1
+2529	Chantal Keijsper	1
+2530	Bob Rigter	1
+2531	J. Baart	1
+2532	N. van der Laan	1
+2533	H.F. van de Velde	1
+2534	H. Proeme	1
+2535	B. van Heusden	1
+2536	Henk Nuiten	1
+2537	Annemarie Kets	1
+2538	M.K. van Dort-Slijper	1
+2539	C. Gussenhoven	1
+2540	Arthur Kooyman	1
+2541	Kees-Jan Backhuys	1
+2542	Jacques van Alphen	1
+2543	Jan Klein	1
+2544	Lo van Driel	1
+2545	Dick Schram	1
+2546	L.C.W. Pols	1
+2547	Raymond Vervliet	1
+2548	Johan van der Auwera	1
+2549	Willy Vandeweghe	1
+2550	Johan Kerstens	1
+2551	Arie-Jan Gelderblom	1
+2552	K. de Bot	1
+2553	C.L.J. de Bot	1
+2554	Lisan van Beurden	1
+2555	Fred Weerman	1
+2556	Korrie Korevaart	1
+2557	Aafke Hulk	1
+2558	Tanja Janssen	1
+2559	Grietje van Ginneken	1
+2560	Gerhard Kuipers	1
+2561	Ares Koopman	1
+2562	J. Lachlan Mackenzie	1
+2563	Casper de Groot	1
+2564	Dirk Geirnaert	1
+2565	Ben van der Have	1
+2566	M.F. Steehouder	1
+2567	C.J.M. Jansen	1
+2568	Els van Houten	1
+2569	R.M. van Zonneveld	1
+2570	Jef Bogman	1
+2571	Kees Meerhoff	1
+2572	Hans den Haan	1
+2573	C.D. Grijns	1
+2574	Jacqueline Bel	1
+2575	Peter van Bart	1
+2576	Arthur Dirksen	1
+2577	Jeannette M. Hollaar	1
+2578	Aaldrik Koops	1
+2579	Will van Peer	1
+2580	Jaap de Jong	1
+2581	M.C.A. van der Heijden	1
+2582	P. Schellens	1
+2583	Theo A.J.M. Janssen	1
+2584	N.F. Streekstra	1
+2585	Marijke J. van der Wal	1
+2586	F.H. Jansen	1
+2587	H.J. Pott	1
+2588	A.P. Braakhuis	1
+2589	Gert de Jager	1
+2590	Marc van der Poel	1
+2591	Walter Haeseryn	1
+2592	Reinier Salverda	1
+2593	Margreet Onrust	1
+2594	S. De Vriendt	1
+2595	L. van Herpt	1
+2596	W. Fagel	1
+2597	O.J. Schrier	1
+2598	C.B.M. Wingen	1
+2599	Els Jongeneel	1
+2600	Jacomine Nortier	1
+2601	H.F. Schatz	1
+2602	Essa Reijmers	1
+2603	Lucia Nankoe	1
+2604	Ralf Grüttemeier	1
+2605	Klazien Laansma	1
+2606	Marca Schasfoort	1
+2607	Ruurd R. Nauta	1
+2608	Alida Toussaint-Dekker	1
+2609	Robert S. Kirsner	1
+2610	J. Neubauer	1
+2611	Alpita de Jong	1
+2612	Sandro Briosi	1
+2613	J.V. Schmöler	1
+2614	J.B. Berns	1
+2615	Rolf Zwaan	1
+2616	J.A. van Leuvensteijn	1
+2617	H.M. Hermkens	1
+2618	Yvette Stoops	1
+2619	J.W. de Jong	1
+2620	Alain Bossuyt	1
+2621	Ann Rigney	1
+2622	Margreet den Buurman	1
+2623	Joke van der Wiel	1
+2624	Hanneke Mulder	1
+2625	Dini Hogenelst	1
+2626	Ad Foolen	1
+2627	Wardy Poelstra	1
+2628	Saskia van As	1
+2629	Anneli Schaufeli	1
+2630	R.H. Bremmer Jr.	1
+2631	Marnel Breure	1
+2632	Tini Booij	1
+2633	Joke Linders	1
+2634	Ulla Musarra-Schrøder	1
+2635	Matthias Hüning	1
+2636	Gust de Groote	1
+2637	Bram Jagersma	1
+2638	Marjan Grootveld	1
+2639	R.H. Baayen	1
+2640	Henk de Berg	1
+2641	Honoré Schelfhout	1
+2642	Paul Bogaards	1
+2643	Anneke van Luxemburg-Albers	1
+2644	Justine Pardoen	1
+2645	Menno Spiering	1
+2646	Ton Groeneweg	1
+2647	Claartje Levelt	1
+2648	Jacqueline Frijn	1
+2649	Els Weijers	1
+2650	Jan Konst	1
+2651	Els Schrover	1
+2652	P.A.F. van Veen	1
+2653	Sytze Wiersma	1
+2654	Els Andringa	1
+2655	Thijs Jansen	1
+2656	H. Meyers	1
+2657	Isabel Hoving	1
+2658	Jan Noordegraaf	1
+2659	Katinka Dijkstra	1
+2660	Dicky Gilbers	1
+2661	Christoph Sauer	1
+2662	Frank van Vree	1
+2663	Marlies Philippa	1
+2664	Joris Vlasselaers	1
+2665	Luc Herman	1
+2666	Arie Schippers	1
+2667	Sjef Houppermans	1
+2668	K. Roelandts	1
+2669	Walter Schönau	1
+2670	Roel Zemel	1
+2671	Pierre Swiggers	1
+2672	W.F.G. Breekveldt	1
+2673	Saskia Tellegen-van Delft	1
+2674	Diederik Grit	1
+2675	Jacqueline Hulst	1
+2676	Anneke Nunn	1
+2677	Wim Honselaar	1
+2678	Aleid Fokkema	1
+2679	Margarete van Ackeren	1
+2680	José Sanders	1
+2681	Gisela Redeker	1
+2682	Tannelie Blom	1
+2683	Ton Nijhuis	1
+2684	Peter Bakema	1
+2685	Stef Slembrouck	1
+2686	J.A.M. Komen	1
+2687	F.A.M. Riem Vis	1
+2688	Ton Hendrix	1
+2689	Jelle Stegeman	1
+2690	H. Bonset	1
+2691	Ingrid Tieken-Boon van Ostade	1
+2692	F. van der Rhee	1
+2693	Wilma Siccama	1
+2694	Tieme van Dijk	1
+2695	F.W. Korsten	1
+2696	Dirk Boutkan	1
+2697	A.G. van Melle	1
+2698	Kees van der Waerden	1
+2699	R. Jansen-Sieben	1
+2700	Frank Brandsma	1
+2701	Rintsje Piter Sybesma	1
+2702	Leonie Cornips	1
+2703	Hans Broekhuis	1
+2704	Sonja Kobus	1
+2705	Jèmeljan Hakemulder	1
+2706	Geert Adriaens	1
+2707	René Jongen	1
+2708	Annelies Schulte Nordholt	1
+2709	Jos van Winkel	1
+2710	Matthijs Engelberts	1
+2711	Marjolijn Verspoor	1
+2712	Louise Cornelis	1
+2713	Wim de Haas	1
+2714	Margreet de Lange	1
+2715	Ute Langner	1
+2716	Solange Leibovici	1
+2717	Matthijs Bakker	1
+2718	Ton van der Wouden	1
+2719	Johannes Couperus	1
+2720	Em. Querido	1
+2721	J. Rietema	1
+2722	G.J. Nieuwenhuis	1
+2723	Jo van Ham	1
+2724	H.A. Höweler	1
+2725	B.H.D. Hermesdorf	1
+2726	Edgard Blancquaert	1
+2727	Marius F. Valkhoff	1
+2728	Johan de Vries	1
+2729	W.F.J.M. Krul	1
+2730	Wobbe de Vries	1
+2731	F. Ketner	1
+2732	G.J. Uitman	1
+2733	Brocardus Meyer	1
+2734	H.L. Bezoen	1
+2735	J. Steur	1
+2736	W. Roukens	1
+2737	August Gittée	1
+2738	P.H.G. van Gilse	1
+2739	H.T.J. Miedema	1
+2740	J.S. Schippers	1
+2741	J.M.A.F. Smits van Waesberghe	1
+2742	M.J. Kloeke-van Lessen	1
+2743	E. Pelinck	1
+2744	W.J. Formsma	1
+2745	Wim Brinkman	1
+2746	A.H. van der Weel	1
+2747	J.M. Willeumier-Schalij	1
+2748	D.L. Daalder	1
+2749	Aart Veder	1
+2750	C.E. Pothast-Gimberg	1
+2751	H.J.J.M. van der Merwe	1
+2752	Th. Weevers	1
+2753	L. Koelmans	1
+2754	Paul van der Meulen	1
+2755	F.J.P. Peeters	1
+2756	A.A. Keersmaekers	1
+2757	S.A. Louw	1
+2758	F.X. van der Straten-Waillet	1
+2759	B.A. Mensink	1
+2760	Pieter Obbema	1
+2761	M.A. Nauwelaerts	1
+2762	A. Aerts	1
+2763	F.A. Brekelmans	1
+2764	E. Hendrikx	1
+2765	B. Spaapen	1
+2766	Gerda van Woudenberg	1
+2767	W.P. Blockmans	1
+2768	F.R.J. Knetsch	1
+2769	R.L.J. Bromberg	1
+2770	P. Gerbenzon	1
+2771	W.J. Buma	1
+2772	J.J. Huizinga	1
+2773	Hendrik Jan Reinink	1
+2774	Kåre Langvik-Johannessen	1
+2775	A. Gruijs	1
+2776	H.J.J. Scholtens	1
+2777	H.J. Vieu-Kuik	1
+2778	J.P. Westgeest	1
+2779	Jan J. van Herpen	1
+2780	Klaas Iwema	1
+2781	Willem de Blécourt	1
+2782	S.L. Verheus	1
+2783	S. Groenveld	1
+2784	Johannes van der Schaar	1
+2785	F.C. Fensham	1
+2786	Adrianus van Selms	1
+2787	M. Stapert-Eggen	1
+2788	Gerard J. Hooykaas	1
+2789	J. Roelevink	1
+2790	L.J.J. Olivier	1
+2791	J.E. Bogaers	1
+2792	M. van de Ven	1
+2793	P.L.M. Tummers	1
+2794	Wim Vermeer	1
+2795	V.F. Vanacker	1
+2796	F. van Elmbt	1
+2797	A.J.M. Linmans	1
+2798	U. Knops	1
+2799	Eric M. Moormann	1
+2800	Tineke ter Meer	1
+2801	Ton van Strien	1
+2802	Boeli van Leeuwen	1
+2803	P.J.A. Franssen	1
+2804	J. Trapman	1
+2805	Johanna J.M. Meijers	1
+2806	Ton Harmsen	1
+2807	C.M. Verkroost	1
+2808	K.J. Bostoen	1
+2809	Marijke Meijer Drees	1
+2810	B.P.M. Dongelmans	1
+2811	Lisa Kuitert	1
+2812	Jan-Wouter Zwart	1
+2813	Ad Leerintveld	1
+2814	G. van Eemeren	1
+2815	Leo Jansen	1
+2816	E.P. Meijering	1
+2817	Marcel Hoebeke	1
+2818	M.J.M. de Haan	1
+2819	Soetje Oppenhuis de Jong	1
+2820	Otto S. Lankhorst	1
+2821	A.D.A. Monna	1
+2822	Wim Hendriks	1
+2823	Siegfried Huigen	1
+2824	Hubert Meeus	1
+2825	René van Stipriaan	1
+2826	Hans Luijten	1
+2827	Kiki Hannema	1
+2828	Gerhard Worgt	1
+2829	Marcus de Schepper	1
+2830	Ferdinand van Ingen	1
+2831	J. IJsewijn	1
+2832	A. Maljaars	1
+2833	G.C. de Waard	1
+2834	Pieter Grashoff	1
+2835	Joke Moeljono	1
+2836	Johan van Os	1
+2837	Tadeusz Rózewicz	1
+2838	Jérôme Decroos	1
+2839	Krine Boelens	1
+2840	Tsjou Li-po	1
+2841	Alex Bolckmans	1
+2842	Johan Jansen	1
+2843	H. Doedens	1
+2844	G. Beumer	1
+2845	W.L. Bezema	1
+2846	Reind Kuitert	1
+2847	Luc Salu	1
+2848	M.J. Francken	1
+2849	H.A.C. Spoelstra-Spruyt	1
+2850	F. den Eerzamen	1
+2851	Mirjam Ernestus	1
+2852	Walter Couvreur	1
+2853	Ch.A. Thomas-Bourgeois	1
+2854	P. Stienstra	1
+2855	D. van Unnik	1
+2856	W.A.F. Janssen	1
+2857	F.G. Hesmerg	1
+2858	C.G.L. Apeldoorn	1
+2859	Judi I.H. Mendels	1
+2860	G.A. Watermeyer	1
+2861	A.H. Kooyker	1
+2862	Hendricus Sparnaay	1
+2863	A.G.J. Hermans	1
+2864	D. Holzscherer	1
+2865	Johannes Steenmeijer	1
+2866	A.E. Meeussen	1
+2867	N. de Bresser	1
+2868	Lambartus Stoppendaal Pieters zoon	1
+2869	G.W. Jansen	1
+2870	J.A. Verhage	1
+2871	Gilbert De Smet	1
+2872	F. van Vinckenroye	1
+2873	Bert Japin	1
+2874	M.A.F. Ostendorf	1
+2875	R. Lievens	1
+2876	C.J.H. Steketee	1
+2877	A.W.P. van Ree	1
+2878	G.J. Helmer	1
+2879	Theo Vindevogel	1
+2880	Luc Verbeke	1
+2881	Theo Oudkerk Pool	1
+2882	B. Ouwerkerk	1
+2883	D. Fokkema Sr.	1
+2884	P.J. Merckens	1
+2885	T.J.M. Versteeg	1
+2886	N.J. Schuurmans	1
+2887	F.K.M. Mars	1
+2888	A. Seeldraeyers	1
+2889	F.M. Gelens	1
+2890	Frank van Gestel	1
+2891	Norbert Morciniec	1
+2892	J. Kwekkeboom	1
+2893	Albert van Hogenbemt	1
+2894	E.F. Wijsman	1
+2895	R. van Pottelbergh	1
+2896	J. Berits	1
+2897	B.W. Schippers	1
+2898	J.A.F. Wils	1
+2899	G. Scherps	1
+2900	Dora van Velden	1
+2901	P.H. van Laer	1
+2902	A. Jacob-Bekaert	1
+2903	Jacques Voisine	1
+2904	F.C. Driessen	1
+2905	G. De Schutter	1
+2906	Henk Hollaar	1
+2907	S.A.E. van Puffelen	1
+2908	P. Julius O.F.M. Cap.	1
+2909	H. Furstner	1
+2910	F. Revet	1
+2911	J.J. Spa	1
+2912	R. Eeckhout	1
+2913	Berend Jager	1
+2914	G.J.P. van Hoek	1
+2915	Hugo Willem Bosscha	1
+2916	R.C. Engelberts	1
+2917	R.P.W. Visser	1
+2918	A.M.C. van Schaik-Verlee	1
+2919	G.H. Dijkstra	1
+2920	E. van der Heijden	1
+2921	F.J. Koopmans-Van Beinum	1
+2922	J.P. Willems	1
+2923	Ronald Spoor	1
+2924	J.D. Reeder	1
+2925	P.J.F.M. Eligh	1
+2926	Piet Delen	1
+2927	Hans van Dijk	1
+2928	Albert Schaalma	1
+2929	M.E. van Slooten	1
+2930	Jacques Zajicek	1
+2931	Fons van Buuren	1
+2932	Willem Graadt van Roggen	1
+2933	Odo Leys	1
+2934	Reinhilde Haest	1
+2935	E. Cramer-Peeters	1
+2936	Cola Minis	1
+2937	B. Rademaker-Helfferich	1
+2938	P. Hendrix	1
+2939	R. Hamburger	1
+2940	Roland Willemyns	1
+2941	W.J.M. van Calcar	1
+2942	M.C.A. Brongers	1
+2943	K.R. de Graaf	1
+2944	Coen Bersma	1
+2945	A.G.M. Vermeulen	1
+2946	J.P. Gumbert	1
+2947	H. van der Ploeg	1
+2948	Gysbert Koelstra	1
+2949	Paul van Hauwermeiren	1
+2950	M.G.M. Elling	1
+2951	Jan van Biezen	1
+2952	J. Molemans	1
+2953	H.M.J. van Galen	1
+2954	Jochen Becker	1
+2955	A.C. Hemmes-Hoogstadt	1
+2956	Willem M. Visser	1
+2957	E. Oey-de Vita	1
+2958	P.K. Niekerk	1
+2959	Alfred M.M. Dekker	1
+2960	Sonja Vanderlinden	1
+2961	N.C. van Velzen	1
+2962	J.H. Kamstra	1
+2963	Marijke Baars	1
+2964	Norval S.H. Smith	1
+2965	P. van der Woude	1
+2966	Kees Vellekoop	1
+2967	J. Goffard	1
+2968	Ton Goeman	1
+2969	J.F. Geerds	1
+2970	Jean Brüll	1
+2971	Rob Rentenaar	1
+2972	F. Steyaert	1
+2973	P. Lammens-Pikhaus	1
+2974	Wil Sterenborg	1
+2975	J.A. Verschoor	1
+2976	Hugo de Jonghe	1
+2977	D.H. Lammers	1
+2978	G. Gunneweg	1
+2979	Gerard Verhoeven	1
+2980	Freek de Leeuw	1
+2981	C.H. Kneepkens	1
+2982	M.S.J. Cox-Andrau	1
+2983	P.W.J.L. Gerretsen	1
+2984	Hanna Stouten	1
+2985	Domien ten Berge	1
+2986	Marie-José Desmet-Goethals	1
+2987	Karel Wauters	1
+2988	Jan Roukema	1
+2989	Bert van den Broeck	1
+2990	J.F.P. Smit	1
+2991	Toine Hovens	1
+2992	A.A. Monden	1
+2993	Willemien B. de Vries	1
+2994	H.Chr. van Bemmel	1
+2995	Frans Jong	1
+2996	Evelyn Wiers	1
+2997	Orlanda S.H. Lie	1
+2998	C. Rooker	1
+2999	Walter Bosch	1
+3000	Jos A.A.M. Biemans	1
+3001	P.N.G. Pesch	1
+3002	Louk Wijsen	1
+3003	P.M. Nieuwenhuijsen	1
+3004	J.C. van Aart	1
+3005	G. Gerritsen-Geywitz	1
+3006	Stanislaw Predota	1
+3007	H. Gilijamse	1
+3008	W.A.A.M. Merlijn	1
+3009	J.C. Prins s'Jacob	1
+3010	Henk Meter	1
+3011	Guido de Baere	1
+3012	Klaas van der Horst	1
+3013	J.L.C. van der Staak	1
+3014	Oskar Wellens	1
+3015	Helen Knopper	1
+3016	Marcel Bax	1
+3017	Renée van Bezooijen	1
+3018	Jaak van Schoor	1
+3019	Roger Gilis	1
+3020	Ton Vallen	1
+3021	Egon Berendsen	1
+3022	J. Kreuzen	1
+3023	Rudolf Rasch	1
+3024	Irene Spijker	1
+3025	L.E. Wirth-van Wijk	1
+3026	R.W.W.M. van der Drift	1
+3027	Tom Hage	1
+3028	L.H.M. Muris	1
+3029	M.P.R. van den Broecke	1
+3030	Jozef D. Janssens	1
+3031	F.J. Lodder	1
+3032	Lia van Gemert	1
+3033	Steven Gillis	1
+3034	J. A. Le Loux-Schuringa	1
+3035	J. Delsing	1
+3036	Paul Wackers	1
+3037	Robert Jan van der Drift	1
+3038	Jan de Roder	1
+3039	Didier L. Goyvaerts	1
+3040	Aafje Gijsen	1
+3041	G.P. van der Stroom	1
+3042	Henk Koeman	1
+3043	Paul Gillaerts	1
+3044	Lucie Huiskens	1
+3045	Patrick Wever	1
+3046	Bart Besamusca	1
+3047	P.S.N. Oost	1
+3048	T.M. Verhage-van den Berg	1
+3049	Astrid Joosse	1
+3050	Marijke Friesendorp	1
+3051	Martha Louise Komter	1
+3052	Leo Lentz	1
+3053	Wolfgang Herrlitz	1
+3054	Theo Coun	1
+3055	Eveline Buchheim	1
+3056	Anneke de Lange	1
+3057	Franciska de Jong	1
+3058	Baukje van Dam-Heringa	1
+3059	Hans Heinrich Meier	1
+3060	Bernhard F. Scholz	1
+3061	Jozien Moerbeek	1
+3062	Hanneke Houtkoop-Steenstra	1
+3063	Hans Kienhorst	1
+3064	F.J.A. Jagtenberg	1
+3065	Frits Beukema	1
+3066	Jip Wester	1
+3067	A.J. Geurts	1
+3068	Jacqueline de Man	1
+3069	Maaike Hogenhout-Mulder	1
+3070	Wilbert Spooren	1
+3071	N. Levi	1
+3072	Renaat J.G.A.A. Gaspar	1
+3073	W.C.E. Koksma-ten Cate	1
+3074	Herman Wekker	1
+3075	Ans van Kemenade	1
+3076	Luc Dirikx	1
+3077	L.M.G. Cremers	1
+3078	Fons Schoeters	1
+3079	Anneke C.G. Fleurkens	1
+3080	Marysa Demoor	1
+3081	N.J.P. van der Lof	1
+3082	A.W.M. Duyx	1
+3083	Rik Smits	1
+3084	R.P. Reisinger	1
+3085	Herman Giesbers	1
+3086	Louis Peter Grijp	1
+3087	Fabian R.W. Stolk	1
+3088	Kees Tamboer	1
+3089	Paula Vermeyden	1
+3090	F. Stuurman	1
+3091	Anja van Leusden	1
+3092	Stef Heyvaert	1
+3093	Hanneke Eggels	1
+3094	Fieny Pijls	1
+3095	Frank van den Dungen	1
+3096	Resy Delnoy	1
+3097	Jan Nijen Twilhaar	1
+3098	Casper H. Staal	1
+3099	Kees Singeling	1
+3100	Dieuwke E. van der Poel	1
+3101	S. Paul Verluyten	1
+3102	Freddy van Besien	1
+3103	J.P.M. Passage	1
+3104	Ada Vos-Postma	1
+3105	Jan Muylle	1
+3106	Els den Os	1
+3107	Rita Harder	1
+3108	Marijke Elstrodt	1
+3109	Paulien Smabers	1
+3110	Helen de Hoop	1
+3111	Frank Wijnen	1
+3112	J.Ph. van Oostrom	1
+3113	Coby Verheul	1
+3114	Rudi Hendrickx	1
+3115	Ingeborg van der Geest	1
+3116	Annejoke Smids	1
+3117	Els Eweg	1
+3118	U. Schuurs	1
+3119	Marc Van Vaeck	1
+3120	Valborg Isaachsen-Dudok van Heel	1
+3121	Henk van Kerkwijk	1
+3122	Michael Tophoff	1
+3123	Marc Carlier	1
+3124	M. Everaert	1
+3125	Frederike van der Leek	1
+3126	Maartje Süter	1
+3127	Eric Hoekstra	1
+3128	Ben Salemans	1
+3129	Jan Willem Klein	1
+3130	Meinardus Siderius Wal	1
+3131	Helga Bister-Broosen	1
+3132	Jan Tromp	1
+3133	L.M.J. van de Pol	1
+3134	Chris Coppens	1
+3135	Willy L. Braekman	1
+3136	G.L. van Lennep	1
+3137	Clara Strijbosch	1
+3138	Els Stronks	1
+3139	Frank van Lamoen	1
+3140	Theo Meder	1
+3141	Jelle Koopmans	1
+3142	Jan Dekker	1
+3143	Jan Bethlehem	1
+3144	Daniël Janssen	1
+3145	Johan Rooryck	1
+3146	Philippe Hiligsmann	1
+3147	Jan Laboyrie	1
+3148	G.F. van der Ree-Scholtens	1
+3149	Elly van Gelderen	1
+3150	Rik Sanders	1
+3151	Piet Verhoeff	1
+3152	Bert Schreurs	1
+3153	Bernd Albers	1
+3154	Petra Hendriks	1
+3155	Geert Warnar	1
+3156	Karin Tilmans	1
+3157	André Bouwman	1
+3158	Wim van Anrooij	1
+3159	Willem Noomen	1
+3160	Pascal Tasiaux	1
+3161	István Bejczy	1
+3162	Gert-Jan Johannes	1
+3163	Frederice van Faassen	1
+3164	Monika Triest	1
+3165	P.R.F. Verhoeven	1
+3166	Marit Monteiro	1
+3167	V.E. de Gruiter	1
+3168	Theo Bijvoet	1
+3169	Annelies van Gijsen	1
+3170	H.W.A. Nap	1
+3171	F.S. Jungschlager	1
+3172	Mark Kas	1
+3173	P.G. de Bruijn	1
+3174	Yvonne Kroonenberg	1
+3175	Thom Mertens	1
+3176	Marika Keblusek	1
+3177	Nel van Dijk	1
+3178	Emmeken van der Heijden	1
+3179	L.J. de Regt	1
+3180	Cees van der Pluijm	1
+3181	Mieke van Dalen	1
+3182	Marijke de Roeck	1
+3183	Norbert Corver	1
+3184	Erwin Mantingh	1
+3185	Wiep van Bunge	1
+3186	Joyce Pennings	1
+3187	E.A. Overgaauw	1
+3188	R.I.A. Nip	1
+3189	Gert Jan de Vries	1
+3190	Liesbeth Laport	1
+3191	Beppie van de Wege-de Rooy	1
+3192	Irene Chr. Blasczyk	1
+3193	Andrzej Dabrówka	1
+3194	Ardi Roelofs	1
+3195	Koen Goudriaan	1
+3196	Joke Nijhuis	1
+3197	C.C.M van Wissen	1
+3198	Luuk Lagerwerf	1
+3199	Louis Herreboudt	1
+3200	Olga van Marion	1
+3201	Linda Verstraten	1
+3202	A.E.M. Sturm	1
+3203	R. Cordes	1
+3204	Jan Kuys	1
+3205	Josien Brink-Hendriks	1
+3206	Joost Zwarts	1
+3207	Jan Bloemendal	1
+3208	Jan Bloem	1
+3209	Marjolein Hogenbirk	1
+3210	Goudina van Weert	1
+3211	Shrinivási	1
+3212	Bernadette Smelik	1
+3213	Elisabeth Kappner	1
+3214	Pyter Wagenaar	1
+3215	Corrie de Haan	1
+3216	Annemieke Meijer	1
+3217	Alex de Jager	1
+3218	Enny de Bruijn	1
+3219	Dominique de Vet	1
+3220	Louis Cornelis	1
+3221	Nelleke Moser	1
+3222	Dorthe Schipperheijn	1
+3223	W.R.D. van Oostrum	1
+3224	Petra Teunissen-Nijsse	1
+3225	Leonce du Catillon	1
+3226	Dominique Mys	1
+3227	Jan Roelans	1
+3228	Karel Deleu	1
+3229	Felisberto Hérnandez	1
+3230	Maria-Augusta Jacobs	1
+3231	H. Vandermoere	1
+3232	Nico de Vrede	1
+3233	I. Demarre	1
+3234	A. van Branteghem	1
+3235	Bruno B. Becker	1
+3236	Jules Van Ackere	1
+3237	G. van Gorp	1
+3238	Marc Joye	1
+3239	Reinier Ysabie	1
+3240	C.L. Hap	1
+3241	J. Dommisse	1
+3242	G.J. Vroeijenstijn	1
+3243	Irene Veenstra	1
+3244	A. Wylleman	1
+3245	Tom Naastepad	1
+3246	Lieven D' Hulst	1
+3247	Beatrijs De Groote	1
+3248	Els Rauschenberg	1
+3249	Bart Philipsen	1
+3250	Erik Hertog	1
+3251	Rik Van Daele	1
+3252	Ignace Bossuyt	1
+3253	Gerrard Verhage	1
+3254	Karel van den Eynde	1
+3255	Isaac van der Velde	1
+3256	C. van Coll	1
+3257	Albert Helman	2
+3258	Hendrik Andriessen	2
+3259	Henk Kuitenbrouwer	2
+3260	Henri Bruning	2
+3261	Jan Bruna	2
+3262	Albert Kuyle	2
+3263	Jan Engelman	2
+3264	Carel Scharten	2
+3265	Willem Maas	2
+3266	Frans Coenen	2
+3267	Herman Robbers	2
+3268	Roel Houwink	2
+3269	Dirk Coster	2
+3270	F. Bordewijk	2
+3271	Erich Wichman	2
+3272	Willem Pijper	2
+3273	Frederik van Eeden	2
+3274	M. Bruna	2
+3275	Just Havelaar	2
+3276	Gerard Bruning	2
+3277	Gerard Brom	2
+3278	Frans Erens	2
+3279	H. Marsman	2
+3280	Herman Menagé Challa	2
+3281	C.J. Kelk	2
+3282	H.W.J.M. Keuls	2
+3283	P.C. Boutens	2
+3284	Albert Verwey	2
+3285	Hélène Swarth	2
+3286	Wouter Hutschenruyter	2
+3287	J.A. Lambert-van der Kolf	2
+3288	Marie Gijsen	2
+3289	Rie Cramer	2
+3290	Johan de Meester	2
+3291	Pieter van der Meer de Walcheren	2
+3292	Max Brod	2
+3293	Willem Kloos	2
+3294	Daan van der Zee	2
+3295	Ina Boudier-Bakker	2
+3296	Maria Viola	2
+3297	Sybold van Ravesteyn	2
+3298	Huib Luns	2
+3299	Arthur van Schendel	2
+3300	Geerten Gossaert	2
+3301	Charley Toorop	2
+3302	Piet Visser	2
+3303	J. Eigenhuis	2
+3304	Jan Campert	2
+3305	Henriette Roland Holst-van der Schalk	2
+3306	J.C. Bloem	2
+3307	Jacob Israël de Haan	2
+3308	Aart van der Leeuw	2
+3309	Gerard van Eckeren	2
+3310	Jan van Nijlen	2
+3311	Job Steynen	2
+3312	Kees Meekel	2
+3313	G.P.M. Knuvelder	2
+3314	B.H. Molkenboer	2
+3315	Antoon Derkinderen	2
+3316	C.A. Terburg	2
+3317	P.A. Kerstens	2
+3318	Jop Pollmann	2
+3319	Matthijs Vermeulen	2
+3320	Jacques Schreurs	2
+3321	Menno ter Braak	2
+3322	Wouter Lutkie	2
+3323	Vincent Cleerdin	2
+3324	Constant van Wessem	2
+3325	Willem Nieuwenhuis	2
+3326	Emile Erens	2
+3327	Israël Querido	2
+3328	Gerben Colmjon	2
+3329	Charles Nypels	2
+3330	Charles Eyck	2
+3331	A. den Doolaard	2
+3332	Herman van den Bergh	2
+3333	Anton van Duinkerken	2
+3334	A.A.M. Stols	2
+3335	M. Stol	2
+3336	Blaise Cendrars	2
+3337	Top Naeff	2
+3338	Frits Hopman	2
+3339	A.M. de Jong	2
+3340	J.C. van Schagen	2
+3341	Miguel de Unamuno	2
+3342	H.W.E. Moller	2
+3343	Dop Bles	2
+3344	Willem ten Berge	2
+3345	Jan Greshoff	2
+3346	D.A.M. Binnendijk	2
+3347	J.C. Hol	2
+3348	Alphons Diepenbrock	2
+3349	J. Slauerhoff	2
+3350	Mathias Kemp	2
+3351	Pierre Kemp	2
+3352	Lodewijk van Deyssel	2
+3353	Ernest Michel	2
+3354	Cornelis Veth	2
+3355	Gerard Wijdeveld	2
+3356	Herman Poort	2
+3357	W.L.M.E. van Leeuwen	2
+3358	Novalis	2
+3359	Hendrik de Vries	2
+3360	Mien Proost	2
+3361	Bernard Shaw	2
+3362	Theo Schlichting	2
+3363	Hendrik Wiegersma	2
+3364	Henri Morel	2
+3365	Henri Borel	2
+3366	K.F. Proost	2
+3367	Eduard Verkade	2
+3368	Louis Knuvelder	2
+3369	P. Geyl	2
+3370	Stefan George	2
+3371	L. Stolte	2
+3372	Abraham Kuyper	2
+3373	J.J. van Geuns	2
+3374	Luc Tournier	2
+3375	Jan Toorop	2
+3376	Jan van Gelder	2
+3377	Chris de Graaff	2
+3378	A.C. Willink	2
+3379	Oscar Leyendekkers	2
+3380	Anton Reichling	2
+3381	Halbo C. Kool	2
+3382	Jan H. Eekhout	2
+3383	Willem Brandt	2
+3384	A.J.D. van Oosten	2
+3385	Jan H. de Groot	2
+3386	Ad. Sassen	2
+3387	S.H. de Roos	2
+3388	Alfons Olterdissen	2
+3389	E. Jaspar	2
+3390	J.B. Stolte	2
+3391	A. van Domburg	2
+3392	M.J. Brusse	2
+3393	Annie Salomons	2
+3394	Ilja Ehrenburg	2
+3395	Gabriël Smit	2
+3396	Rainer Maria Rilke	2
+3397	J. Dhont	2
+3398	Leo van Breen	2
+3399	Martin Leopold	2
+3400	Alie Smeding	2
+3401	Beb Vuyk	2
+3402	Louis de Bourbon	2
+3403	Berend Kuitert Cz	2
+3404	J.J.P. Oud	2
+3405	A.C. Ramselaar	2
+3406	Freek van Leeuwen	2
+3407	Koos van Doorne	2
+3408	Eric van der Steen	2
+3409	Wally Moes	2
+3410	Jef Last	2
+3411	Aug. Cuypers	2
+3412	E. du Perron	2
+3413	Jan Derks	2
+3414	M. Revis	2
+3415	Paul Vlemminx	2
+3416	Henrik Scholte	2
+3417	Gerlach Royen	2
+3418	C.J. Blaauw	2
+3419	Maurits Dekker	2
+3420	Cor van der Lugt Melsert	2
+3421	E.H.M. Beekman	2
+3422	Theun de Vries	2
+3423	G.A. van Klinkenberg	2
+3424	F. Schmidt-Degener	2
+3425	Carole Vos	2
+3426	J.W.F. Werumeus Buning	2
+3427	Frans van Oldenburg Ermke	2
+3428	C.R. de Klerk	2
+3429	Martin Bruijns	2
+3430	Joannes Reddingius	2
+3431	Johan Fabricius	2
+3432	Piet Oomes	2
+3433	J.N. Bakhuizen van den Brink	2
+3434	Wouter Paap	2
+3435	Marie-Sophie Nathusius	2
+3436	G. Vrijmoed	2
+3437	David de Kok	2
+3438	Pablo Picasso	2
+3439	J.A.A. Mekel	2
+3440	L.S.J. Hanekroot	2
+3441	Maurits Uyldert	2
+3442	Elisabeth Zernike	2
+3443	H. Kraemer	2
+3444	J. Bierens de Haan	2
+3445	Johan Brouwer	2
+3446	Wilma	2
+3447	H. Colijn	2
+3448	Jan Fabricius	2
+3449	C.P.M. Romme	2
+3450	W.C. Braat	2
+3451	Jan Veth	2
+3452	Hubert Cuypers jr.	2
+3453	W. Kramer	2
+3454	Martien Beversluis	2
+3455	Christine Mohrmann	2
+3456	Jos. Panhuijsen	2
+3457	A.M. Hammacher	2
+3458	Dick Ouwendijk	2
+3459	A.G.W. Severijnen	2
+3460	Henri van Booven	2
+3461	Yge Foppema	2
+3462	Anna de Noailles	2
+3463	Willem de Mérode	2
+3464	Johan Schmidt	2
+3465	Maurits Wagenvoort	2
+3466	August Heyting	2
+3467	K.H.R. de Josselin de Jong	2
+3468	R. de Josselin de Jong	2
+3469	Leo Boekraad	2
+3470	Ernst Wiechert	2
+3471	Jan Kalf	2
+3472	A. Goslinga	2
+3473	F.W. Grosheide	2
+3474	C.G.N. de Vooys	2
+3475	Ben van Eysselsteijn	2
+3476	J.A. van Lieshout	2
+3477	P.J.H. Vermeeren	2
+3478	Jan Romein	2
+3479	Max Kijzer	2
+3480	Luc van Hoek	2
+3481	Ab Visser	2
+3482	Charles van Lerberghe	2
+3483	W.C.L. van der Grinten	2
+3484	Gerth Schreiner	2
+3485	Jo Manders	2
+3486	H. Wagenvoort	2
+3487	Paul Haimon	2
+3488	A.C. Josephus Jitta	2
+3489	Barend de Goede	2
+3490	Simon Vestdijk	2
+3491	Johan de Molenaar	2
+3492	Joris Vriamont	2
+3493	Jo Kalmijn-Spierenburg	2
+3494	Kees Klap	2
+3495	Vic Reinders	2
+3496	L.G. Kortenhorst	2
+3497	A.A. Smijers	2
+3498	Johan Huizinga	2
+3499	Wiel van der Randen	2
+3500	A. van der Wey	2
+3501	Robert Franquinet	2
+3502	Adrien Jans	2
+3503	W.J.W. Koster	2
+3504	Jan Prins	2
+3505	J.D. Meerwaldt	2
+3506	W.E.J. Kuiper	2
+3507	Willem de Geus	2
+3508	Jacob Hendrik van Duinen	2
+3509	Bernard Delfgaauw	2
+3510	Elisabeth Reitsma	2
+3511	Chris van der Weye	2
+3512	A.G.M. van de Wijnpersse	2
+3513	Nico van Suchtelen	2
+3514	Amado Nervo	2
+3515	Sjoerd Leiker	2
+3516	Marc Staels	2
+3517	K.H.E. de Jong	2
+3518	Frans Mijnssen	2
+3519	P.J. Risseeuw	2
+3520	Franz Zonneberg	2
+3521	K.H. de Raaf	2
+3522	N.A. Donkersloot	2
+3523	J.A. Rispens	2
+3524	Max Prick van Wely	2
+3525	K.H. Miskotte	2
+3526	L.J. Rogier	2
+3527	P.C. Boeren	2
+3528	Frederik de Graaf	2
+3529	Frans de Wilde	2
+3530	F.J.J. Buytendijk	2
+3531	A. Marja	2
+3532	Hein de Bruin	2
+3533	E.W. Beth	2
+3534	H. Engel	2
+3535	C.W. van der Pot	2
+3536	A. Wassenbergh	2
+3537	Tjalling	2
+3538	C. Nicolaï	2
+3539	B.J. van Eyk	2
+3540	J. Brugman	2
+3541	Leigh Hunt	2
+3542	Samuel Johnson	2
+3543	H. Hardenberg	2
+3544	Hendrik de Veer	2
+3545	Johannes Tauler	2
+3546	A. Kleijn	2
+3547	H. Was	2
+3548	Tobias van Westrheene Wzn	2
+3549	J. Peters	2
+3550	Pertinax	2
+3551	Gerrit Mulder	2
+3552	E. Land	2
+3553	Jan Ploeger	2
+3554	Willem Bernard Johannes van Eyk	2
+3555	G.E. Langemeijer	2
+3556	Josephine Giese	2
+3557	Gerard Heymans	2
+3558	Fiore della Neve	2
+3559	Jan C. de Vos	2
+3560	Frans Netscher	2
+3561	Jules Laforgue	2
+3562	Edward B. Koster	2
+3563	Philippe Zilcken	2
+3564	Willem Gerard van Nouhuys	2
+3565	D. Simons	2
+3566	Ch.M. van Deventer	2
+3567	Betsy Juta	2
+3568	Augusta Peaux	2
+3569	Edmond van Offel	2
+3570	Frank van der Goes	2
+3571	B.D. Eerdmans	2
+3572	Albert Besnard	2
+3573	C. Visser	2
+3574	C. te Lintum	2
+3575	Thérèse Hoven	2
+3576	J.H. de Veer	2
+3577	Augusta de Wit	2
+3578	Julius de Boer	2
+3579	C. de Boer	2
+3580	C.A. Verrijn Stuart	2
+3581	L.J. Plemp van Duiveland	2
+3582	H.Y. Groenewegen	2
+3583	J.D. Bierens de Haan	2
+3584	A.D. van Assendelft de Coningh	2
+3585	E. Bergsma	2
+3586	D. Fock	2
+3587	Bernard Gewin	2
+3588	J.A. Dèr Mouw	2
+3589	H.R. Offerhaus	2
+3590	J. Everts	2
+3591	Anna Ekker	2
+3592	Frans Hulleman	2
+3593	Fenna de Meyier	2
+3594	Anna van Gogh-Kaulbach	2
+3595	Margo Scharten-Antink	2
+3596	Eduard Thorn Prikker	2
+3597	C.H. de Goeje	2
+3598	H.A. Lorentz	2
+3599	Bernard Canter	2
+3600	André Jolles	2
+3601	Louis Carbin	2
+3602	W.L. Penning	2
+3603	Johannes Everts jr.	2
+3604	Wouter Nijhoff	2
+3605	Henri Dekking	2
+3606	Hendrik Mulder	2
+3607	Marie Metz-Koning	2
+3608	A. Hotz	2
+3609	J.A. Simons-Mees	2
+3610	W. van Ravesteyn	2
+3611	Adriaan van Oordt	2
+3612	A.E. Thierens	2
+3613	Ernest Zahn	2
+3614	G. Bolkestein	2
+3615	S. Bonn	2
+3616	Jan Jacob Thomson	2
+3617	Frans Bastiaanse	2
+3618	William Wilson	2
+3619	Hermann Wolf	2
+3620	André de Ridder	2
+3621	F.W.J.G. Snijder van Wissenkerke	2
+3622	Willem Andriessen	2
+3623	L.F. de Beaufort	2
+3624	François Pauwels	2
+3625	Nine van der Schaaf	2
+3626	Jan F.E. Celliers	2
+3627	J.A. van Hamel	2
+3628	William Davids	2
+3629	Adolf Herckenrath	2
+3630	K.C. Boxman-Winkler	2
+3631	F.M. Wibaut	2
+3632	D. van Blom	2
+3633	B.J.H. Ovink	2
+3634	D.G. Jelgersma	2
+3635	J.R. Slotemaker de Bruine	2
+3636	Sara Bouterse	2
+3637	Wilhelm Loeb	2
+3638	J.E. Jasper	2
+3639	H.L. de Beaufort	2
+3640	Balthazar Verhagen	2
+3641	G. Mannoury	2
+3642	Coen Hissink	2
+3643	Marie Schmitz	2
+3644	H. Koekebakker	2
+3645	Jan de Gruyter	2
+3646	Willem Kalma	2
+3647	Klaas de Vries	2
+3648	Hendrika Boer	2
+3649	Laurens van der Waals	2
+3650	F.E. Posthumus Meyjes	2
+3651	Leonie van Nierop	2
+3652	E.C. Godée Molsbergen	2
+3653	Jo van Ammers-Küller	2
+3654	M.A. van Herwerden	2
+3655	Richard Roland Holst	2
+3656	Joan Frederik van Oordt	2
+3657	Zadok Stokvis	2
+3658	J.G. van Dillen	2
+3659	Frits Lugt	2
+3660	P.H. van Moerkerken jr.	2
+3661	M.J. Sirks	2
+3662	G.P. Frets	2
+3663	J. Aalbers	2
+3664	J. Petri	2
+3665	Marie Heijermans-Peers	2
+3666	Herman Middendorp	2
+3667	Ernest Barker	2
+3668	B.G. Escher	2
+3669	L.H. Grondijs	2
+3670	Mies Kievits	2
+3671	Marie Cremers	2
+3672	P.H. Ritter jr.	2
+3673	J.H. Boeke	2
+3674	D.M.G. Koch	2
+3675	J. Wolterbeek Muller	2
+3676	Karel Wasch	2
+3677	Gerard van den Hoek	2
+3678	A.N. Molenaar	2
+3679	C. Lekkerkerker	2
+3680	Meint Joustra	2
+3681	W. Elink Schuurman	2
+3682	C.T. van Valkenburg	2
+3683	W.B. Kristensen	2
+3684	Jo de Wit	2
+3685	H.E.H. van Loon	2
+3686	F. Roels	2
+3687	K.H. Roessingh	2
+3688	G.J. Heering	2
+3689	A.W. Byvanck	2
+3690	E.C. van Dorp	2
+3691	G. Titta Rosa	2
+3692	Emile Verviers	2
+3693	Emmy van Lokhorst	2
+3694	S. Ritsema van Eck	2
+3695	J.J. Boasson	2
+3696	A.J. de Sopper	2
+3697	L.N. de Jong	2
+3698	H.T. de Graaf	2
+3699	Jac. C. Bloem	2
+3700	H.A. Enno van Gelder	2
+3701	Marcus van Blankenstein	2
+3702	E. Elias	2
+3703	Kees van Bruggen	2
+3704	E.M. Meijers	2
+3705	G.H. Hintzen	2
+3706	Hein Boeken	2
+3707	Gabriele d' Annunzio	2
+3708	B.H. Rethmeier	2
+3709	G. van Rijnberk	2
+3710	Herman Wolf	2
+3711	Franz Werfel	2
+3712	K. Jansma	2
+3713	H.G. Surie	2
+3714	J.J.L. Duyvendak	2
+3715	J.W. Marmelstein	2
+3716	N.J. Polak	2
+3717	G.J.D.C. Stempels	2
+3718	J.J. van Loghem	2
+3719	Martin Permys	2
+3720	G.A. van Poelje	2
+3721	W. Kuenen	2
+3722	G.J. Geers	2
+3723	E.J. Dijksterhuis	2
+3724	Cornelia Serrurier	2
+3725	J.A. Eigeman	2
+3726	Siegfried E. van Praag	2
+3727	F. de Sinclair	2
+3728	F.W. Stapel	2
+3729	D.F. Slothouwer	2
+3730	R.A.D. Cort van der Linden	2
+3731	D. Loenen	2
+3732	H.N. ter Veen	2
+3733	Johannes Tielrooy	2
+3734	W. Banning	2
+3735	Willem Jan Mari van Eysinga	2
+3736	J.E. van der Pot	2
+3737	Arthur J.H. Cornette	2
+3738	C.W. de Vries	2
+3739	Firmin van Hecke	2
+3740	A.J. van der Steur	2
+3741	I.J. Brugmans	2
+3742	A. Plate	2
+3743	J.S. Bartstra	2
+3744	Alfons de Cock	2
+3745	A.G. van Kranendonk	2
+3746	W.H.C. Tenhaeff	2
+3747	Agatha Seger	2
+3748	J.L.M. Lauweriks	2
+3749	G. van Iterson Jr.	2
+3750	L.J. van Holk	2
+3751	Daniël Crena de Iongh	2
+3752	J.P. van der Stok	2
+3753	J.H. Plantenga	2
+3754	Th.J.G. Locher	2
+3755	Arnold Lysen	2
+3756	B.M. Telders	2
+3757	Robert van Genechten	2
+3758	S.J.R. de Monchy	2
+3759	A.M. Pols	2
+3760	P.W. Kamphuisen	2
+3761	F.H. Fischer	2
+3762	Frank Gericke	2
+3763	F.A.J. Vermeulen	2
+3764	H.M.J. Oldewelt	2
+3765	R. Wiarda	2
+3766	Lien ter Laan-van Lokhorst	2
+3767	A. de Buck	2
+3768	Frank van den Wijngaert	2
+3769	Jo Landheer	2
+3770	Roelof Kranenburg	2
+3771	V. de Meyer	2
+3772	Godard Gosses	2
+3773	Willem van Maanen	2
+3774	Evert Willem Schallenberg	2
+3775	Ralph Springer	2
+3776	E.H. ter Kuile	2
+3777	M.D. Ozinga	2
+3778	F.W.A. Korff	2
+3779	J.H. Brouwer	2
+3780	Jacob Haantjes	2
+3781	Willem van Doorn	2
+3782	I.H. Gosses	2
+3783	H.S.M. Wickevoort Crommelin	2
+3784	E.C. Pienaar	2
+3785	Sybrandus Johannes Fockema Andreae	2
+3786	Louise van Bloemen	2
+3787	S.J. Rutgers	2
+3788	O. Noordenbos	2
+3789	Franz Hellens	2
+3790	Fedde Schurer	2
+3791	Johan W. Schotman	2
+3792	K. Smits	2
+3793	J.C.M. Warnsinck	2
+3794	D. Cohen	2
+3795	R.F. Beerling	2
+3796	W.J. van de Woestijne	2
+3797	W. van der Wielen	2
+3798	B. Folkertsma	2
+3799	Jaap Kunst	2
+3800	C. Weststrate	2
+3801	André De Weerdt	2
+3802	J.H. Pluvier	2
+3803	L.C. Suttorp	2
+3804	Paul Cronheim	2
+3805	J.L. Snethlage	2
+3806	J.C. Bruijn	2
+3807	Pieter Jan Bouman	2
+3808	Elisabeth du Perron-de Roos	2
+3809	C.J. de Vogel	2
+3810	Jan Gin	2
+3811	David de Jong	2
+3812	C. de Dood	2
+3813	F.J.H. Lousberg	2
+3814	M.H.J. Schoenmaekers	2
+3815	J.C. Brandt Corstius	2
+3816	B.A. van Groningen	2
+3817	Marion Duimel	2
+3818	Eva Raedt-de Canter	2
+3819	J.C.J. Bierens de Haan	2
+3820	F.A. van der Hoeven	2
+3821	M.J. Langeveld	2
+3822	André van Praag	2
+3823	Jaap van Gelderen	2
+3824	P. van Schilfgaarde	2
+3825	A.J. Westerman Holstijn	2
+3826	L.W.G. Scholten	2
+3827	G. van der Leeuw	2
+3828	O. Oppermann	2
+3829	J.J. Vriend	2
+3830	G. van den Bergh	2
+3831	J.J. Gielen	2
+3832	Truus Gerhardt	2
+3833	H.A. Mulder	2
+3834	J.M.C. Bouvy	2
+3835	P. Polman	2
+3836	Ph.J. Idenburg	2
+3837	J.C. van der Loos	2
+3838	P.J. Idenburg	2
+3839	Reinier van Genderen Stort	2
+3840	W.J. de Haas	2
+3841	J.J. Schrieke	2
+3842	Anton van der Boom	2
+3843	H.E. Enthoven	2
+3844	G. Knuttel jr.	2
+3845	W.E. van Wijk	2
+3846	S.P. Uri	2
+3847	G. Knuttel Wzn	2
+3848	Hermann Goetz	2
+3849	Uys Krige	2
+3850	H.B.A. Bockwinkel	2
+3851	P.J. van Winter	2
+3852	Arnoldus Noach	2
+3853	Josine Reuling	2
+3854	Eduard Reeser	2
+3855	Rudolf Mengelberg	2
+3856	Anthon van der Horst	2
+3857	J.H. Kern	2
+3858	J.H. Kernkamp	2
+3859	J.A. van der Made	2
+3860	G.W. Wolthuis	2
+3861	C.D.J. Brandt	2
+3862	Paul de Smaele	2
+3863	H.N. Boon	2
+3864	Magda Révész-Alexander	2
+3865	S. de Wolff	2
+3866	F.G. Scheltema	2
+3867	D.B. Bosman	2
+3868	C.F. Roos	2
+3869	Johan Theunisz	2
+3870	H.J. Pos	2
+3871	J. de Graaf	2
+3872	S.J. van der Molen	2
+3873	W. Arondéus	2
+3874	George Lodewijk Schorer	2
+3875	Jan L. Walch	2
+3876	Wim van de Woestijne	2
+3877	J.J. von Schmid	2
+3878	K. R. Gallas	2
+3879	J.E. Stokvis	2
+3880	C.C. van de Graft	2
+3881	J.M. de Casseres	2
+3882	J.J.M. Timmers	2
+3883	J.C. Ebbinge Wubben	2
+3884	Cola Debrot	2
+3885	S.M. Noach	2
+3886	Willy Dols	2
+3887	P.J. Waardenburg	2
+3888	J.A.J. Barge	2
+3889	J.E. Schulte	2
+3890	C.F.A. van Dam	2
+3891	E. Brongersma	2
+3892	J.C.H. de Pater	2
+3893	A.J. Schneiders	2
+3894	J.C.A. Fetter	2
+3895	Clara Eggink	2
+3896	K. Strijd	2
+3897	L.J.F. Wijsenbeek	2
+3898	P.A.H. de Boer	2
+3899	A.A. Kok	2
+3900	Marianne Philips	2
+3901	A.H. Nijhoff	2
+3902	H. Nijhoff	2
+3903	J. Bax	2
+3904	F. van Hoeck	2
+3905	D.A. Tamminga	2
+3906	G.H. Blanken	2
+3907	P. Brommer	2
+3908	S.P. Haak	2
+3909	H.L. van Duyl	2
+3910	Dirk Schoute	2
+3911	A. Hollenberg	2
+3912	M.A. van Andel	2
+3913	Johannes Lindeboom	2
+3914	P.W.J. Steinz	2
+3915	N.E.H. van Esveld	2
+3916	A.J. van Soest	2
+3917	A.G.M. van Melsen	2
+3918	H.C. Rümke	2
+3919	N.E.M. Pareau	2
+3920	Jelte Dijkstra	2
+3921	L.J. Zimmerman	2
+3922	Jan Barents	2
+3923	W.J. Kooiman	2
+3924	Theo van Baaren	2
+3925	Ferdinand Langen	2
+3926	W. Wiersma	2
+3927	B.A. Vermaseren	2
+3928	J.C. Breen	2
+3929	Th.H.J. van Huet	2
+3930	Karel Kuypers	2
+3931	J.D.M. Cornelissen	2
+3932	J. Keuning	2
+3933	Ferd. Sassen	2
+3934	J.Z. Kannegieter	2
+3935	J.E. de Haas	2
+3936	E. de Haas	2
+3937	H.J. de Vleeschauwer	2
+3938	K.H. Heeroma	2
+3939	A.J.W. Kaas	2
+3940	F.W. van Heerikhuizen	2
+3941	P.J. Enk	2
+3942	O. Bottema	2
+3943	Marie Ramondt	2
+3944	Daan Zonderland	2
+3945	H.P. van den Aardweg	2
+3946	H.J. Prakke	2
+3947	W.Ph. Coolhaas	2
+3948	Johanna K. Oudendijk	2
+3949	J.P. Kleiweg de Zwaan	2
+3950	Jan Waterink	2
+3951	H.T. Damsté	2
+3952	G. Karsten	2
+3953	J.J. Kalma	2
+3954	W.Gs Hellinga	2
+3955	G. le Maire	2
+3956	Herman Johannes Lam	2
+3957	G.F.E. Gonggrijp	2
+3958	Nicolaas Wilhelmus Posthumus	2
+3959	P. van der Wielen	2
+3960	Joseph van Kan	2
+3961	A.N.J. den Hollander	2
+3962	Frank Onnen	2
+3963	M.E. Kluit	2
+3964	A.J. Kluyver	2
+3965	Clara Stuyver	2
+3966	Jan Smit	2
+3967	E.E. Pot	2
+3968	J.R. Evenhuis	2
+3969	J.V. Rijpperda Wierdsma	2
+3970	Th.H. Lunsingh Scheurleer	2
+3971	R. van Luttervelt	2
+3972	R.P. Cleveringa	2
+3973	J.H.W. Verzijl	2
+3974	H. Plessner	2
+3975	C.W. Roldanus	2
+3976	G. Révész	2
+3977	G.M.J. Duyfhuizen	2
+3978	I.J.M. van den Berg	2
+3979	D.U. Stikker	2
+3980	S. Posthuma	2
+3981	E. Smedes	2
+3982	W. Gerdes	2
+3983	Ph. Kohnstamm	2
+3984	M.F. Mörzer Bruyns	2
+3985	Abraham Schierbeek	2
+3986	A.E. Rosendahl Huber	2
+3987	Adriaan Daniel Fokker	2
+3988	W.J. Verdenius	2
+3989	J. in 't Veld	2
+3990	Maarten Schneider	2
+3991	G.L. Muskens	2
+3992	J.H. Waszink	2
+3993	L. Aletrino	2
+3994	P.J. Koets	2
+3995	H. Gerversman	2
+3996	E.J.E. Huffer	2
+3997	L.C.T. Bigot	2
+3998	L. van den Ham	2
+3999	J.H. Thiel	2
+4000	E.W. Hofstee	2
+4001	Hendrik Brugmans	2
+4002	G.W. Jongens	2
+4003	W.E. Boerman	2
+4004	Maria Hartgerink-Koomans	2
+4005	A.M. van der Giezen	2
+4006	Dirk de Jong	2
+4007	J.H. Huizinga	2
+4008	J.E. Verschaffelt	2
+4009	A. Bicker Caarten	2
+4010	H.F.W.D. Fischer	2
+4011	E. van Dievoet	2
+4012	L.M.Fr. Daniëls	2
+4013	Casper Höweler	2
+4014	G.H. 's- Gravesande	2
+4015	W.L. Haardt	2
+4016	B. Roest Crollius	2
+4017	Arthur Lehning	2
+4018	J.A. Bierens de Haan	2
+4019	Hans Freudenthal	2
+4020	A. de Roos	2
+4021	J.M. Kramer	2
+4022	Amoene van Haersolte	2
+4023	C.M. de Beaufort	2
+4024	F.J. Snijman	2
+4025	J.G.M. Moormann	2
+4026	J.M. Sterken	2
+4027	J.J. Poelhekke	2
+4028	J.J. van Bolhuis	2
+4029	B. Faddegon	2
+4030	Marc Rozelaar	2
+4031	Alexander Sizoo	2
+4032	T.P. Sevensma	2
+4033	J.J. Poortman	2
+4034	K. Posthumus	2
+4035	Louis van Haecht	2
+4036	J. Presser	2
+4037	C.A.O. van Nieuwenhuijze	2
+4038	J. Buffin	2
+4039	Willem den Boer	2
+4040	T.S. Jansma	2
+4041	W.R. Juynboll	2
+4042	Pier Westra	2
+4043	P.J.M. van Gils	2
+4044	Bas van Gelder	2
+4045	H. van de Waal	2
+4046	Jan Vermeulen	2
+4047	J.W. Bosch	2
+4048	H.A. Enklaar	2
+4049	Arnold van Praag	2
+4050	R. Hoetink	2
+4051	Carl Mennicke	2
+4052	Henri Overhoff	2
+4053	J. Eggens jr.	2
+4054	R.A. Kern	2
+4055	A.V.N. van Woerden	2
+4056	B.L. van der Waerden	2
+4057	Johan Tersteeg	2
+4058	R. Sterringa	2
+4059	L.C. van Panhuys	2
+4060	Jan Bakker	2
+4061	Hélène Nolthenius	2
+4062	Jaap Romijn	2
+4063	Mea Verwey	2
+4064	Alb. de la Court	2
+4065	Mary Dresselhuys	2
+4066	Sj. Groenman	2
+4067	Guillaume van der Graft	2
+4068	J.E. Jonkers	2
+4069	Giacomo Antonini	2
+4070	G.J. de Vries	2
+4071	Hendr. Ad. Warmelink	2
+4072	A. Pitlo	2
+4073	Barend Rijdes	2
+4074	Maurits de Meyer	2
+4075	Luisa Treves	2
+4076	Jan Sebastian Rabie	2
+4077	L.P.J. Braat	2
+4078	Jacques Gans	2
+4079	Ernst Denny Hirsch Ballin	2
+4080	D.G. van Vreumingen	2
+4081	W. Nienaber-Luitingh	2
+4082	N.P. van Wyk Louw	2
+4083	Elisabeth Eybers	2
+4084	D.J. Opperman	2
+4085	I.D. du Plessis	2
+4086	Josepha Mendels	2
+4087	Willem Enzinck	2
+4088	Elisabeth Cheixaou	2
+4089	Hans Redeker	2
+4090	G.J. van der Woude	2
+4091	G.W. Ovink	2
+4092	A.H. Luijdjens	2
+4093	Vitaliano Brancati	2
+4094	Goffredo Bellonci	2
+4095	Antonio Baldini	2
+4096	G.A. Bouwman-Pot	2
+4097	Umberto Saba	2
+4098	Dino Campana	2
+4099	Bruno Zevi	2
+4100	Massimo Mila	2
+4101	David Scheinert	2
+4102	Jules Supervielle	2
+4103	Abel J. Herzberg	2
+4104	Alfons Ariëns	2
+4105	A. Kessen	2
+4106	H. van Riessen	2
+4107	Dirk Bartling	2
+4108	J. Haak	2
+4109	Harriët Freezer	2
+4110	Clare Lennart	2
+4111	Jaap Das	2
+4112	D.Th. Enklaar	2
+4113	H.W.F. Stellwag	2
+4114	M.A. Beek	2
+4115	S.J. Suys-Reitsma	2
+4116	Fokke Sierksma	2
+4117	W.R. Heere	2
+4118	J.P. van Praag	2
+4119	H.C. van de Hulst	2
+4120	G.J. de Grooth	2
+4121	W.F. Lichtenauer	2
+4122	Ary den Hertog	2
+4123	J.H.J. van der Pot	2
+4124	Ben Groeneveld	2
+4125	Justus Meyer	2
+4126	Ch.G. Matser	2
+4127	J.E. de Vos van Steenwijk	2
+4128	P.O.F.M. Cremers	2
+4129	F.G.L. van der Meer	2
+4130	A.M. Korpershoek	2
+4131	Ch. van Os	2
+4132	Charles Wentinck	2
+4133	P.J. Stolk	2
+4134	Max Schuchart	2
+4135	P. Verdoes	2
+4136	R.J. Forbes	2
+4137	A.C. Niemeyer	2
+4138	Henri Wiessing	2
+4139	G.H.M. van Huet	2
+4140	A. Graafhuis	2
+4141	J.G. de Beus	2
+4142	Jean Paul Sartre	2
+4143	W.H. Somermeyer	2
+4144	A.A. Bosschart	2
+4145	Jacques den Haan	2
+4146	C. Vermeer	2
+4147	J.J. Beljon	2
+4148	Hans Edinga	2
+4149	Jan Meulenbelt	2
+4150	E.A.A. Vermeer	2
+4151	P.J. Arisz	2
+4152	Gerard Diels	2
+4153	J.H. Schouten	2
+4154	W. Jaeger	2
+4155	Dola de Jong	2
+4156	C.J. Bleeker	2
+4157	P.A. Hekstra	2
+4158	W.F. Dankbaar	2
+4159	H.W. Meihuizen	2
+4160	A.F. Mellink	2
+4161	August Defresne	2
+4162	Wim Kan	2
+4163	A. Teeuw	2
+4164	Léon Polak	2
+4165	Jan Willem Hofstra	2
+4166	Pierre Brachin	2
+4167	Klaas Wiersma	2
+4168	J.C. van Leur	2
+4169	W.F. Wertheim	2
+4170	J.A. Vooren	2
+4171	M.H.J. Verjans	2
+4172	Inez van Dullemen	2
+4173	R. Feenstra	2
+4174	Jan Pedroli	2
+4175	J.A. van Praag	2
+4176	J.P. Wiersma	2
+4177	T.T. Cloete	2
+4178	Max Dendermonde	2
+4179	Ernst Groenevelt	2
+4180	W.A. Braasem	2
+4181	Til Brugman	2
+4182	Jan Spierdijk	2
+4183	Don Maquis	2
+4184	Ernst van Heerden	2
+4185	Margrit de Sablonière	2
+4186	Egbert Krispyn	2
+4187	A.C.M. Kurpershoek-Scherft	2
+4188	A. van der Schalk	2
+4189	John Rädecker	2
+4190	Evert Straat	2
+4191	Claudine Witsen Elias	2
+4192	Fanny de Jong	2
+4193	Jan Elemans	2
+4194	Tonny van der Horst	2
+4195	B.M. Baxter	2
+4196	J.H. Loenen	2
+4197	P.M. Boer-den Hoed	2
+4198	Saskia Ferwerda	2
+4199	Jan van Royen	2
+4200	Henri Mayer	2
+4201	Willem Gerard van der Tak	2
+4202	J.H. Plokker	2
+4203	C.W. Mönnich	2
+4204	A.M. Meerloo	2
+4205	Catharina Ypes	2
+4206	Henriette Laman Trip-de Beaufort	2
+4207	B.H. Kazemier	2
+4208	J. van der Steen	2
+4209	Henri Sandberg	2
+4210	Eddy de Vries	2
+4211	Theo J. van der Wal	2
+4212	Nanne van der Zijpp	2
+4213	J.I.S. Zonneveld	2
+4214	H.F. van Panhuys	2
+4215	H.P.H. Jansen	2
+4216	Sam Goudsmit	2
+4217	C. Houwaard	2
+4218	Gerard van Hulzen	2
+4219	Karel De Clerck	2
+4220	George Kettmann jr.	2
+4221	François Meyer	2
+4222	H.A. Combé	2
+4223	V.W.D. Schenk	2
+4224	F.J.F.M. Duynstee	2
+4225	Martin J. Klein	2
+4226	G.W. Locher	2
+4227	L.H. Janssen	2
+4228	D. Zijlstra	2
+4229	F.R.J. Verhoeven	2
+4230	Walter Thys	2
+4231	R.G.K. Kraan	2
+4232	Tj.S. Visser	2
+4233	Bertram Joseph	2
+4234	K.J. Popma	2
+4235	Ton Lathouwers	2
+4236	Peter van Eeten	2
+4237	S.J. Popma	2
+4238	Frits Kief	2
+4239	R. Marsman	2
+4240	Reinold Kuipers	2
+4241	Eldert Willems	2
+4242	P. Valkenburgh	2
+4243	Okke Jager	2
+4244	J. Kamerbeek jr.	2
+4245	Andrew de Graaf	2
+4246	J. van der Gaag	2
+4247	Fred Batten	2
+4248	Petronella Everdina Eldering	2
+4249	Karen Spalding	2
+4250	Gerrit Huizer	2
+4251	Rodney Russell	2
+4252	Harry Kensmil	2
+4253	Michael Wilson	2
+4254	Reinout Bakker	2
+4255	A.H. Wertheim-Gijse Weenink	2
+4256	W.M. Zappey	2
+4257	A. van 't Laar	2
+4258	H.M.A. Struyker Boudier	2
+4259	A.L. Vos	2
+4260	Aleksander Ivanov	2
+4261	V.I. Lenin	2
+4262	Wim van Dam	2
+4263	Els de Graaf	2
+4264	J.W. Bezemer	2
+4265	A.P. Grové	2
+4266	P. Spigt	2
+4267	Wim J. Simons	2
+4268	Jaap Meijer	2
+4269	J. Donkers	2
+4270	Hermann H. Frese	2
+4271	Elisaveta Bagrjana	2
+4272	Kristien Warmenhoven	2
+4273	Jan Tinbergen	2
+4274	J.E. van der Laan	2
+4275	R.Th.R. Wentges	2
+4276	Hans Ester	2
+4277	Marcel van Herpen	2
+4278	A.J. Kox	2
+4279	P.H. Polak	2
+4280	H.J.M. Bos	2
+4281	Ph. de Vries	2
+4282	J. Lodewijks	2
+4283	Huib van Krimpen	2
+4284	Erik K. de Vries	2
+4285	F. Schröder	2
+4286	L.I. Graf	2
+4287	Klaas Ruitenbeek	2
+4288	E.E.G. Vermeulen	2
+4289	Kurt Löb	2
+4290	Pim den Boer	2
+4291	E. Braches	2
+4292	H. Hoetink	2
+4293	Hendrik Henrichs	2
+4294	P. Bierens de Haan	2
+4295	Sal Tas	2
+4296	A.B. Lapian	2
+4297	Herbert van Erkelens	2
+4298	Jan Paul Hinrichs	2
+4299	Ronald Jonkers	2
+4300	Rik Planting	2
+4301	Jef Suys	2
+4302	Th. Kuiper-Weijhenke	2
+4303	Jacob Hiegentlich	2
+4304	C.J.G. Holtzappel	2
+4305	Johan B.W. Polak	2
+4306	Bart Driessen	2
+4307	Annemarie Cottaar	2
+4308	Wim Willems	2
+4309	A. Lammers	2
+4310	Ernst Heldring	2
+4311	J.C. Winterink	2
+4312	Fr. de Jong Edz.	2
+4313	Hans Moll	2
+4314	F.L.W.M. Buisman-de Savornin Lohman	2
+4315	Jos Perry	2
+4316	I.F.M. Salim	2
+4317	Salvador Bloemgarten	2
+4318	Hans Werkman	2
+4319	Hendrik van der Wal	2
+4320	Anne Hallema	2
+4321	Theo Joekes	2
+4322	C.P. Bakker	2
+4323	Ch.J. Enschedé	2
+4324	Marc Adang	2
+4325	Walter Breedveld	2
+4326	Alex Reinders	2
+4327	John de Pool	2
+4328	Michael A. Newton	2
+4329	S.A. Vosters	2
+4330	M. Weisglas	2
+4331	R.A.J. van Lier	2
+4332	Basuki Gunawan	2
+4333	H.H. van Kol	2
+4334	S.F. Baekers	2
+4335	Wim Hottentot	2
+4336	A. Bergsma	2
+4337	H.C. Hemker	2
+4338	Otto Treumann	2
+4339	Ger Kleis	2
+4340	Paul Hefting	2
+4341	Marcel van de Velde	2
+4342	Margreet Schrevel	2
+4343	Dago Steenis	2
+4344	Mario Gommeren	2
+4345	Jo Tollebeek	2
+4346	Ivo Schöffer	2
+4347	Heike Kamerlingh Onnes	2
+4348	Joke J. Hermsen	2
+4349	M. Coutinho	2
+4350	Roelof Haveman	2
+4351	Marjan Wijers	2
+4352	G.E. Mulder	2
+4353	F.P. Lorreins	2
+4354	Johannes van Well	2
+4355	Gust van Roosbroeck	2
+4356	V. Willems	2
+4357	Jan Paquay	2
+4358	Willibrord Lampen	2
+4359	Jos. de Klerk	2
+4360	A.L. Corin	2
+4361	J. van Malderen	2
+4362	Leo van Dorpe	2
+4363	G.A. Brands	2
+4364	Josef Cohen	2
+4365	Jac. Weil	2
+4366	Jef Notermans	2
+4367	F.S. van Bouwdijk Bastiaanse	2
+4368	Jörgen Bukdahl	2
+4369	B.A. Meuleman	2
+4370	Diet Kramer	2
+4371	J.P. Zoomers-Vermeer	2
+4372	J. Rodolfo Lozada	2
+4373	Boris Raptschinsky	2
+4374	H.H.J. Maas	2
+4375	Jan van Lumey	2
+4376	Marcel Lobet	2
+4377	Em. de Deyne	2
+4378	P. Vermeiren	2
+4379	Hermance Farensbach	2
+4380	Han. Jonkers	2
+4381	Taï Aagen-Moro	2
+4382	Loe Maas	2
+4383	Jan Grégoire	2
+4384	Max B. Teipe	2
+4385	Marcel Grypdonck	2
+4386	T.J. Haarhoff	2
+4387	P. Verberne	2
+4388	Camiel van Deyck	2
+4389	Pieter Steur	2
+4390	Joz. Geleyn	2
+4391	Abel J. Coetzee	2
+4392	P.J. Nienaber	2
+4393	George Alexander Wilken	2
+4394	Willem Hoffman	2
+4395	F.G.A. Stemvers	2
+4396	Charlotte van Herwerden	2
+4397	J.R. Callenbach	2
+4398	Ernest Schepens	2
+4399	Otto Dijk	2
+4400	Jelle van der Meulen	2
+4401	Jan Cartens	2
+4402	Jos Steegstra	2
+4403	F.P. Huygens	2
+4404	A. Mertens	2
+4405	Elisabeth Keesing	2
+4406	Michele Ondei	2
+4407	Michel Leclerc	2
+4408	Coert Poort	2
+4409	Elisabeth Leijnse	2
+4410	Tom Pijnenborg	2
+4411	Peter van Beek	2
+4412	Guido van Genechten	2
+4413	Rudolf Arnheim	2
+4414	Madeleine Böhtlingk	2
+4415	V.E. van Uytvanck	2
+4416	Jacob Bendien	2
+4417	A.J.A. Etman	2
+4418	Ed Coenraads	2
+4419	M.R.J. Brinkgreve	2
+4420	P. Eringa	2
+4421	J.R. de Groot	2
+4422	Jan Aler	2
+4423	Hendrik Bolkestein	2
+4424	A.B. Breebaart	2
+4425	B.H. Wind	2
+4426	D.F.W. van Lennep	2
+4427	B.N. Teensma	2
+4428	A.A. Prins	2
+4429	Raoul Van Caenegem	2
+4430	E.G. de Poorter	2
+4431	Erik Zürcher	2
+4432	J. F. P. de Smit	2
+4433	M. Uhlenbeck-Winkel	2
+4434	J. Hoftijzer	2
+4435	Päivi Schot-Saikku	2
+4436	M.G.J. Teerink	2
+4437	Fritz A. Ponelis	2
+4438	Jan P.M.L. de Vries	2
+4439	W. van den Ent	2
+4440	Bé Stolk	2
+4441	Albertine de Haas	2
+4442	J. Philip van Goethem	2
+4443	David Moolenaar	2
+4444	M.H. Werkman	2
+4445	Remko ter Laan	2
+4446	Jan J. Zeldenthuis	2
+4447	Miek Janssen	2
+4448	P. Otten	2
+4449	Waldie van Eck	2
+4450	Alb. Kolkman	2
+4451	Agnes François	2
+4452	Juul Horn	2
+4453	A. Mankes-Zernike	2
+4454	Juul Roggeveen	2
+4455	Jenny Mollinger	2
+4456	A.H. Unger	2
+4457	Joseph van Wely, O.P.	2
+4458	Ant. Averkamp	2
+4459	G.J. Kolff	2
+4460	A.C. Waller	2
+4461	K.J. Riemens	2
+4462	M.H.A. van der Valk	2
+4463	J.P. Prins	2
+4464	Jacob van der Valk	2
+4465	J.C. van Oven	2
+4466	H.P. Berdenis van Berlekom	2
+4467	Charles van Iersel	2
+4468	A.J. Bothenius Brouwer	2
+4469	G.P. van Itterzon	2
+4470	S.A. Krijn	2
+4471	Hendrik Barend Greven	2
+4472	Caspert van Son	2
+4473	Jacobus Funke	2
+4474	Robert de Hooghe	2
+4475	Marie C. van Zeggelen	2
+4476	Adolph Staring	2
+4477	J.L. Horsten	2
+4478	G. Knop	2
+4479	Willem Johannes Leyds	2
+4480	Jacob Clay	2
+4481	Jan Carel de Haan	2
+4482	Jan Knappert	2
+4483	J. van der Baan	2
+4484	Dorothée Buys	2
+4485	Johannes de Zwaan	2
+4486	Sybrandi Braak	2
+4487	J.J. Soons	2
+4488	Klaas Uilkema	2
+4489	H.L. van Breda	2
+4490	H.H.J. Moulijn-Haitsma Mulier	2
+4491	J.W.J. Witsen Elias	2
+4492	Horst Gerson	2
+4493	Hendrik Houwens Post	2
+4494	Antoon Gerard Roos	2
+4495	Herman Dirk van Broekhuizen	2
+4496	Gerrit Dekker	2
+4497	Emile Gobée	2
+4498	Willem Nolet	2
+4499	Maria Simon Thomas	2
+4500	Maria Elisabeth Houtzager	2
+4501	Jan Slagter	2
+4502	A.J. Veenendaal sr.	2
+4503	Herman Gerrit Schulte Nordholt	2
+4504	M.A.P. Meilink-Roelofsz	2
+4505	Jan den Tex	2
+4506	P.S. du Toit	2
+4507	K.Ph. Bernet Kempers	2
+4508	E. Schoenmaeckers	2
+4509	Libbe van der Wal	2
+4510	Peter Spaan	2
+4511	A. Dirkzwager	2
+4512	Elize van Kaathoven	2
+4513	R.K.J.E. Antonissen	2
+4514	Ina Willekes McDonald	2
+4515	Klaas van der Geest	2
+4516	H.M. Mensonides	2
+4517	W.A. Nolet	2
+4518	Th. Nieuwenhuis	2
+4519	Jacques Idserda	2
+4520	Maurits Wille	2
+4521	R.A.D. Renting	2
+4522	Cornelis Rijnsdorp	2
+4523	J. van Doorne	2
+4524	Jacoba M. Vreugdenhil	2
+4525	Dingeman van der Stoep	2
+4526	Nel Veerman	2
+4527	Isabella Henriëtte van Eeghen	2
+4528	G.A. van Riemsdijk	2
+4529	C. Pama	2
+4530	Marten Jan van der Meer	2
+4531	Leo Plemp van Duiveland	2
+4532	E.F. Tijdens	2
+4533	B. Nijenhuis	2
+4534	Lidy van Eijsselsteijn	2
+4535	Ido Keekstra	2
+4536	J.F. Burger	2
+4537	H.J.F.W. Brugmans	2
+4538	Sjoerd van der Schaaf	2
+4539	S.B.J. Zilverberg	2
+4540	Rico Bulthuis	2
+4541	Aleida Gerarda Schot	2
+4542	Emmy Kerkhoff	2
+4543	Sjeng Tans	2
+4544	Lyckle de Vries	2
+4545	A.P. Cornet	2
+4546	S.P. Wolfs	2
+4547	Johan Somerwil	2
+4548	Chris Leeflang	2
+4549	Frederik Jacobus Brevet	2
+4550	W.J. van Hoboken	2
+4551	Jan Franssen	2
+4552	J.G. Bruggeman	2
+4553	M.G. Buist	2
+4554	P. J. van Leeuwen	2
+4555	Matthijs Bokhorst	2
+4556	Jacob de Graaf	2
+4557	Soejitno Mangoenkoesoemo	2
+4558	Arjen Miedema	2
+4559	Anton van der Vet	2
+4560	E.P. de Booy	2
+4561	R.H. Pheiffer	2
+4562	Mart Janssonius	2
+4563	Olaf J. de Landell	2
+4564	Bart Landheer	2
+4565	F.I.J. van Rensburg	2
+4566	Hanna Blok	2
+4567	Gé Vaartjes	2
+4568	Ph.H. Breuker	2
+4569	Wilhelmina Christina Pieterse	2
+4570	Ingrid Moerman	2
+4571	H.J.M. Nellen	2
+4572	Auke Jelsma	2
+4573	Jeanne Roos	2
+4574	Bart Jan Spruyt	2
+4575	Joan Hemels	2
+4576	H. van 't Veld	2
+4577	Cees Fasseur	2
+4578	Th.M. van Leeuwen	2
+4579	Jo van Dorp-Ypma	2
+4580	Aart Romijn	2
+4581	Henk Krijger	2
+4582	W. Cahn	2
+4583	E. Lopes Cardozo	2
+4584	S. Mok	2
+4585	Hannah van Wieringen	2
+4586	H. van Wieringen	2
+4587	C.J. Dippel	2
+4588	Henriette Albach-Tielrooy	2
+4589	Johannes de Graaf	2
+4590	H. François	2
+4591	U. Huber Noodt	2
+4592	F.J. de Holl	2
+4593	Paul Catz	2
+4594	Fazil Bey	2
+4595	J.M.E.M.A. Zonnenberg	2
+4596	J.M.J. Kooy	2
+4597	J.C.M. Kruisinga	2
+4598	D.C. van der Poel	2
+4599	Norbert Loeser	2
+4600	W.F. Heinemeijer	2
+4601	B. Sluimers	2
+4602	J.H. Willems	2
+4603	A. Jonkers	2
+4604	H. Dommisse	2
+4605	J. Buzeman	2
+4606	Hazil	2
+4607	L. v.d. Land	2
+4608	J.W.E. Riemens	2
+4609	A.M. Schiltmeyer	2
+4610	P.J. de Ridder	2
+4611	H.H.W. van Eijk	2
+4612	Dirk Jan van der Laan	2
+4613	Soedjatmoko	2
+4614	H.A. Tolhoek	2
+4615	H. van Rooijen	2
+4616	Sake Helder	2
+4617	G.J. Renes	2
+4618	Henriëtte Mooy	2
+4619	Loe Hsuun	2
+4620	J. Bronowski	2
+4621	Maria van der Steen	2
+4622	P. Hoogenboom	2
+4623	Naoya Shiga	2
+4624	H.P. Jullien	2
+4625	Birage Diop	2
+4626	Hans de Boer	2
+4627	Germaine Tillion	2
+4628	T. Haan	2
+4629	Katsumi Tanaka	2
+4630	Shigeharu Nakanó	2
+4631	Lieuwe Hornstra	2
+4632	L.O. Schuman	2
+4633	Frans De Bruyn	2
+4634	G.J.P. Cammelbeeck	2
+4635	S.H. Meijler	2
+4636	G.H. Slotemaker de Bruine	2
+4637	Caroline F. Ware	2
+4638	P. Jansen Schoonhoven	2
+4639	Margreet Koekebakker	2
+4640	Fries de Vries	2
+4641	Hieke de Jong	2
+4642	Anna Muntjewerf	2
+4643	Durk van der Ploeg	2
+4644	Jan Balicki	2
+4645	H.Th. Chabot	2
+4646	Apie Prins	2
+4647	A.Z. van 't Hoff Stolk-Huisman	2
+4648	F.R. Kraus	2
+4649	N.C. Clegg-Bruinwold Riedel	2
+4650	Ank Steenis	2
+4651	Frederick Franck	2
+4652	Bruce Burton	2
+4653	F. Kempers	2
+4654	Jan Noort	2
+4655	P.A. Kooijman	2
+4656	B.E. Rutgers	2
+4657	Margreet van Hoorn	2
+4658	Jan Messchert van Vollenhove	2
+4659	Henri H. van Calker	2
+4660	H.A. Westrate	2
+4661	Gerrit ten Bruggencate Hermz.	2
+4662	Johan Wesselink	2
+4663	Willem Frederik Schürmann	2
+4664	A. Wapenaar	2
+4665	Aert Schouman	2
+4666	B.M. Noach	2
+4667	A.S. Bijl	2
+4668	J.W. van Cittert	2
+4669	Heinrich Petermeyer	2
+4670	A. van Herk	2
+4671	K.W. de Groot	2
+4672	Jozef Goethals	2
+4673	C. Pekelharing	2
+4674	L. de Liefde	2
+4675	Hendrikus Pomes	2
+4676	Aimé de Marest	2
+4677	Is.P. de Vooys	2
+4678	L.H. Stronkhorst	2
+4679	Erik Hörnström	2
+4680	E.J. Gras	2
+4681	Th.H. d' Angremond	2
+4682	J. Overduin	2
+4683	J.A. Wartena	2
+4684	W.G.J.A. Jacob	2
+4685	G.A. Lindeboom	2
+4686	Hans van Zijl	2
+4687	G.A. Mesters	2
+4688	D.T. Spronk	2
+4689	W.H.N. van Wel	2
+4690	Helga Van Geertsom	2
+4691	J.W.N Delteijk	2
+4692	G.G. Ellerbroek	2
+4693	R. Pulinckx	2
+4694	K. Blokhuis	2
+4695	H. Ribbius	2
+4696	Maxime Deswarte	2
+4697	W. Vloedgraven-Stuyver	2
+4698	C.L. Sciarone	2
+4699	J. Lebeer	2
+4700	Louise Moor	2
+4701	Reind J. Elema	2
+4702	J.H. van Waveren	2
+4703	L.G. Oosten-Marwitz	2
+4704	A.G. van der Horst	2
+4705	A.W. ter Horst	2
+4706	Aletta Huijsinga	2
+4707	C. Binnerts	2
+4708	Christiaan Terpstra	2
+4709	Harriët Laurey	2
+4710	C. Kostelijk	2
+4711	Jan Frans Gratiaen	2
+4712	Gera Kraan-van den Burg	2
+4713	R. Galderoux	2
+4714	J. J. Lub	2
+4715	R.W.J. den Tex	2
+4716	Abraham Maas	2
+4717	Paul C.H. van der Goor	2
+4718	H. Bovenkerk	2
+4719	H.M. Eliassen-de Kat	2
+4720	Piet Kralt	2
+4721	Evert de Jong	2
+4722	R. Blok	2
+4723	Hans Barendregt	2
+4724	J. Kramer-Vreugdenhil	2
+4725	I. van Geest-Jacobs	2
+4726	Johan Th. Veenhof	2
+4727	Bertram Mourits	2
+4728	Ludo Poplemont	2
+4729	Anna Mertens	2
+4730	J.A. Risseeuw	2
+4731	Pieter Korthuys	2
+4732	Inge Lievaart	2
+4733	C.W. Sangster-Warnaars	2
+4734	Neels Everards	2
+4735	Andries Dongera	2
+4736	Jan Dolfering	2
+4737	Cor Alons	2
+4738	M. Siesling	2
+4739	C. Ouboter	2
+4740	J.C. Schuller	2
+4741	Frouwien van der Vooren-Kuyper	2
+4742	D.I. Bouman-Eringa	2
+4743	A. Middelhoek	2
+4744	Gerda Meylink	2
+4745	H.J. van Boekhoven	2
+4746	G.R. v.d. Beek	2
+4747	Johan van Hulzen	2
+4748	A.H. Hulzenkamp	2
+4749	Willem M. Kruseman	2
+4750	Frieda van Felden	2
+4751	Beatrice Willing	2
+4752	Jan Elzo Niemeijer	2
+4753	J. Veerman	2
+4754	J.W. Veerman	2
+4755	S.P. Akkerman	2
+4756	Herman Steggerda	2
+4757	Louise Imogen Guiney	2
+4758	Do van der Sloot	2
+4759	Marianne Colijn	2
+4760	Ralph Degens	2
+4761	Willem Mudde	2
+4762	John Henry uit den Bogaard	2
+4763	Charles Marie René Leconte de Lisle	2
+4764	P.B. van Dalfsen	2
+4765	N.H. Merkelijn	2
+4766	J.M. van Veen	2
+4767	W. Ruiten	2
+4768	G. van Heerde	2
+4769	Anthonie Stolk	2
+4770	Aize de Visser	2
+4771	M.H. Rijnsburger	2
+4772	Catharina van der Linden	2
+4773	M. Beinema	2
+4774	Bertien Buyl	2
+4775	Stuart B. Jackman	2
+4776	H. de Jongste	2
+4777	Elsa Sophia von Kamphoevener	2
+4778	Frits Huël	2
+4779	Arie Vermeer	2
+4780	Marinus A. den Braber	2
+4781	J.G. van der Veen	2
+4782	Anton B. Lam	2
+4783	Victor Spoor	2
+4784	Nabor Devolder	2
+4785	Adr. E. Maas	2
+4786	C. van Oosterhout	2
+4787	Jacobus Schuurmans Stekhoven	2
+4788	Carlo (graaf) Sforza	2
+4789	W.A. de Witte	2
+4790	Jac Heeren	2
+4791	Albe	3
+4792	Multatuli	3
+4793	Jan Stuyt	3
+4794	J.A. Alberdingk Thijm	3
+4795	J.F.M. Sterck	3
+4796	J.J. ten Berge S.J.	3
+4797	J.H. Abendanon	3
+4798	Jacob van Lennep	3
+4799	N. van Wijk	3
+4800	Melati van Java	3
+4801	Nicolaas Beets	3
+4802	Martinus des Amorie van der Hoeven	3
+4803	J. van Geuns	3
+4804	Emile Seipgens	3
+4805	G.J. Hoogewerff	3
+4806	G. Kalff	3
+4807	J.H. Groenewegen	3
+4808	E.J. Potgieter	3
+4809	Mark Prager Lindo	3
+4810	A. Kluyver	3
+4811	J.H. Scholte	3
+4812	Alfred de Vigny	3
+4813	A.A. Verdenius	3
+4814	E. Moll	3
+4815	P.A. de Génestet	3
+4816	Jan van Beers	3
+4817	G.W. van der Does	3
+4818	C.H. Telders	3
+4819	Robert Fruin	3
+4820	B.C.J. Loder	3
+4821	N. Donker	3
+4822	Jan van Gilse	3
+4823	Kasper Niehaus	3
+4824	W.H. Staverman	3
+4825	C.J. Vos	3
+4826	G.D. Franquinet	3
+4827	E.F. Kossmann	3
+4828	Albert C.A. Voortman	3
+4829	Jeronimo de Vries	3
+4830	Petrus Conradi	3
+4831	D.A. de Graaf	3
+4832	Jeanne Liedmeier	3
+4833	G. Vos de Wael	3
+4834	Alfred de Musset	3
+4835	William Wordsworth	3
+4836	R.C. Bakhuizen van den Brink	3
+4837	D.C. Tinbergen	3
+4838	J.W. Muller	3
+4839	J. Prins	3
+4840	H. de Vries	3
+4841	W.J.C. van Hasselt	3
+4842	A.C.W. Staring	3
+4843	L.A. te Winkel	3
+4844	J. Ackersdijck	3
+4845	J.P. Arend	3
+4846	F.A.W. Miquel	3
+4847	Montanus de Haan Hettema	3
+4848	H. Halbertsma	3
+4849	Jacob Geel	3
+4850	Wopke Eekhoff	3
+4851	J.J.A. Goeverneur	3
+4852	Henricus Bernardus Martini van Geffen	3
+4853	Petrus de Raadt	3
+4854	Vincent Loosjes	3
+4855	Herman Pol	3
+4856	Johan Rudolph Thorbecke	3
+4857	J.R. Thorbecke	3
+4858	A.W. Engelen	3
+4859	Joost Hiddes Halbertsma	3
+4860	Willem de Clercq	3
+4861	R.P.A. Dozy	3
+4862	P.J. Veth	3
+4863	S.J. van den Bergh	3
+4864	P.T. Helvetius van den Bergh	3
+4865	A. Kramer	3
+4866	Johan de Wal	3
+4867	J. Tideman	3
+4868	J.I.D. Nepveu	3
+4869	Gerrit de Clercq	3
+4870	Hendrik Chistiaan Millies	3
+4871	Friedrich Kaiser	3
+4872	J.J. van Toorenenbergen	3
+4873	J. van Tooren	3
+4874	S. Vissering	3
+4875	Dionys Burger	3
+4876	L. Ali Cohen	3
+4877	Isaäc da Costa	3
+4878	W.R. van Hoëvell	3
+4879	Henry Riehm	3
+4880	C. Bakker	3
+4881	Joannes Jacobus de Hollander	3
+4882	P. Halbertsma	3
+4883	Willem Gerard Brill	3
+4884	C.W. Opzoomer	3
+4885	L.Ph.C. van den Bergh	3
+4886	Salomon Müller	3
+4887	G.E. Voorhelm Schneevoogt	3
+4888	Ch. Lucas	3
+4889	Willem Richard Boer	3
+4890	Adam Smith	3
+4891	J.J. Rovère van Breugel	3
+4892	Dirk Harting	3
+4893	J. van Vloten	3
+4894	Willem Ernst Johan Berg	3
+4895	E.B. Swalue	3
+4896	E. Piaget	3
+4897	Jan Heemskerk Bzn.	3
+4898	A.L. Lesturgeon	3
+4899	A.V. Michiels	3
+4900	Johannes Kneppelhout	3
+4901	Christiaan Lodewijk Schuller tot Peursum	3
+4902	P.W. Korthals	3
+4903	A.C. Oudemans	3
+4904	Carel Adriaan Engelbregt	3
+4905	Antonie Niermeyer	3
+4906	J.J.L. ten Kate	3
+4907	Jan Pieter Heije	3
+4908	David Bierens de Haan	3
+4909	Willem Jan Knoop	3
+4910	Jan Heemskerk Azn.	3
+4911	Aug. Philips	3
+4912	H.J. Schimmel	3
+4913	B. van Meer	3
+4914	Johannes Zeeman	3
+4915	J.H. van den Broek	3
+4916	Lodewijk Willem van Deventer	3
+4917	W.C. Mees	3
+4918	Jakob Karel Willem Quarles van Ufford	3
+4919	C.C. Huysmans	3
+4920	H.J. van der Helm	3
+4921	J. de Wit	3
+4922	T.W.J. Juynboll	3
+4923	H. van Herwerden	3
+4924	D.J. Coster	3
+4925	Jacob Leonard de Bruyn Kops	3
+4926	W.J. Hofdijk	3
+4927	Ernst Julius Kiehl	3
+4928	John Murray	3
+4929	Johan Carl Zimmerman	3
+4930	Jozef Israëls	3
+4931	P.A.S. van Limburg Brouwer	3
+4932	C.A.J.A. Oudemans	3
+4933	W. de Sitter	3
+4934	F.M. Cowan	3
+4935	A.J. de Bull	3
+4936	Henriette Frederika Bosscha	3
+4937	Hendrik Jacob van der Heim	3
+4938	C.L. van Woelderen	3
+4939	Eugen Mehler	3
+4940	A. Jager	3
+4941	Jacob Riehman	3
+4942	J.C.G. Evers	3
+4943	George Willem Vreede	3
+4944	N.G. van Kampen	3
+4945	W.H. Stenfert Kroese	3
+4946	Marinus Lodewijk van Deventer	3
+4947	A. Rientjes	3
+4948	J.J. Viotta	3
+4949	J. van Wijk	3
+4950	S.J. Hoekstra	3
+4951	Arie de Jager	3
+4952	L.A.J.W. Sloet	3
+4953	C.H.D. Buys Ballot	3
+4954	Johannes Bosscha	3
+4955	Winand Carel Hugo Staring	3
+4956	Pieter Arend Leupe	3
+4957	M.M. von Baumhauer	3
+4958	K.A. Rombach	3
+4959	W.M. Perk	3
+4960	Jan Willem van Sypesteyn	3
+4961	F.C. Donders	3
+4962	J. Pijnappel	3
+4963	J. van Kuyk	3
+4964	F.J. Swartwout	3
+4965	A. van Hengel	3
+4966	Cornelis Hooyer	3
+4967	L.J. Egeling	3
+4968	H.C. van Hall	3
+4969	Sytze Hoekstra Bzn.	3
+4970	J.G.A. Faber	3
+4971	L.A.J. Burgersdijk	3
+4972	J. Burger	3
+4973	A. Kool	3
+4974	L.R. Beynen	3
+4975	A.W.M. van Hasselt	3
+4976	Daniel Koorders	3
+4977	Carl A.X.G.F. Sicherer	3
+4978	Johannes Aletta Marinus Mensinga	3
+4979	Jacobus Izaäk Doedes	3
+4980	J.J.P. Valeton	3
+4981	Adriaan Loosjes	3
+4982	C.P. Tiele	3
+4983	H. van Cappelle	3
+4984	Jan Herman Herman de Ridder	3
+4985	D.D. Büchler	3
+4986	R.T.H.P.L.A. van Boneval Faure	3
+4987	B.M. Perk	3
+4988	Pieter Nicolaas Muller	3
+4989	Conradus Leemans	3
+4990	J.J. de Gelder	3
+4991	Joannes Tideman	3
+4992	Gozewinus Acker Stratingh	3
+4993	Samuel Adrianus Naber	3
+4994	Willem Doorenbos	3
+4995	Guillaume Henri Marie Delprat	3
+4996	J.T. Buys	3
+4997	Elise van Calcar	3
+4998	P.J. Hollman	3
+4999	J.E. Banck	3
+5000	C. de Groot	3
+5001	W.C.A. Staring	3
+5002	Nicolaus Meursinge	3
+5003	Mari Johan Mees	3
+5004	W.C.D. Olivier	3
+5005	August von Platen	3
+5006	Lodewijk Willem Ernst Rauwenhoff	3
+5007	B. van Geuns	3
+5008	Lodewijk Mulder	3
+5009	N.W.P. Rauwenhoff	3
+5010	J.C. Reepmaker	3
+5011	H.A. Wijnne	3
+5012	Jan Jacob de Gelder	3
+5013	Johan Adam Wijnne	3
+5014	Jan Pieter Nicolaas Land	3
+5015	Jan van Rossem	3
+5016	Abraham Kuenen	3
+5017	E. van der Ven	3
+5018	Herman Franke	3
+5019	Johannes Pols	3
+5020	Adrianus Bruinvisch Maatjes	3
+5021	Rhoda	3
+5022	Albert Hendrik Arnoldus Ekker	3
+5023	Ben Sloot	3
+5024	H.C. Rogge	3
+5025	H. Burger	3
+5026	Antony Winkler Prins	3
+5027	L.W.C. Keuchenius	3
+5028	Simke Heerts Rinkes	3
+5029	Prosper Mérimée	3
+5030	C.P. Burger	3
+5031	T.K.M. von Baumhauer	3
+5032	W.M. Logeman	3
+5033	Nicolas Charles Sieburgh	3
+5034	H. Wouters	3
+5035	H.P. van Karnebeek	3
+5036	G.H. Betz	3
+5037	M.H. Jansen	3
+5038	H. Jansen	3
+5039	B.W. Wttewaall van Wickenburgh	3
+5040	A.S. Carpentier Alting	3
+5041	Henry Wadsworth Longfellow	3
+5042	W. Ruys	3
+5043	D.W. Rost van Tonningen	3
+5044	P.J.B.C. Robidé van der Aa	3
+5045	J. Wttewaall	3
+5046	Cd. Busken Huet	3
+5047	J.P. Hasebroek	3
+5048	C. Wolterbeek	3
+5049	G.F. de Bruyn Kops	3
+5050	T.T.H. Jorissen	3
+5051	E.J.P. Jorissen	3
+5052	W.N. du Rieu	3
+5053	S.J. Hingst	3
+5054	C. Winkler	3
+5055	Johan Willem Tydeman	3
+5056	Anton Reinhard Falck	3
+5057	Abraham Dirk Loman	3
+5058	A.L.G. Bosboom-Toussaint	3
+5059	Samuël Senior Coronel	3
+5060	Johannes Margadant	3
+5061	Hippoliet Bauduin	3
+5062	Tobias Michael Carel Asser	3
+5063	P.A. Tiele	3
+5064	T.J. Halbertsma	3
+5065	Steven Blaupot ten Cate	3
+5066	Johannes Philippus Heukelom	3
+5067	Nikolaas Gerard Pierson	3
+5068	Gerard Keller	3
+5069	H.P.G. Quack	3
+5070	J. ten Brink	3
+5071	Julius Christiaan van Deventer	3
+5072	Eelco Verwijs	3
+5073	N.J. den Tex	3
+5074	A.T. Reitsma	3
+5075	Hermannus Bouman	3
+5076	David Jacob van Lennep	3
+5077	J. Beckering Vinckers	3
+5078	J.F.B. Baert	3
+5079	F.P.J. Sibmacher Zìjnen	3
+5080	Samuel van Houten	3
+5081	Gerrit Kuyper Hzn	3
+5082	R. Feith	3
+5083	Raul	3
+5084	George Eliot	3
+5085	Thomas Kroon JHz.	3
+5086	F.G. Steck	3
+5087	J. Bogaerts	3
+5088	Henri Ernest Moltzer	3
+5089	D.E.W. Wolff	3
+5090	R.S. Tjaden Modderman	3
+5091	Nicolaas Jacob Bernard Kappeyne van de Coppello	3
+5092	Isaäc Dornseiffen	3
+5093	W.A. van Rees	3
+5094	Tiberius Cornelius Winkler	3
+5095	Izaak Jan Blaupot ten Cate	3
+5096	Nicolaas Bernhardus Donkersloot	3
+5097	S.E. Harthoorn	3
+5098	J.J. Meinsma	3
+5099	G.H.J. Elliot Boswel	3
+5100	W.P. Sautijn Kluit	3
+5101	H.G. van de Sande Bakhuyzen	3
+5102	A.H.G.P. van den Es	3
+5103	Jan ten Brink	3
+5104	G. Colmjon	3
+5105	Joan Karel Hendrik de Roo van Alderwerelt	3
+5106	H.Q. Janssen	3
+5107	Michiel Johannes de Goeje	3
+5108	H. Oort	3
+5109	G.J. Grashuis	3
+5110	B.H.C.K. van der Wijck	3
+5111	J.H. Swildens	3
+5112	J.A. van Dijk	3
+5113	N.P. van den Berg	3
+5114	Folkertinus Nicolaas Sickenga	3
+5115	W.A. Reiger	3
+5116	C.A. Crommelin	3
+5117	H. Neubronner van der Tuuk	3
+5118	J.C. de Vries	3
+5119	H. van der Hoeven	3
+5120	T.J. Stieltjes	3
+5121	A.J.A. Gerlach	3
+5122	H.T. Karsten	3
+5123	Carel Vosmaer	3
+5124	L. de Hartog	3
+5125	A.E. Croockewit	3
+5126	Meinardus Siderius Pols	3
+5127	Piet van Os	3
+5128	M.T.H. Perelaer	3
+5129	Daniël Veegens	3
+5130	A.C. de Jong	3
+5131	Henricus Oort	3
+5132	Abraham Seyne Kok	3
+5133	Wilhelm Martin	3
+5134	P.J. de Roode	3
+5135	C.J.F. Mirandolle	3
+5136	Simon Gorter	3
+5137	W.C. van Manen	3
+5138	Charles Boissevain	3
+5139	Johan Gram	3
+5140	A.G.A. van Rappard	3
+5141	Willem Johannes Franciscus Nuyens	3
+5142	T.C. van der Kulk	3
+5143	Jacob Gijsbert de Hoop Scheffer	3
+5144	Dirk van Delft	3
+5145	Joan Bohl	3
+5146	D. Huizinga	3
+5147	A.C. Loffelt	3
+5148	H.F.R. Hubrecht	3
+5149	J. l' Ange Huet	3
+5150	François de Casembroot	3
+5151	Isaac Arnold Lamping	3
+5152	P. de Boer	3
+5153	K.W. van Gorkom	3
+5154	J.M. de Jong	3
+5155	J.H. Holwerda	3
+5156	W.F.R. Suringar	3
+5157	Jan Six	3
+5158	C.M. Vos	3
+5159	Cornelius Marius Kan	3
+5160	P.J.W. Teding van Berkhout	3
+5161	Victor de Stuers	3
+5162	J.S.G. Gramberg	3
+5163	Adriaan van Eck	3
+5164	F.S. van Nierop	3
+5165	Jan van der Hoeven	3
+5166	Willem Pieter Wolters	3
+5167	Arthur Hugh Clough	3
+5168	H. Kern	3
+5169	S.J. Fockema Andreae	3
+5170	P. van Geer	3
+5171	M.H. du Croo	3
+5172	P.J. Cosijn	3
+5173	Jérome Alexandre Sillem	3
+5174	D.J. Mom Visch	3
+5175	G. de Bosch Kemper	3
+5176	W. Scheffer	3
+5177	Cornelis Bellaar Spruyt	3
+5178	Pieter Lodewijk Muller	3
+5179	Balthazar Heldring	3
+5180	E.B. Kielstra	3
+5181	Pieter Marinus Netscher	3
+5182	Jean Baptist van Hugenpoth tot den Beerenclauw	3
+5183	Hendrik Wolfgang van der Meij	3
+5184	Th.H. MacGillavry	3
+5185	N.G. Cnoop Koopmans	3
+5186	J.N. van Hall	3
+5187	A.J.W. Farncombe Sanders	3
+5188	Johannes Bodel Nijenhuis	3
+5189	Johan Hermann Christian Heyse	3
+5190	D. de Loos	3
+5191	Herman François Waller	3
+5192	Hugo Beyerman	3
+5193	Bruno Jz. Tideman	3
+5194	H.J. van Ankum	3
+5195	Pieter Heering	3
+5196	W.A. Verschuer	3
+5197	W.C. Hojel	3
+5198	C. Honigh	3
+5199	H. Baudet	3
+5200	J. van Baal	3
+5201	G. Burger	3
+5202	Albert Jan ten Brink	3
+5203	Wilhelm Scherer	3
+5204	Jan Willem Gerbrandt van Oordt	3
+5205	L.M.J. Glasius	3
+5206	H. van de Stadt	3
+5207	Jacob Paulus Amersfoordt	3
+5208	M.C.L. Lotsij	3
+5209	R.A. Mees	3
+5210	M.A.N. Rovers	3
+5211	Pieter Antonie van der Lith	3
+5212	Jan Hartog	3
+5213	Jeronimo de Bosch Kemper	3
+5214	Floris der Kinderen Fzn.	3
+5215	W. Heineken	3
+5216	Adriaan Huet	3
+5217	Barthold Jacob Lintelo de Geer van Jutphaas	3
+5218	Daniël Hartevelt	3
+5219	Elise Adelaïde Haighton	3
+5220	R.P. Mees Azn.	3
+5221	G.A. van Hamel	3
+5222	Samuel Muller	3
+5223	Gerardus Petrus Booms	3
+5224	Pierre Joseph Henry Baudet	3
+5225	J.L. Hoorweg	3
+5226	J.E. Enklaar	3
+5227	P. Koster	3
+5228	Taco H. de Beer	3
+5229	Frederik Christiaan de Brieder	3
+5230	Hugo de Vries	3
+5231	W.K. van Dedem	3
+5232	A.S.C. Wallis	3
+5233	F. de Witt Huberts	3
+5234	J.C. de Marez Oyens	3
+5235	Ewaldus Daniël Pijzel	3
+5236	W. Koster Gzn.	3
+5237	Henrick Witte	3
+5238	M.C. Piepers	3
+5239	J.A.F.L. van Heeckeren	3
+5240	F.H. Boogaard	3
+5241	Marie Henriëtte Koorders-Boeke	3
+5242	Willem Hendrik de Beaufort	3
+5243	H.J.A.M. Schaepman	3
+5244	Willem Degenhardt	3
+5245	Johan Hendrik Gallée	3
+5246	J. Verdam	3
+5247	Willem Arnold Pieter Pistorius	3
+5248	Samuel Muller Fzn.	3
+5249	Carel van Nievelt	3
+5250	Johan Drabbe	3
+5251	J.G. Gleichman	3
+5252	A.G. van Hamel	3
+5253	Willem Pleyte	3
+5254	Cornelis Stoffel	3
+5255	P.H. van der Kemp	3
+5256	Adrianus Dirk de Vries	3
+5257	D.C. Meijer	3
+5258	A.C. Joosten	3
+5259	Adrianus Daniel de Vries	3
+5260	Cornelis Backer	3
+5261	F. van Lennep	3
+5262	A.C. Vreede	3
+5263	Th.W. Engelmann	3
+5264	Hendrik Hooyer	3
+5265	Jacobus Craandijk	3
+5266	Johan baron d' Aulnis de Bourouill	3
+5267	Tijs Terwey	3
+5268	J. van Loenen Martinet	3
+5269	B. Symons	3
+5270	A. Bruining	3
+5271	Aart Admiraal	3
+5272	C.J. Wolterbeek	3
+5273	Johannes de Koo	3
+5274	A.A.W. Hubrecht	3
+5275	A.L.W. Seyffardt	3
+5276	J.G. Frederiks	3
+5277	H.G. Roodhuyzen	3
+5278	Charles François van Duyl	3
+5279	Jacob Hendrik Hora Siccama	3
+5280	V.A. Julius	3
+5281	Friedrich Rückert	3
+5282	J. Aleida Nijland	3
+5283	H. van Cappelle jr.	3
+5284	Jacob Adolf Bruno Wiselius	3
+5285	Anthonie Marius Kollewijn	3
+5286	Jean Charles Naber	3
+5287	J.C. Costerus	3
+5288	Maurits Smit	3
+5289	T.H.F. van Riemsdijk	3
+5290	Nicolaas de Roever	3
+5291	Dirk Merens	3
+5292	Anth. Grolman	3
+5293	Louis D. Petit	3
+5294	H.L. Berckenhoff	3
+5295	T.M. Tromp	3
+5296	J. Boudewijnse	3
+5297	Paul Fredericq	3
+5298	J.H. Hooijer	3
+5299	L.R. Koolemans Beynen	3
+5300	Anton Gerard van Hamel	3
+5301	Anne Busken Huet-van der Tholl	3
+5302	Johannes Reitsma A.Tzn.	3
+5303	Gerrit de Vries	3
+5304	C.C. Geertsema	3
+5305	Jan Philip de Bordes	3
+5306	Gerard Valette	3
+5307	Jan de Louter	3
+5308	L.W.C. van den Berg	3
+5309	Petrus Martinus Bots	3
+5310	M.E.F. Elout van Soeterwoude	3
+5311	M.A. Perk	3
+5312	Robert Macalester Loup	3
+5313	L.A.J.W. baron Sloet van de Beele	3
+5314	J. Röell	3
+5315	Jan Jacob van Geuns	3
+5316	Melchior Treub	3
+5317	J.D. de Jong	3
+5318	François de Bas	3
+5319	J.C.M. van Riemsdijk	3
+5320	L. de Vlaming	3
+5321	Joh. Dyserinck	3
+5322	Herman Agatho des Amorie van der Hoeven	3
+5323	C. Terburch	3
+5324	W. Gosler	3
+5325	Thérèse Schwartze	3
+5326	Henricus Anastasius Viotta	3
+5327	H.U. Meyboom	3
+5328	Jac. Moleschott	3
+5329	A.J. Immink	3
+5330	Johannes Hermanus Gunning jr.	3
+5331	C.J. van Assen	3
+5332	H.L. Drucker	3
+5333	Philippus van Blom	3
+5334	J. 't Hart	3
+5335	Anthony Beaujon	3
+5336	H. Geerts	3
+5337	Bernard Dominicus Hubertus Tellegen	3
+5338	Constantinus Bake	3
+5339	J.T. Cremer	3
+5340	B.J. Stokvis	3
+5341	H.J. de Marez Oyens	3
+5342	J.W. van der Linden	3
+5343	Jan Carel Matthes	3
+5344	Jan Izaak van Doorninck	3
+5345	H.F. Jonkman	3
+5346	P.A.M. Boele van Hensbroek	3
+5347	Pieter Gerard van Schermbeek	3
+5348	P.W.A. Cort van der Linden	3
+5349	B. Sijmons	3
+5350	W.B.G. Molkenboer	3
+5351	Pierre Daniel Chantepie de la Saussaye	3
+5352	B. Dorhout Mees	3
+5353	Willem baron van Goltstein	3
+5354	A.W. Kroon-Star Numan	3
+5355	Marie Agathe Boddaert	3
+5356	H.W. van Loon	3
+5357	A.E.J. Holwerda	3
+5358	J.C.G. Jonker	3
+5359	Henri David Levyssohn Norman	3
+5360	J. Bok	3
+5361	G.M. Boissevain	3
+5362	Adriaan Pit	3
+5363	R.P.J. Tutein Nolthenius	3
+5364	M.J. Pijnappel	3
+5365	Johannes Mulder	3
+5366	Willem Pieter Cornelis Knuttel	3
+5367	Matthias de Vries	3
+5368	W.G.C. Byvanck	3
+5369	H.J. Polak	3
+5370	J.P. Moltzer	3
+5371	J.H.F. Sollewijn Gelpke	3
+5372	Willem van der Vlugt	3
+5373	Th. Swart Abrahamsz	3
+5374	Pieter Nicolaas van Kampen	3
+5375	J. Berlage	3
+5376	K. Kuiper	3
+5377	A. Kluijver	3
+5378	Jan F. Beekman	3
+5379	J.H. van den Bosch	3
+5380	J.J.A.A. Frantzen	3
+5381	J.E. Sachse	3
+5382	A.L.H. Ising	3
+5383	C.A. Steger	3
+5384	J.A. Tours	3
+5385	G.H. Priem	3
+5386	R.A. Kollewijn	3
+5387	G.C.J. Vosmaer	3
+5388	G.J. Boekenoogen	3
+5389	W.R. Veder	3
+5390	R.W.P. de Vries	3
+5391	Jacob Dirks	3
+5392	Louis Havet	3
+5393	Gerard Slothouwer	3
+5394	P.J. Blok	3
+5395	H. J. Eymael	3
+5396	C.C. Uhlenbeck	3
+5397	Johanna A. Wolters	3
+5398	S.J. Warren	3
+5399	J. Kruseman	3
+5400	Wolfgang Brandt	3
+5401	Jan Frederik Niermeyer	3
+5402	J.F. Niermeyer	3
+5403	Willem Frederik Andriessen	3
+5404	N. Mansvelt	3
+5405	P. van Romburgh	3
+5406	F.A.F.C. Went	3
+5407	Maria Bosch	3
+5408	L. Knappert	3
+5409	L.H. Slotemaker	3
+5410	Abraham Bredius	3
+5411	H. Logeman	3
+5412	Geertruida Carelsen	3
+5413	José-Maria de Heredia	3
+5414	J.F. van Bemmelen	3
+5415	L. Serrurier	3
+5416	Nicolaas Dirk Doedes	3
+5417	J.E. Heeres	3
+5418	J.H. Kips	3
+5419	Johannes Theodorus Petrus de Groot	3
+5420	F.V. Engelenburg	3
+5421	Gerard Vissering	3
+5422	F.J.L. Krämer	3
+5423	Frederike J. van Uildriks	3
+5424	J.J. Salverda de Grave	3
+5425	S.R. Steinmetz	3
+5426	Jan Marcus Hoogvliet	3
+5427	J.M. Hoogvliet	3
+5428	Foeke Buitenrust Hettema	3
+5429	W.L.P.A. Molengraaff	3
+5430	Jacob Gerard Patijn	3
+5431	Samuel Kalff	3
+5432	J. Mathijs Acket	3
+5433	G. den Tex	3
+5434	C.A.E. Wichmann	3
+5435	D.C. Hesseling	3
+5436	M.W.F. Treub	3
+5437	Joh. H. Been	3
+5438	G.H. Marius	3
+5439	J.G.C. Joosting	3
+5440	H.P.N. Muller	3
+5441	O.M. de Munnick	3
+5442	Anna van Hogendorp	3
+5443	Ida Heijermans	3
+5444	J.G. Nijk	3
+5445	A. Gildemeester	3
+5446	Gideon Busken Huet	3
+5447	Herman Muntinghe	3
+5448	Koh-i-noor	3
+5449	H.T. Colenbrander	3
+5450	E.N. Rahusen	3
+5451	Johannes Hermanus Gunning J. Hzn.	3
+5452	W. Nolen	3
+5453	Gerrit van Gorkom	3
+5454	Hendrik Johan Haverman	3
+5455	Aletta H. Jacobs	3
+5456	Bruneau	3
+5457	S.G. de Vries	3
+5458	Paul François Hubrecht	3
+5459	C.H.Th. Bussemaker	3
+5460	Conrad Th. van Deventer	3
+5461	R.A. van Sandick	3
+5462	Judith Viorst	3
+5463	Aloysius Brouwer Ancher	3
+5464	G.F. Haspels	3
+5465	W.W. van der Meulen	3
+5466	J.W.T. Cohen Stuart	3
+5467	A.W. Weissman	3
+5468	C.G.S. Sandberg	3
+5469	M.E. Houck	3
+5470	T.J. de Boer	3
+5471	J. de Boer	3
+5472	Arnoldus Wilhelmus Stellwagen	3
+5473	H.D.H. Bosboom	3
+5474	Johannes Hasselman	3
+5475	C.J. Hasselman	3
+5476	G. Polvliet	3
+5477	J.B. Schepers	3
+5478	N.J. Singels	3
+5479	I. Kooistra	3
+5480	H.H. Juynboll	3
+5481	C.K. Elout	3
+5482	J. Limburg	3
+5483	Dan. Engelen	3
+5484	F.J.L. Rompel	3
+5485	J.J.G. Vürtheim	3
+5486	G.P. Rouffaer	3
+5487	M.H. van Campen	3
+5488	Johanna Naber	3
+5489	Hélène Mercier	3
+5490	Johanna de Jongh	3
+5491	H.L. Oort	3
+5492	H.J. de Dompierre de Chaufepié	3
+5493	J.H. Blankert	3
+5494	Wilhelmus Johannes Kühler	3
+5495	Marie Loke	3
+5496	Ch.F. Haje	3
+5497	J.A.A.H. de Beaufort	3
+5498	Jan Limburg	3
+5499	Karel Vos	3
+5500	J.H. van 't Hoff	3
+5501	Martha Johanna Hamaker	3
+5502	J. de Jager	3
+5503	W.H. Hasselbach	3
+5504	Nicolaas Japikse	3
+5505	J. van den Bergh van Eysinga-Elias	3
+5506	J. Bosboom Nz.	3
+5507	A. Meyroos	3
+5508	J. Hobma	3
+5509	Jacob Samuel Speyer	3
+5510	H.P. Staal	3
+5511	Rudolf Steinmetz	3
+5512	J.D.C. van Dokkum	3
+5513	J.C.C. Tonnet	3
+5514	Hendrik C. Diferee	3
+5515	Herman Frederik Carel ten Kate	3
+5516	Christiaan Snouck Hurgronje	3
+5517	W.E. van Dam van Isselt	3
+5518	Pieter Valkhoff	3
+5519	H.E. Greve	3
+5520	Rommert Casimir	3
+5521	Johannes Benedictus Kan	3
+5522	Eltjo Aldegondus van Beresteyn	3
+5523	Johanna Westerdijk	3
+5524	J.H.W. Leliman	3
+5525	A. Moresco	3
+5526	F. de Haan	3
+5527	C.A. Pekelharing	3
+5528	H. van Strien	3
+5529	E.M. ten Cate	3
+5530	Jan Jelles Hof	3
+5531	J. Prinsen J.Lzn	3
+5532	Willem Meijer	3
+5533	Jac. P. Thijsse	3
+5534	Jan Slingenberg	3
+5535	H.G. van der Vies	3
+5536	J.J. Tesch	3
+5537	J.J. Bekaar	3
+5538	W.P. Kops	3
+5539	G.A. van den Bergh van Eysinga	3
+5540	F.P.H. Prick van Wely	3
+5541	Johan Christiaan van Eerde	3
+5542	A.S. van Oven	3
+5543	Frederik Daniel Eduard van Ossenbruggen	3
+5544	H.F. Wirth	3
+5545	J.Ph. Vogel	3
+5546	H.G. van der Waals	3
+5547	W. Vollgraff	3
+5548	A.O. van Kerkwijk	3
+5549	C.E. Hooykaas	3
+5550	H.M. van Nes	3
+5551	W.J. Aalders	3
+5552	Johannes Aarnout Loebèr jr.	3
+5553	A.W. Nieuwenhuis	3
+5554	H.J. Westerling	3
+5555	Frits Leonhard	3
+5556	Jan Overduin	3
+5557	Gerrit Kalff jr.	3
+5558	E. W. Holthuysen	3
+5559	Th.M. Roest van Limburg	3
+5560	A.W. van Renterghem	3
+5561	H. Enno van Gelder	3
+5562	D. Bos	3
+5563	J.H. Deibel	3
+5564	A.H. Blaauw	3
+5565	Matthée Corneille Valeton	3
+5566	Leo Speet	3
+5567	J.P. Lotsy	3
+5568	G.E. Opstelten	3
+5569	J.P. Kuenen	3
+5570	Jac. van Looy	3
+5571	S. Cramer	3
+5572	D. Merens	3
+5573	Dan. de Lange jr.	3
+5574	Martin Albers	3
+5575	Herman Frijda	3
+5576	F.J.J. Buitendijk	3
+5577	Hendrika Ghijsen	3
+5578	A. Geyl	3
+5579	W.M.F. Mansvelt	3
+5580	Johannes van der Elst	3
+5581	J.H. van Zanten	3
+5582	M. Hanot	3
+5583	E.C. Abendanon	3
+5584	G.A.J. Hazeu	3
+5585	F. Dijkema	3
+5586	A.B. Droogleever Fortuyn	3
+5587	Gerbert Scholten	3
+5588	G.A. Wumkes	3
+5589	L.M.A. von Schmid	3
+5590	A.S. Oppenheim	3
+5591	J.M. Bottemanne	3
+5592	Simon van Brakel	3
+5593	V.H. Rutgers	3
+5594	Sybrand Allard Waller Zeper	3
+5595	H.L. van Oordt	3
+5596	F. Beelaerts van Blokland	3
+5597	Pierre Blussé	3
+5598	Willem van der Kaay	3
+5599	Lodewijk Franck	3
+5600	A.E. Kluit-de Clercq	3
+5601	F.C. Dominicus	3
+5602	E.D. van Dissel	3
+5603	F.J.A. Huart	3
+5604	Ferrad Whaley Hudig	3
+5605	F. Adama van Scheltema	3
+5606	J. Reitsma	3
+5607	S.I. van Zuylen van Nyevelt	3
+5608	A.W.C. Zuidema	3
+5609	Abraham Benjamin Cohen Stuart	3
+5610	David Maarschalk	3
+5611	P.L. van Eck jr.	3
+5612	D. Dresden	3
+5613	J.B. Manger	3
+5614	L.A. Alting Mees	3
+5615	W.J.J.C. Bijleveld	3
+5616	P.C.J.A. Boeles	3
+5617	Th. van Welderen Rengers	3
+5618	R. Goris	3
+5619	Pieter Zeeman	3
+5620	Boudewijn Nierstrasz	3
+5621	P.E. van Renesse	3
+5622	P.C. Molhuysen	3
+5623	C.J.J. Westermann	3
+5624	J.W. van Nouhuys	3
+5625	F.C. Wieder	3
+5626	Arie Zijderveld	3
+5627	Christoffel Verwey	3
+5628	H.W.J. Kroes	3
+5629	W.L. de Vreese	3
+5630	Anny C.A. Alberdingk Thijm	3
+5631	Gerrit Besselaar	3
+5632	J.F. Oltmans	3
+5633	Douwe Kalma	3
+5634	A. Feberwee	3
+5635	Tine Brinkgreve-Wicherink	3
+5636	Hermanus Arnoldus Idema	3
+5637	Jan Daman	3
+5638	Gs. Finjee	3
+5639	Hendrik Riemens	3
+5640	A.S. de Leeuw	3
+5641	A.J. Bernet Kempers	3
+5642	W.F. Prins	3
+5643	Hajo Brugmans	3
+5644	F.W.S. van Thienen	3
+5645	Johannes Rahder	3
+5646	J.P.A. François	3
+5647	A.J. Wensinck	3
+5648	J.P. van Limburg Stirum	3
+5649	C.D.H. Schneider	3
+5650	C.J.K. van Aalst	3
+5651	Jan Willem Meyer Ranneft	3
+5652	J. Saks	3
+5653	A. Prins	3
+5654	F.W. Prins	3
+5655	H. van der Tuin	3
+5656	Daam Fockema	3
+5657	A. Schuurman	3
+5658	H. Ramaer	3
+5659	J.P. Fockema Andreae	3
+5660	F.S. Knipscheer	3
+5661	P. Lascaris	3
+5662	A.F. Zwaardemaker	3
+5663	N.J. Krom	3
+5664	J. Zaaijer	3
+5665	Jan Willem Berkelbach van der Sprenkel	3
+5666	Johannes Berg	3
+5667	Nicolaas Johannes Cornelis Marie Kappeyne van de Coppello	3
+5668	A.M.J.I. Binnewiertz	3
+5669	Christina Kroes-Ligtenberg	3
+5670	A.S. de Blécourt	3
+5671	Sofia Antoniadis	3
+5672	J.S. van Veen	3
+5673	A.P. Kieft	3
+5674	Leo Verdievel	3
+5675	F. Ph. Groeneveld	3
+5676	G.M. van der Plank	3
+5677	H.I. Keus	3
+5678	G.J.H. Kuyk	3
+5679	W. Rip	3
+5680	E. Horbach	3
+5681	August Henkels	3
+5682	Tue Gad	3
+5683	L.L. Hammerich	3
+5684	S.A.M. Bottenheim	3
+5685	W. Haanstra	3
+5686	A.A. van Rijnbach	3
+5687	Seerp Gratama	3
+5688	H. de Buck	3
+5689	Henri A. Ett	3
+5690	Gerrit Kamphuis	3
+5691	Jan Lincklaan Westenberg	3
+5692	Mario Verdone	3
+5693	Emilio Lavagnino	3
+5694	P.J.J. Diermanse	3
+5695	J.G. van der Ploeg	3
+5696	Kornelis Sneyders de Vogel	3
+5697	Fernán Silva Valdés	3
+5698	José Gorostiza	3
+5699	Rufino Blanco Fombona	3
+5700	Menotti del Picchia	3
+5701	Martha de Castro	3
+5702	Reindert Jacobsen	3
+5703	Martin Adán	3
+5704	Manuel Bandeira	3
+5705	L.J. Hartog	3
+5706	H.H. Knippenberg	3
+5707	H.F. Wijnman	3
+5708	A. van Marle	3
+5709	G.C. de Vries	3
+5710	R. Pennink	3
+5711	Jan van Zutphen	3
+5712	R.J.A. van Suchtelen van de Haere	3
+5713	J.N. Jacobsen Jensen	3
+5714	Oswaldo Salazar	3
+5715	J. Mees	3
+5716	Ed. Ebels	3
+5717	J.Th.M. Palstra	3
+5718	C.J. Stigter	3
+5719	L.P.J. Veelenturf	3
+5720	Fred Bornstein	3
+5721	Tessel Pollmann	3
+5722	I.Q. van Regteren Altena	3
+5723	Vikentij Gerasimtsjoek	3
+5724	Antal Sivirsky	3
+5725	Paul Kapteyn	3
+5726	H.R. van Gunsteren	3
+5727	Loek Esmeijer	3
+5728	K.O. Meinsma	3
+5729	W. van Drimmelen	3
+5730	Alfred Pijpers	3
+5731	Michael Masuch	3
+5732	C.G. Brouwer	3
+5733	P.S. van Koningsveld	3
+5734	J.A. Bornewasser	3
+5735	H.L. Wesseling	3
+5736	M.J. Weggelaar	3
+5737	Y.S. Brenner	3
+5738	Maria Bogucka	3
+5739	E. van den Boogaart	3
+5740	Dhiravat na Pomberja	3
+5741	Pauline Moody	3
+5742	Willem Otterspeer	3
+5743	Ilja Scholten	3
+5744	A.C.M. de Kok	3
+5745	W. Albeda	3
+5746	Kees Caljé	3
+5747	Otto van den Muijzenberg	3
+5748	Henk Schulte Nordholt	3
+5749	Frans Hüsken	3
+5750	Elly Touwen-Bouwsma	3
+5751	P.A.M. Geurts	3
+5752	Marga Demmers	3
+5753	Carme Riera	3
+5754	Xavier Fàbregas	3
+5755	C.M. van Hille-Gaerthé	3
+5756	H.J. 't Hart	3
+5757	Louis J. Mostertman	3
+5758	Ph.M. Bosscher	3
+5759	Ch. Enschedé	3
+5760	G.A. Wagner	3
+5761	B. de Gaay Fortman	3
+5762	E.P. Wellenstein	3
+5763	Jan J. Klant	3
+5764	J.C. Heesterman	3
+5765	Hans Calis	3
+5766	Herman Hertzberger	3
+5767	M. Schönfeld	3
+5768	Jan Lucassen	3
+5769	Paul M. Doolan	3
+5770	Agnes M. Zwaneveld	3
+5771	Remieg Aerts	3
+5772	Margret Brügmann	3
+5773	Willem Derks	3
+5774	H. Schippers	3
+5775	F.G. von der Dunk	3
+5776	Jack Vance	3
+5777	Hendrik Pierson	3
+5778	Henry Schogt	3
+5779	Wouter Gomperts	3
+5780	Henk te Velde	3
+5781	J.A. Bientjes	3
+5782	Willem Caland	3
+5783	Gie van den Berghe	3
+5784	Jeroen Boomgaard	3
+5785	Willem Vogelsang	3
+5786	Paul Marlee	3
+5787	Luc Alofs	3
+5788	Henna Goudzand	3
+5789	D. Frenkel	3
+5790	J. Breman	3
+5791	Jeanette Bos	3
+5792	Ann Laura Stoler	3
+5793	Heather Sutherland	3
+5794	Dorelies Kraakman	3
+5795	Sara van Epenhuysen	3
+5796	Carla Rijkenberg	3
+5797	Gerard van Emmerik	3
+5798	P. Clausing	3
+5799	Peter Drehmanns	3
+5800	W. Matthijs	3
+5801	Eelco Runia	3
+5802	I.S. Toergenjev	3
+5803	P.B.M. Blaas	3
+5804	Tijl Huygen	3
+5805	Emile Schra	3
+5806	Edith van Ruyven	3
+5807	Frank Verkuijl	3
+5808	Frederike Huygen	3
+5809	Menno Tamminga	3
+5810	Leo Steinberg	3
+5811	Ellen Ombre	3
+5812	Stella Braam	3
+5813	Jan Gerhardus Ottema	3
+5814	Babet Mossel	3
+5815	Aryeh Lev Stollman	3
+5816	Peter-Paul Verbeek	3
+5817	Petran Kockelkoren	3
+5818	Eug. de Lepeleer	3
+5819	Paolo Gentili	3
+5820	Florimond Heuvelmans	3
+5821	Johannes Romboldus van der Lans	3
+5822	L.P.H. Eykman	3
+5823	C.P.F. Lecoutere	3
+5824	O. Cornet	3
+5825	J.W. van Heeswijk	3
+5826	Ernest Soens	3
+5827	Dirk van Minden	3
+5828	A.W. Sanders van Loo	3
+5829	Tom Bruce	3
+5830	J.F. van Olmhof	3
+5831	J.W. Bierma	3
+5832	Em. Broes	3
+5833	Joseph Feskens	3
+5834	J. Stuyck	3
+5835	Floris de Cuyper	3
+5836	Ed. de Jonghe	3
+5837	Jacob Mees	3
+5838	K. de Wals	3
+5839	P.A. van Rooy	3
+5840	Aug. Bruijnseels	3
+5841	Camille Poupeye	3
+5842	Jos Pierreux	3
+5843	A.J. van de Perre	3
+5844	J.C.J. Kleijntjens	3
+5845	J. Kleyntjens	3
+5846	Odo Siril	3
+5847	Huber Lebon	3
+5848	J.M.L. Keuller	3
+5849	A.R. Vincke	3
+5850	Jozef de Voght	3
+5851	Julius de Wachtere	3
+5852	E.D. van Nuffel	3
+5853	G.H. Weustink	3
+5854	Hubert van de Weerd	3
+5855	A.C.S. de Koe	3
+5856	Raynerius Podevijn	3
+5857	Jos Spriet	3
+5858	Karel van Sull	3
+5859	Odilon Demarre	3
+5860	E.H.J. Bernaerts	3
+5861	C.H. de Ronde	3
+5862	Oskar Katann	3
+5863	Robert Grosche	3
+5864	J. Kooistra	3
+5865	Rita Hostie	3
+5866	C. Ldov	3
+5867	A.C. Kersbergen	3
+5868	Theodor Absil	3
+5869	A. Kuiper	3
+5870	Frans Broekaert	3
+5871	J. Keunen	3
+5872	Elisabeth Dhanens	3
+5873	Albert de Longie	3
+5874	Gerard Verbeke	3
+5875	Pierre Berteloot	3
+5876	August Vanistendael	3
+5877	Luc Debaene	3
+5878	Colijn Caillieu	3
+5879	G.D.A. Jonckbloet	3
+5880	A.J. Verschoor	3
+5881	Ankie Peypers	3
+5882	Jozef de Vos	3
+5883	Reinout Vreijling	3
+5884	Piet de Keyser	3
+5885	Jan Bervoets	3
+5886	Art Spiegelman	3
+5887	Jan Baetens	3
+5888	Edouard Baudouin	3
+5889	Martin Vaughn-James	3
+5890	S. Clay Wilson	3
+5891	Alberto Breccia	3
+5892	Lorenzo Mattotti	3
+5893	Claudio Piersanti	3
+5894	Amaat Honoraat Joos	3
+5895	H.J. Drossaart Lulofs	3
+5896	C. Soeteman	3
+5897	W. van Schothorst	3
+5898	Pierre Lambrechts	3
+5899	J. Marx	3
+5900	F.B.J. Kuiper	3
+5901	F.R. Noske	3
+5902	Quirinus Ignatius Maria Mok	3
+5903	Etsko Kruisinga	3
+5904	A. Lubotsky	3
+5905	A.E.M. Janssen	3
+5906	Sjef Barbiers	3
+5907	A.M. Nachenius-Roegholt	3
+5908	Alfred Boysen	3
+5909	Gerrit Simons	3
+5910	Jan Koopmans	3
+5911	Albertine Draaijer-de Haas	3
+5912	Lita de Ranitz	3
+5913	D.Th. Jaarsma	3
+5914	D.A. Zoethout	3
+5915	Joseph O. Kronig	3
+5916	A.E. van den Tol	3
+5917	L.H.J. Lamberts Hurrelbrinck	3
+5918	Willem Johannes Steenhoff	3
+5919	J.M.G. Evers	3
+5920	Frits G. Tingen	3
+5921	L. de Haas	3
+5922	Ben Moritz	3
+5923	D.E. Siegenbeek van Heukelom	3
+5924	G.J.W. Koolemans Beijnen	3
+5925	J. Herderscheê	3
+5926	Gerardus Johannes van der Hoeve	3
+5927	T. Zaaijer	3
+5928	J.M. Nuyts	3
+5929	Cornelis Star Numan	3
+5930	J.W.M. Schorer	3
+5931	J.H. de Ridder	3
+5932	M.A. Gooszen	3
+5933	P.J.F. du Bois	3
+5934	François van Veerdeghem	3
+5935	Johan Adriaan Feith	3
+5936	W.H. van de Sande Bakhuyzen	3
+5937	Carel Eduard Daniëls	3
+5938	J.L. Dusseau	3
+5939	W.J.A. de Witt Huberts	3
+5940	J. Jelgerhuis Swildens	3
+5941	Thomas Nolen	3
+5942	J. Hoeksma	3
+5943	P.J. Muller	3
+5944	Godschalk Horatius van Borssum Waalkes	3
+5945	Joannes van der Vliet	3
+5946	Wilco Julius van Welderen Baron Rengers	3
+5947	O.J.H. van Limburg Stirum	3
+5948	Jacob Cornelis van Slee	3
+5949	J.J. van Hille	3
+5950	F.A. van den Heuvel	3
+5951	S.M.S. de Ranitz	3
+5952	C.H. van Rhijn	3
+5953	P. Feenstra jr.	3
+5954	J.J. Tavenraat	3
+5955	Willem Polman Kruseman	3
+5956	Frederik Nagtglas	3
+5957	M.A. van Weel	3
+5958	G.H. Leignes Bakhoven	3
+5959	Rijke de Wolf	3
+5960	Arnoldus Nicolaas Jacobus Fabius	3
+5961	Jan Frederik Willem Conrad	3
+5962	Ludolf Willem Bakhuizen van den Brink	3
+5963	Ernst Wilhelm Moes	3
+5964	Frederik Pijper	3
+5965	E.C. van Leersum	3
+5966	W.C.L. Clarisse	3
+5967	J. Baart de la Faille	3
+5968	J.J. Cornelissen	3
+5969	Willem Moll	3
+5970	Y.H. Rogge	3
+5971	Is. van Dijk	3
+5972	M.A. Evelein	3
+5973	M.G. Wildeman	3
+5974	Hotse Brongersma	3
+5975	J.C. Vollgraff	3
+5976	A.P.Th. Eyssell	3
+5977	Albartus Telting	3
+5978	M.Th. Houtsma	3
+5979	H.J. Calkoen	3
+5980	Jacob Domela Nieuwenhuis	3
+5981	L.J. Sicking	3
+5982	D.A. van Heyst	3
+5983	Philip Christiaan Molhuyzen	3
+5984	Halbe Binnerts	3
+5985	J.C. Jansen	3
+5986	S.W.F. Margadant	3
+5987	B.J.F. Varenhorst	3
+5988	H. Vogelsang	3
+5989	Eppe Wiersum	3
+5990	F. van Gheel Gildemeester	3
+5991	F.P. ter Meulen	3
+5992	G. Engels	3
+5993	W.J.M. Mulder	3
+5994	G. Fuldauer	3
+5995	D.A. van Waalwijk	3
+5996	H. van Hogendorp	3
+5997	Johanna Snellen	3
+5998	Jan Stolk	3
+5999	G.E.W. van Hille	3
+6000	E.J. van der Brugh	3
+6001	R. van der Meulen Rz.	3
+6002	Fritz Smit Kleine	3
+6003	Th. Morren	3
+6004	W.A. Arriëns	3
+6005	L.J.J. Hageraats	3
+6006	H. Rogaar	3
+6007	Hendrik Blink	3
+6008	Hendrik Jan Nassau	3
+6009	Charles René Bakhuizen van den Brink	3
+6010	A. Schaafsma	3
+6011	Marinus Willem de Visser	3
+6012	J.N. Pattist	3
+6013	F. Oudschans Dentz	3
+6014	Elie van Rijckevorsel	3
+6015	H.J. Romeijn	3
+6016	F.J. Kruitwagen	3
+6017	Martinus Beversluis	3
+6018	E.A.A. van Heekeren	3
+6019	E. Zuidema	3
+6020	Willem Leendertz	3
+6021	Joh. A. Leopold	3
+6022	Reinier van der Meulen Rz.	3
+6023	J.W. Teillers	3
+6024	Jos. Jacobson	3
+6025	J.C. Loman jr.	3
+6026	Jan Kalff Jr.	3
+6027	Klaas Heeringa	3
+6028	Frederic Adolph Hoefer	3
+6029	N. Cramer	3
+6030	Joël Emanuel Goudsmit	3
+6031	M.H. Lem	3
+6032	Th.P.H. van Aalst	3
+6033	L.W.A.M. Lasonder	3
+6034	J.G.L. Nolst Trenité	3
+6035	Pieter Bruin	3
+6036	Adriaan Beets	3
+6037	A.J. Servaas van Rooijen	3
+6038	Maarten van Rhijn	3
+6039	J.E. Kroon	3
+6040	Willem Jacob Manssen	3
+6041	Johannes Henricus Scholten	3
+6042	Philippus Samuel van Ronkel	3
+6043	H.E. Beunke	3
+6044	Albert Eekhof	3
+6045	J.H. Garms jr.	3
+6046	H.E. Knappert	3
+6047	J.L. Tadema	3
+6048	Frans Drion	3
+6049	Jacobus Heinsius	3
+6050	R.W. Zandvoort	3
+6051	G. van Hoorn	3
+6052	Multavidi	3
+6053	Dirk Drijver	3
+6054	Abraham Rutgers van der Loeff	3
+6055	Pieter Rink	3
+6056	Margaretha Wijnanda Maclaine Pont	3
+6057	S. Sybenga	3
+6058	Gillis André de la Porte	3
+6059	Andries Borgeld	3
+6060	J.H. van Lessen	3
+6061	Johan Christoffel Ramaer	3
+6062	M.A. Muusses	3
+6063	Dirk Herderschêe	3
+6064	J. de Kanter	3
+6065	P.J. de Kanter	3
+6066	L.E. Visser	3
+6067	L.L.C.M. van Outhoorn	3
+6068	A.P. van Schilfgaarde	3
+6069	Pieter Fijn van Draat	3
+6070	A.A. Bake	3
+6071	Joh. F. Snelleman	3
+6072	Jacobus Henneman	3
+6073	Louis Susan Pedro Meyboom	3
+6074	Th. van Rheineck Leyssius	3
+6075	D.P.M. Graswinckel	3
+6076	G.J. Sirks	3
+6077	A.L. van Beeck	3
+6078	Johanna Dorina Hintzen	3
+6079	J.A. vor der Hake	3
+6080	Helbertine Anna Cornelia Beets-Damsté	3
+6081	Henri C.J.A. Mosmans C.ss.R	3
+6082	J.H. Broekman	3
+6083	A. Brom	3
+6084	H.A. van Bakel	3
+6085	Jo M. Sterck-Proot	3
+6086	D.E. Bosselaar	3
+6087	Adriaan E.H. Swaen	3
+6088	Roelof Schuiling	3
+6089	K. Veenenbos	3
+6090	Jan Gerrit Talen	3
+6091	Hendrik Wagenvoort	3
+6092	Gerhard Sevenster	3
+6093	M.P. Vrij	3
+6094	A.H.M.J. van Kan	3
+6095	D.H. Smit	3
+6096	Willem van der Pluym	3
+6097	H.E. Buiskool	3
+6098	Rinske Visscher	3
+6099	Cunibertus Sloots	3
+6100	Ezechiël Slijper	3
+6101	Onno Damsté	3
+6102	Marcel Minnaert	3
+6103	Elisabeth Jongejan	3
+6104	Jan Tjittes Piebenga	3
+6105	J. Verboven	3
+6106	M. Buisman J. Fzn.	3
+6107	H.Th. Oostendorp	3
+6108	Ramón Gómez de la Serna	3
+6109	Annie Versprille	3
+6110	P. Scherft	3
+6111	Clasina Isings	3
+6112	Jan Hendrik Jongkees	3
+6113	Tjaard W.R. de Haan	3
+6114	R. Haeseryn	3
+6115	J.H.J. Willems	3
+6116	Harm Tjalling Waterbolk	3
+6117	P. Glazema	3
+6118	W.H. van Helsdingen	3
+6119	D. Kuijper Fzn.	3
+6120	W.G. Noordegraaf	3
+6121	H.K. s' Jacob	3
+6122	E.J. van den Broecke-de Man	3
+6123	J. Faber	3
+6124	Dick E.H. de Boer	3
+6125	P.P.V. van Moorsel	3
+6126	J.L. Price	3
+6127	Hans Reeser	3
+6128	Mieke van Leeuwen-Canneman	3
+6129	Dick Voerman	3
+6130	J.J.M. van Gent	3
+6131	Antonius van der Linde	3
+6132	Edwin Rabbie	3
+6133	Wolther Kassies	3
+6134	C.G. Santing	3
+6135	C. Augustijn	3
+6136	Ernestine van der Wall	3
+6137	Rob van de Schoor	3
+6138	R.C.J. van Maanen	3
+6139	J.P.B. Josselin de Jong	3
+6140	H.J. Hellema	3
+6141	Margarita Nelken	3
+6142	T.H. Thung	3
+6143	Jan Luzac	3
+6144	F.W. Michels	3
+6145	K.L. Roskam	3
+6146	Cornelia Brinkman	3
+6147	N.D. Lammers van Toorenburg	3
+6148	Jan Janze	3
+6149	Wessel Scheffer	3
+6150	René Dekkers	3
+6151	B.H. Peteri	3
+6152	Klaas Poll	3
+6153	Antonie de Vletter	3
+6154	Jac. van Ginneken	3
+6155	Ph.J. Simons	3
+6156	M.R. Dijkman	3
+6157	J. van Boskoop	3
+6158	Yvonne Koop	3
+6159	M. 't Hooft	3
+6160	D. Haagman	3
+6161	R. Wijkman	3
+6162	Jos. Schrijnen	3
+6163	E.G. Courrech Staal	3
+6164	W. Govaart	3
+6165	Karel Lantermans	3
+6166	R. Kaltofen	3
+6167	Tj. Sterringa	3
+6168	J. Hovy	3
+6169	W. Kraak	3
+6170	L. Koch	3
+6171	Th.B.F. Hoyer	3
+6172	Marie van Kranendonk	3
+6173	M. Zwaagdijk	3
+6174	Dirk Gerhardus Muller	3
+6175	Roelof Schokker	3
+6176	Franz Staude	3
+6177	H. van Wichert	3
+6178	M.H. de Haan	3
+6179	Annick De Vylder	3
+6180	C.W. Schoonhoven	3
+6181	Luc. Boreel	3
+6182	G.A. Sybenga	3
+6183	Johan Wesseling	3
+6184	B.G.L. Overmaat	3
+6185	J.C. van Holten	3
+6186	G.Th.M. Verhaak	3
+6187	J. de Kruys	3
+6188	Jan Poortman	3
+6189	Frans Van Coetsem	3
+6190	Hubert J. Michaël	3
+6191	A.I.M. van der Waag	3
+6192	J. Vergote	3
+6193	Arnold J.T. Stakenburg	3
+6194	H. Schönbeck	3
+6195	Paul Delsemme	3
+6196	J. Hollestelle	3
+6197	S.C. Holleman-Stevens	3
+6198	Claas W. de Kruyter	3
+6199	H.B. de Groot	3
+6200	J.M.F. Stalpers	3
+6201	W.H. Morel-van Mourik	3
+6202	T. Hagtingius	3
+6203	Anton Roothaert	3
+6204	Ph. van de Nieuwegiessen	3
+6205	W.A. Wijnands	3
+6206	Petrus de Jong	3
+6207	P. van Overbeeke	3
+6208	Henry Hargreaves	3
+6209	Edward van Bergen	3
+6210	Jos Versteegen	3
+6211	Jan Siemons	3
+6212	Gunilla Dalberg	3
+6213	Marijke de Haan	3
+6214	T.H.J. Broekmans	3
+6215	C.J. van Veen	3
+6216	T.-M. Nischik	3
+6217	Elisabeth Paling Funk	3
+6218	Endre Ady	3
+6219	D. Hendrikse	3
+6220	Etus Alons-Bernhardt	3
+6221	Jacques Reugebrink	3
+6222	M.C. v.d. Panne	3
+6223	Lode Bisschop	3
+6224	Albert Nap	3
+6225	P.Th. Elsinga	3
+6226	Luc Libaut	3
+6227	A.J. Michielsen	3
+6228	Angelo Brucculeri	3
+6229	Fernand Van Goethem	3
+6230	M.C. Arnemann	3
+6231	Oger H. Bourdeaud'huy	3
+6232	M. van den Daele	3
+6233	Carl Ludwig Blume	3
+6234	Willem Louis de Sturler	3
+6235	Willem Leonard Ritter	3
+6236	Jacob de Witte van Citters	3
+6237	Jan Willem van der Noordaa	3
+6238	Sijo Kornelius Thoden van Velzen	3
+6239	Jan Willem Straatman	3
+6240	Jb. Boeke	3
+6241	Ocko Wicher Star Numan	3
+6242	Abraham Robert Arntzenius	3
+6243	Gijsbert Karel graaf van Hogendorp	3
+6244	C.W.A. van Haersolte van den Doorn	3
+6245	Joep Nicolas	4
+6246	Albert Plasschaert	4
+6247	L.J.M. Feber	4
+6248	Karel van den Oever	4
+6249	Bernard Verhoeven	4
+6250	Marcellus Emants	4
+6251	Marie Koenen	4
+6252	Pol de Mont	4
+6253	Karel van de Woestijne	4
+6254	Cyriel Verschaeve	4
+6255	Edward Vermeulen	4
+6256	Wies Moens	4
+6257	Herman Teirlinck	4
+6258	Marnix Gijsen	4
+6259	Richard Minne	4
+6260	Daan Boens	4
+6261	Otto van Rees	4
+6262	Maurice Roelants	4
+6263	Paul Claudel	4
+6264	Wim Snitker	4
+6265	Robert Guiette	4
+6266	Jozef Cantré	4
+6267	Mary Robbers	4
+6268	Michel de Ghelderode	4
+6269	Willem Doevenspeck	4
+6270	Willem Putman	4
+6271	Anton Van de Velde	4
+6272	Herman de Man	4
+6273	J. Cuypers	4
+6274	Felix Timmermans	4
+6275	Guido Gezelle	4
+6276	Caesar Gezelle	4
+6277	Julien Benda	4
+6278	Selma Lagerlöf	4
+6279	Jozef Muls	4
+6280	H.G. Cannegieter	4
+6281	Jean Cocteau	4
+6282	Theo Bogaerts	4
+6283	Joris Eeckhout	4
+6284	Theo Vonck	4
+6285	Antoon Coolen	4
+6286	Stijn Streuvels	4
+6287	Ellen Russe	4
+6288	Prosper van Langendonck	4
+6289	Achilles Mussche	4
+6290	Pieter G. Buckinx	4
+6291	Jan Vercammen	4
+6292	Urbain van de Voorde	4
+6293	André Demedts	4
+6294	Paul Rogghé	4
+6295	Sigrid Undset	4
+6296	Wilhelmus Nicolaï	4
+6297	Constance Teichmann	4
+6298	Giovanni Papini	4
+6299	Herman Oosterwijk	4
+6300	Gerard Walschap	4
+6301	Felix Rutten	4
+6302	Ernest Claes	4
+6303	Bergman	4
+6304	Hilda Ram	4
+6305	Albrecht Rodenbach	4
+6306	Hendrik Conscience	4
+6307	A.P.Th. Sassen	4
+6308	Jos. van Schaveren	4
+6309	H.J. Elias	4
+6310	Constantinus	4
+6311	Mimosa	4
+6312	Frans van Cauwelaert	4
+6313	Jan Boon	4
+6314	Maurice Gilliams	4
+6315	René Verbeeck	4
+6316	J.A. Goris	4
+6317	August van Cauwelaert	4
+6318	A. Plas	4
+6319	Gerard den Brabander	4
+6320	W.P.J. Pompe	4
+6321	L. van Hulle	4
+6322	Johan van der Woude	4
+6323	Karel Vertommen	4
+6324	Simon Koster	4
+6325	Franz de Backer	4
+6326	Ruth Schaumann	4
+6327	Ernest van der Hallen	4
+6328	P. Morlion	4
+6329	Pol Heyns	4
+6330	Lode Geysen	4
+6331	Paul de Vree	4
+6332	K. Steur	4
+6333	H. Robbers	4
+6334	A.J.M. Cornelissen	4
+6335	Maxim Gorki	4
+6336	Juliaan Haest	4
+6337	Julia Tulkens	4
+6338	Maurits Peeters	4
+6339	Alice Nahon	4
+6340	Bert Decorte	4
+6341	Marcel Coole	4
+6342	Lode Zielens	4
+6343	Willem Elsschot	4
+6344	Paul Verbruggen	4
+6345	Gabriëlle Demedts	4
+6346	Gaston Burssens	4
+6347	Herwig Hensen	4
+6348	Marcel Matthijs	4
+6349	René Berghen	4
+6350	Staf Weyts	4
+6351	Bert Verbist	4
+6352	Charles Roelofsz	4
+6353	August Vermeylen	4
+6354	Jacques Benoit	4
+6355	Albert Westerlinck	4
+6356	A.G. Christiaens	4
+6357	Gustav Delory	4
+6358	Joh. Hartog	4
+6359	Johan Daisne	4
+6360	Frans Buyle	4
+6361	Herman van Snick	4
+6362	O. Praem	4
+6363	Eugenie Boeye	4
+6364	Luc van Brabant	4
+6365	Bert Peleman	4
+6366	Roel Verlaan	4
+6367	J.F. Willems	4
+6368	Karel Jonckheere	4
+6369	G. Engelberg	4
+6370	A.W. Grauls	4
+6371	Frank Valkenier	4
+6372	Jozef Simons	4
+6373	Gery Helderenberg	4
+6374	Charles Baudelaire	4
+6375	Albert van Hoogenbemt	4
+6376	Johan Berger	4
+6377	Arnold Sauwen	4
+6378	Frank Baur	4
+6379	A. Blok	4
+6380	Lanceloot	4
+6381	J. van de Velde	4
+6382	W. Koch	4
+6383	C. Dumortier	4
+6384	A. Smits	4
+6385	John Keats	4
+6386	Firmin van der Poorten	4
+6387	Frans de Cort	4
+6388	J.B. Kan	4
+6389	Elizabeth Barrett Browning	4
+6390	Jan Persyn	4
+6391	Martinus Leopold	4
+6392	Virginie Loveling	4
+6393	J. Groot	4
+6394	Max Rooses	4
+6395	Thomas Hardy	4
+6396	F. Martens	4
+6397	Jacob Smit	4
+6398	Julius de Geyter	4
+6399	G. Kurth	4
+6400	Jan van Gorp	4
+6401	Leo Simons	4
+6402	Peter Benoit	4
+6403	Juliaan De Vriendt	4
+6404	Paul Alberdingk Thijm	4
+6405	Georges Eekhoud	4
+6406	Maurice Wilmotte	4
+6407	Ada Negri	4
+6408	Hendrik Clemens Muller	4
+6409	Hugo Verriest	4
+6410	Jan Bols	4
+6411	Margaretha Meijboom	4
+6412	C.H. Kühn	4
+6413	Cyriel Buysse	4
+6414	G.P. Bakker	4
+6415	Johannes Jörgensen	4
+6416	Lode Baekelmans	4
+6417	Richard de Cneudt	4
+6418	Willem Gijssels	4
+6419	Hendrik de Marez	4
+6420	Pieter Corbeels	4
+6421	R.L. Stevenson	4
+6422	Constant Eeckels	4
+6423	Fr. van den Weghe	4
+6424	I. Zeehandelaar	4
+6425	H.N. de Fremery	4
+6426	Maurits Sabbe	4
+6427	Leo van Puyvelde	4
+6428	Martinus Poelhekke	4
+6429	J. Salsmans	4
+6430	Ivo Struyf	4
+6431	Frans Verschoren	4
+6432	René de Clercq	4
+6433	J.H.F. Kohlbrugge	4
+6434	C.W. Lunsingh Scheurleer	4
+6435	Lambrecht Lambrechts	4
+6436	Johann Wolfgang von Goethe	4
+6437	Eugène de Bock	4
+6438	J.G. Sleeswijk	4
+6439	Hilarion Thans	4
+6440	A.A.H. Struycken	4
+6441	Albertine Steenhoff-Smulders	4
+6442	Isidoor Teirlinck	4
+6443	Leo Meert	4
+6444	J.A. Schroeder	4
+6445	G.W.J. Bruins	4
+6446	Antoon Thiry	4
+6447	Rinke Tolman	4
+6448	C.P. Gunning	4
+6449	Edith Werkendam	4
+6450	Hippoliet Meert	4
+6451	G.J. Morsch	4
+6452	Lode Monteyne	4
+6453	Lodewijk Ontrop	4
+6454	Fritz Francken	4
+6455	A.H. Kan	4
+6456	A. Mansion	4
+6457	Floris Prims	4
+6458	Antoon Jacob	4
+6459	F.D.K. Bosch	4
+6460	Omer Wattez	4
+6461	Herman Baccaert	4
+6462	Karel de Winter	4
+6463	R. Foncke	4
+6464	Fernand Toussaint van Boelaere	4
+6465	Raymond Brulez	4
+6466	Stephanie Claes-Vetter	4
+6467	Jan Gessler	4
+6468	George Meir	4
+6469	Raymond Herreman	4
+6470	Herman Vos	4
+6471	P. Albers S.J.	4
+6472	Drs. P	4
+6473	Marie van Dessel-Poot	4
+6474	L. Scharpé	4
+6475	L. van der Essen	4
+6476	Hans Henkemans	4
+6477	F.L. Ganshof	4
+6478	J. Valk	4
+6479	Leo Picard	4
+6480	Jan Spoelstra	4
+6481	Jan van den Broeck	4
+6482	R. Lemaire	4
+6483	R. Maere	4
+6484	C.F. Meyer	4
+6485	E. Cantillon	4
+6486	Joris Diels	4
+6487	Hubert Lampo	4
+6488	Piet van Aken	4
+6489	Sergei Smirnov	4
+6490	I.A. Bunin	4
+6491	Dmitrij Sergeevic Merezjkovskij	4
+6492	P.B. Shelley	4
+6493	M. de Vroede	4
+6494	Edward Arlington Robinson	4
+6495	Horace Gregory	4
+6496	Marnix van Gavere	4
+6497	René J. Seghers	4
+6498	Jan Schepens	4
+6499	Leo Galle	4
+6500	C.M. van den Heever	4
+6501	Guido Piovene	4
+6502	Sergio Corazzini	4
+6503	Vincenzo Cardarelli	4
+6504	Silvio d' Amico	4
+6505	Saint-Rémy	4
+6506	Filip de Pillecyn	4
+6507	J.A. van Houtte	4
+6508	F. Philips	4
+6509	Julien Jozef Kuypers	4
+6510	L. Elaut	4
+6511	G.A. Borgese	4
+6512	Tone Brulin	4
+6513	R.R. Post	4
+6514	Gabriela Mistral	4
+6515	Ventura García Calderón	4
+6516	T. Langeveld-Bakker	4
+6517	B.V.A. Röling	4
+6518	Hubert van Herreweghen	4
+6519	Jos de Haes	4
+6520	Willem Pée	4
+6521	P. Schumacher	4
+6522	Bessie Schadee	4
+6523	Michail Kalik	4
+6524	Pierre-Henri Simon	4
+6525	Willem G. van Maanen	4
+6526	Louis Boon	4
+6527	Ben Cami	4
+6528	W.G. Snellen	4
+6529	Ango Sakaguchi	4
+6530	José Boyens	4
+6531	A.H.G. Rinnooy Kan	4
+6532	Mon Steyaert	4
+6533	Jules Persyn	4
+6534	A.J. Vermeersch	4
+6535	Jules Dister	4
+6536	Egil Törnqvist	4
+6537	P. de Bruin	4
+6538	H. Peeters	4
+6539	W.J. Jong	4
+6540	R.F. Lissens	4
+6541	Rob van Roosbroeck	4
+6542	Salvador Hertog	4
+6543	Camille Huysmans	4
+6544	Mark Verstockt	4
+6545	L. Grootaers	4
+6546	Jan Melis	4
+6547	R. Schreuder	4
+6548	Ferdinand Vercnocke	4
+6549	M.H. Székely-Lulofs	4
+6550	Aster Berkhof	4
+6551	Marijn van der Jagt	4
+6552	Menko ten Cate	4
+6553	Peter Mertens	4
+6554	Caroline Meijer	4
+6555	Annegret Böttner	4
+6556	Thomas Elsaesser	4
+6557	Eltjo Muntinga	4
+6558	Jan Hammenecker	4
+6559	Hein-Anton van der Heijden	4
+6560	Bertie van der Meij	4
+6561	Göran Tunström	4
+6562	René Puthaar	4
+6563	M.E. Belpaire	4
+6564	August Cuppens	4
+6565	Hendrik Persyn	4
+6566	Gustaaf Verriest sr.	4
+6567	Henri Donders	4
+6568	Jaak Muyldermans	4
+6569	Fr. Meeus	4
+6570	Jan Emiel Vliebergh	4
+6571	E. Vliebergh	4
+6572	R.A. Hugenholtz	4
+6573	A. Dupont	4
+6574	Pieter Danco	4
+6575	J. Sencie	4
+6576	Jozef Jacobs	4
+6577	Jef Hinderdael	4
+6578	Peter Jozef Tijsmans	4
+6579	Desideer Claes	4
+6580	Julius Plancquaert	4
+6581	L.H. Smeding	4
+6582	H. Bischoff	4
+6583	Th. Heidebrand	4
+6584	Anna Germonprez	4
+6585	H. Sermon	4
+6586	A. Habets	4
+6587	Frans Drijvers	4
+6588	Alb. vander Elst	4
+6589	A. Verheyen	4
+6590	de Ticheleer	4
+6591	Leo Goemans	4
+6592	Adolf de Ceuleneer	4
+6593	Emiel de Grave	4
+6594	H. Heukels	4
+6595	Paul Bellefroid	4
+6596	P.C. de Bruyne-Klinkenberg	4
+6597	Jan Kornelis de Cock	4
+6598	Joz. vanden Eynde	4
+6599	Gustaaf Segers	4
+6600	Louisa Duykers	4
+6601	Alphonse Naert	4
+6602	Alfons Mervillie	4
+6603	Eugeen Leën	4
+6604	Jaak Boonen	4
+6605	Paul Hamélius	4
+6606	Simonart	4
+6607	Henri W.J. Schouten	4
+6608	H. de Vocht	4
+6609	C. Callewaert	4
+6610	Lodewijk De Wolf	4
+6611	I. Vandegaer	4
+6612	F. Palmen	4
+6613	G. van Poppel	4
+6614	Lodewijk Dosfel	4
+6615	Edward de Grijse	4
+6616	Jean-Baptiste de Bethune	4
+6617	A. Bertang	4
+6618	A. Prayon-van Zuylen	4
+6619	Em. van Cappel	4
+6620	Jan Craeynest	4
+6621	A. van Wassenhove	4
+6622	Alfons Fierens	4
+6623	J. Lievens	4
+6624	Aloïs Walgrave	4
+6625	X. Smits	4
+6626	J. Kautzen	4
+6627	D.A. Stracke	4
+6628	Herman Linnebank	4
+6629	A. Stracke	4
+6630	Omer Karel de Laey	4
+6631	J. Jacobsen	4
+6632	B. Adriaansen	4
+6633	C. Clerckx	4
+6634	Franz Mets	4
+6635	E. van Fraechem	4
+6636	Alfons Siffer	4
+6637	L. Ghys	4
+6638	Alfons Moortgat	4
+6639	A. Carnoy	4
+6640	Cl. Buvé	4
+6641	Karel Elebaers	4
+6642	A.M. van Kersbeek	4
+6643	E.J. Mertens	4
+6644	J. Mertens	4
+6645	Th. van Tichelen	4
+6646	P.J. Stinissen	4
+6647	D.A. Dyland	4
+6648	L. Noël	4
+6649	B. van Kesteren	4
+6650	A. Taelman	4
+6651	A. Poncelet	4
+6652	Gabriël Verborght	4
+6653	H. Coppieters	4
+6654	Fr. Stanislas	4
+6655	Petrus Dubois	4
+6656	C. Moeyaert	4
+6657	L. Ghijs	4
+6658	J.H. Newman	4
+6659	J. Wagemans	4
+6660	Jozef de Cock	4
+6661	H. Walgrave	4
+6662	M. Dewickere	4
+6663	J.B. Goetstouwers	4
+6664	E. Paque	4
+6665	J. Mansion	4
+6666	L. Delporte	4
+6667	Arthur Meulemans	4
+6668	Gust Doussy	4
+6669	Emiel van der Straeten	4
+6670	C.W. van Berkel	4
+6671	A. Baert	4
+6672	P. Petrus M. Janssens	4
+6673	Arthur Coussens	4
+6674	Francis Hermans	4
+6675	J.C.G. Grasé	4
+6676	I. de Vreese	4
+6677	J. Buelens	4
+6678	Frans Delbeke	4
+6679	Jozef Arras	4
+6680	H. Mansion	4
+6681	P. Rutten	4
+6682	Leo van Riel	4
+6683	Jan Bernaerts	4
+6684	H. Brutsaert	4
+6685	Cyriel de Baere	4
+6686	P. Janssens	4
+6687	Ed. Loos	4
+6688	Perquy	4
+6689	A. Geerebaert	4
+6690	Antonio Fogazzaro	4
+6691	Léonce Reypens	4
+6692	J. Heyrman	4
+6693	P. de Dura	4
+6694	D. Logeman-van der Willigen	4
+6695	A. van Beirendonck	4
+6696	F.A. Holleman	4
+6697	Berthold Missiaen	4
+6698	P. Berthold	4
+6699	Chr. Schets	4
+6700	Juul Grietens	4
+6701	Edward Vlietinck	4
+6702	H. Pauli	4
+6703	Aloïs Janssens	4
+6704	Leo Bittremieux	4
+6705	Aug. Bruynseels	4
+6706	C.J. Vierhout	4
+6707	L. Vermeirsch	4
+6708	Jules van Nuffel	4
+6709	Evermar van Moere	4
+6710	Dirk Vansina	4
+6711	I.D. Franssen van de Putte	4
+6712	Ernest Closson	4
+6713	A. van den Dries	4
+6714	M.H. van de Ven	4
+6715	August Nobels	4
+6716	van Huffelen	4
+6717	Hilaire Allaeys	4
+6718	Amaat Vyncke	4
+6719	Hendrik van Tichelen	4
+6720	P. Kubben	4
+6721	H. Aerts	4
+6722	Hubert Verwilghen	4
+6723	J.B. Besançon	4
+6724	Josette Pasquasy	4
+6725	Lynn Doyle	4
+6726	Alexander Elberts	4
+6727	Edmond Rubbens	4
+6728	A. van Langendonck	4
+6729	Florentijn Jan van der Mueren	4
+6730	Eugène Joors	4
+6731	J.J.B. Elzinga	4
+6732	Edw. De Schaepdrijver	4
+6733	Jozef van Reusel	4
+6734	L. Debruyn	4
+6735	C. Heymans	4
+6736	Jef Scheirs	4
+6737	Frisc over de Heiden	4
+6738	Karel Pauwels	4
+6739	Frans d'Haese	4
+6740	L. Uten	4
+6741	Mirza Riza Viham	4
+6742	Raphaël M.J. Kreemers	4
+6743	Joseph Bittremieux	4
+6744	Margriet Baers	4
+6745	Joseph Coppens	4
+6746	Arthur Boon	4
+6747	zuster Maria Jozefa	4
+6748	Maurits van Hoeck	4
+6749	Gérard Philips	4
+6750	Jan Chiapusso	4
+6751	P. Thuysbaert jr.	4
+6752	Marcel Brauns	4
+6753	J.A. Hallez	4
+6754	A.J. Hallez	4
+6755	P. Hildebrand	4
+6756	Joris Caeymaex	4
+6757	Richard Dewachter	4
+6758	A. Nagels	4
+6759	Z. Peeters	4
+6760	Herman van Overbeke	4
+6761	A. Cardyn	4
+6762	Mécs Laszló	4
+6763	Jef Claes	4
+6764	Korneel Goossens	4
+6765	Stan Dietvors	4
+6766	Léopold Levaux	4
+6767	Jef Crick	4
+6768	Karel Leroux	4
+6769	Isidoor van Beugem	4
+6770	Prosper Arents	4
+6771	L. de Smet	4
+6772	Jozef Uytterhoeven	4
+6773	Stephanie Vetter	4
+6774	Jos. de Brandt	4
+6775	Willem van den Broeck	4
+6776	E.H.J. Hallez	4
+6777	Constant Godelaine	4
+6778	Francisque Darcieux	4
+6779	L. Moereels	4
+6780	Pablo Sáenz de Barés	4
+6781	Rob. Roemans	4
+6782	H.J. de Vleeschouwer	4
+6783	Herman Deckers	4
+6784	Gottfried Hasenkamp	4
+6785	Jeanne de Bruyn	4
+6786	Joris Baers	4
+6787	Pol Douliez	4
+6788	Christian Rimestad	4
+6789	Johan Oskar Larsen	4
+6790	Valfrid Palmgren	4
+6791	Karl Madson	4
+6792	Peder Gram	4
+6793	Theo Findahl	4
+6794	Edvard Welle-Strand	4
+6795	Georg Moenius	4
+6796	Clemens Daenen	4
+6797	Giovanni Vittorio Amoretti	4
+6798	A. Della Corte	4
+6799	Michelangelo Zimolo	4
+6800	Arrigo Levasti	4
+6801	Domenico Giuliotti	4
+6802	Cipriano Efisio Oppo	4
+6803	Nicola Moscardelli	4
+6804	Paolo Arcari	4
+6805	Franco de Wyels	4
+6806	Jet Luber	4
+6807	E.H. de Craene	4
+6808	E.E. Gewin	4
+6809	Jacques Clement Perk	4
+6810	F. Collin	4
+6811	William van den Aker	4
+6812	Albert van Driessche	4
+6813	Renaat de Vos	4
+6814	Edgard de Bruyne	4
+6815	Vital Celen	4
+6816	Hendrik Prijs	4
+6817	Thierry de Wael	4
+6818	P. Roosenburg	4
+6819	Max Lamberty	4
+6820	Paul Sobry	4
+6821	R.B. Lenaerts	4
+6822	Paul Lebeau	4
+6823	Oskar van der Hallen	4
+6824	Ludwig Drees	4
+6825	Pearl S. Buck	4
+6826	Fernand Deschamps	4
+6827	Fernand Bekaert	4
+6828	Andries Morlion	4
+6829	Marie H. van der Zeyde	4
+6830	L. Delwaide	4
+6831	Luc Indestege	4
+6832	Jos. Wils	4
+6833	Bert Ranke	4
+6834	Joh. Boe	4
+6835	R. van Cauwelaert	4
+6836	N. Wildiers	4
+6837	Jef Contryn	4
+6838	Frans Verachtert	4
+6839	J.L. de Belder	4
+6840	Robert Maistriaux	4
+6841	Emiel Jan Janssen	4
+6842	Richard Declerck	4
+6843	Liesbeth van Thillo	4
+6844	Marie Schous	4
+6845	Karel Brants	4
+6846	Agni van der Torre	4
+6847	Alfons van Beylen	4
+6848	Robert Storm Petersen	4
+6849	To Hölscher	4
+6850	P.Em. Valvekens	4
+6851	Juul Filliaert	4
+6852	Crispinus Smits	4
+6853	P.H. Greiner	4
+6854	Willy Vaerewijck	4
+6855	Jozef Wittlin	4
+6856	Lambert Swerts	4
+6857	Xavier Pruszynski	4
+6858	Tadeusz Breza	4
+6859	Swiatopelk Karpinski	4
+6860	Jozef Lobodowski	4
+6861	Jozef Czechowicz	4
+6862	Michal Choromanski	4
+6863	Venceslas Berent	4
+6864	Juljusz Kaden-Bandrowski	4
+6865	I.K. Illakowicz	4
+6866	Zofja Kossak-Szczucka	4
+6867	Era Lobet	4
+6868	P. Bertrand	4
+6869	August Corbet	4
+6870	P. van Keymolen	4
+6871	Ventura García Caldéron	4
+6872	Filippo Donini	4
+6873	Louis Sourie	4
+6874	José de Ceulaer	4
+6875	Jan D'Haese	4
+6876	C.H. Peeters	4
+6877	Thilda Deckers	4
+6878	Marcel Poot	4
+6879	Honoré van Waeyenbergh	4
+6880	Jan Valvekens	4
+6881	W. Vanbeselaere	4
+6882	B. Boeyckens	4
+6883	A. Kriekemans	4
+6884	Reninca	4
+6885	Remi van de Moortel	4
+6886	H. Draye	4
+6887	Prosper Poullet	4
+6888	Willy Peremans	4
+6889	Tony Herbert	4
+6890	A.K. Rottiers	4
+6891	Fr. Nooyens	4
+6892	Frank Meyland	4
+6893	Joos Florquin	4
+6894	P.J. Vandenhoute	4
+6895	Henri Schoofs	4
+6896	Gerard Michiels	4
+6897	L. Arts	4
+6898	Pieter-Emmanuel Oyen	4
+6899	Frans Verstreken	4
+6900	Yrjö Kaijärvi	4
+6901	Liane Bruylants	4
+6902	Guy Voets	4
+6903	Lode Cantens	4
+6904	J. Libbrecht	4
+6905	Johan van Mechelen	4
+6906	Fr. Claessens	4
+6907	Victor Heylen	4
+6908	Ver. van de Vijver	4
+6909	A.T.W. Bellemans	4
+6910	August Vercauteren	4
+6911	F.J. du Toit Spies	4
+6912	Joris Taels	4
+6913	Erik van Ruysbeek	4
+6914	Stephanus G. Axters	4
+6915	Theo Luyckx	4
+6916	Leo Simoens	4
+6917	Gaston Duribreux	4
+6918	S.J. de Hoest	4
+6919	K.C. Peeters	4
+6920	Pieter de Prins	4
+6921	Marc Moonen	4
+6922	Rudo Durant	4
+6923	Adriaan Magerman	4
+6924	Andries Poppe	4
+6925	Paul de Ryck	4
+6926	Karel de Busschere	4
+6927	Mia van der Haegen	4
+6928	Basiel de Craene	4
+6929	Marcel Leemans	4
+6930	Gaston Durnez	4
+6931	Bernard Henry	4
+6932	Albert Speekaert	4
+6933	Valère Coopmans	4
+6934	Jo de Meester	4
+6935	Bernard Kemp	4
+6936	Herman van Puymbrouck	4
+6937	Reginald De Schryver	4
+6938	A. Merckx	4
+6939	Delfien Vanhaute	4
+6940	Louis Dumoulin	4
+6941	Albert Boone	4
+6942	Wim Meewis	4
+6943	Ger Schmook	4
+6944	Eric Rinckhout	4
+6945	Gaston de Mey	4
+6946	Marcel Duchateau	4
+6947	Julien de Valckenaere	4
+6948	Roger Devriendt	4
+6949	Dirk Verbruggen	4
+6950	Pliet van Lishout	4
+6951	Gaby Leijnse	4
+6952	Michel Huisman	4
+6953	E. Dekker	4
+6954	Jacob Baert	4
+6955	Jeroen De Rycker	4
+6956	Luc Lamote	4
+6957	Karel van Isacker	4
+6958	J. Van Acker	4
+6959	J. van Iseghem	4
+6960	Bert Govaerts	4
+6961	J.J. Grandville	4
+6962	Hugo Walschap	4
+6963	Joris Blondiau	4
+6964	Marcel Demeulenaere	4
+6965	L. Rood	4
+6966	J.G.R. van Dyck	4
+6967	E. de Strycker	4
+6968	Simon Kooyman	4
+6969	P. Gaeffke	4
+6970	Carlo Goldini	4
+6971	Nelly M. Burgers	4
+6972	August van Boeckxsel	4
+6973	Hendrik Lindt	4
+6974	F.M.G. de Feyfer	4
+6975	J. Schul	4
+6976	J.B. Poukens	4
+6977	P.L. Tack	4
+6978	J.H. Kuyper	4
+6979	Jan L. Broeckx	4
+6980	A.C. van Waveren	4
+6981	A. Snoeck	4
+6982	Theodoor Bernard van Lelyveld	4
+6983	A. Ampe	4
+6984	Willem Schrickx	4
+6985	J.C.P. Kats	4
+6986	Hendrik Smilde	4
+6987	Jean-Marie Gantois	4
+6988	Dina van Berlaer-Hellemans	4
+6989	Henri Bossaert	4
+6990	Willem Duflou	4
+6991	Renaat Merecy	4
+6992	Marion Coulon	4
+6993	Kamiel Cooremans	4
+6994	J.Th. de Smidt	4
+6995	F. Beyers	4
+6996	Margreet Bruijn	4
+6997	Johan Toot	4
+6998	Antonie Maria Luyendijk-Elshout	4
+6999	José de Mûelenaere	4
+7000	Emiel Willekens	4
+7001	A. Leyns	4
+7002	Albert Deblaere	4
+7003	Leopold Flam	4
+7004	Johan Valkhoff	4
+7005	Georgette Swaenepoel	4
+7006	Antoinette Buckinx-Luykx	4
+7007	Bert van Aerschot	4
+7008	C.B. Vaandrager	4
+7009	J. Kreykamp	4
+7010	C.L. Kruithof	4
+7011	G.J.M. van het Reve	4
+7012	J.L. Weverbergh	4
+7013	Erik Wellander	4
+7014	J. van Rijckevorsel	4
+7015	René van Sint-Jan	4
+7016	Lodewijk Maerevoet	4
+7017	J. Noë	4
+7018	Marc Dykmans	4
+7019	L. van de Kerckhove	4
+7020	M.J. Jochems	4
+7021	J.F. Hengeveld	4
+7022	Paul Van Keymeulen	4
+7023	Honoratius Sengers	4
+7024	J. Nuttin	4
+7025	Leo Lindemans	4
+7026	Jan de Schuyter	4
+7027	M.A. Kerckhove	4
+7028	W.H. Vroom	4
+7029	A.W. Krijgsman	4
+7030	Jan C. Villerius	4
+7031	A. Seeldrayers	4
+7032	Jan Gijsel	4
+7033	J. Beyer	4
+7034	L. Vander Kerken	4
+7035	Ruth Beijert	4
+7036	J. Haesaert	4
+7037	Louis de Groof	4
+7038	Theo Goffa	4
+7039	Frans Smekens	4
+7040	Frank de Langhe	4
+7041	Henk van Otterloo	4
+7042	R. Miry	4
+7043	Peter van der Wildt	4
+7044	A. van Bladel	4
+7045	Josephus Hendrikus Cornelis Creyghton	4
+7046	Maurits de Doncker	4
+7047	Lucien Brulez	4
+7048	Maurits Bilcke	4
+7049	Gerard van der Kuyp	4
+7050	Robert Druwé	4
+7051	Erik Thys	4
+7052	Joris Dedier	4
+7053	Joseph Leliard	4
+7054	Paul Van de Woestijne	4
+7055	Walter Volkaert	4
+7056	Bruno Walschap	4
+7057	Carla Walschap	4
+7058	Otto Forst de Battaglia	4
+7059	P.M. van der Vrecken	4
+7060	W.J. Schulte Nordholt	4
+7061	Cor Stutvoet	4
+7062	Jo Datema	4
+7063	Gerard Heederik	4
+7064	J. Arts	4
+7065	A. Cauwe	4
+7066	Julius Valckenaere	4
+7067	Johann Damiaan Degreef	4
+7068	K. Leus	4
+7069	F.H.M. Hertoghs	4
+7070	Koen Wauters	4
+7071	P.H. King	4
+7072	A. Boone	4
+7073	Hugo De Schampheleire	4
+7074	K. du Bois de Vroylande	4
+7075	Hugo Vandeperre	4
+7076	F. De Raedemaeker	4
+7077	A. Wuyts	4
+7078	Ad. Jansen	4
+7079	Gaston Van Bulck	4
+7080	J. Verelst	4
+7081	K. van Baarle	4
+7082	Juliaan Vervoort	4
+7083	Albert Van den Daele	4
+7084	Alb. Raignier	4
+7085	M.F. Schurmans	4
+7086	Louis H.M. Monden	4
+7087	J. De Munter	4
+7088	Eugenius Druwé	4
+7089	Robert Vandeputte	4
+7090	Alex Harlssen	4
+7091	A. Dockx	4
+7092	J. Christelbach	4
+7093	J. Donceel	4
+7094	L. Verhaegen	4
+7095	R. van Ooteghem	4
+7096	J. Nolf	4
+7097	Emiel Fleerackers	4
+7098	A. De Raedt	4
+7099	M. Dufraing	4
+7100	H. Bruders	4
+7101	Émile O.J.J.G. Lousse	4
+7102	H. Thielemans	4
+7103	G. De Wolf	4
+7104	Fr. van Baarle	4
+7105	August Brunner	4
+7106	L.G. Polspoel	4
+7107	P. Nelis	4
+7108	Maurice Claeys Bouuaert	4
+7109	V. Uyttenbroeck	4
+7110	J.I. Corrigan	4
+7111	B. De Wint	4
+7112	P. Indekeu	4
+7113	G. Geniets	4
+7114	F. Bouchout	4
+7115	E.A. Ryan	4
+7116	A. Antonissen	4
+7117	Jan Jozef van Laer	4
+7118	Arthur Van Hoof	4
+7119	W. De Roy	4
+7120	Marcel van Caster	4
+7121	Reinhold Van Lennep	4
+7122	R. Caron	4
+7123	A. Darquennes	4
+7124	L. Verelst	4
+7125	Alb. Block	4
+7126	E.J. Vandenbussche	4
+7127	J. Volckaert	4
+7128	M. van Stratum	4
+7129	L. De Sousberghe	4
+7130	E. van Stratum	4
+7131	Jan van Kilsdonk	4
+7132	Arthur Thomas	4
+7133	J. De Jaegher	4
+7134	Renatus Hardeman	4
+7135	R.J. Kortmulder	4
+7136	Edouard Dhanis	4
+7137	P. Van Campenhout	4
+7138	Jozef Maes	4
+7139	J. Van den Bossche	4
+7140	W. Talloen	4
+7141	M. Schurmans	4
+7142	P. Ellerbeek	4
+7143	E. Bergh	4
+7144	F. Bellens	4
+7145	C. Poelmans	4
+7146	Jozef Mertens	4
+7147	Pierre Hoenen	4
+7148	Michiel Dierickx	4
+7149	L. Baudez	4
+7150	Alex. De Bil	4
+7151	J. Jageneau	4
+7152	Jan Verhavert	4
+7153	J. van Assche	4
+7154	Walter F. Smet	4
+7155	A. Reynaert	4
+7156	Hubert Peeters	4
+7157	G. Neefs	4
+7158	P. Goedertier	4
+7159	Alb. Hernould	4
+7160	A. De Geyter	4
+7161	F. de Cleyn	4
+7162	Clemens Maria Beukers	4
+7163	C. Schöller	4
+7164	L. Van Damme	4
+7165	Rianne Jansen	4
+7166	Louis Janssens	4
+7167	R. Leijs	4
+7168	E. Cappoen	4
+7169	Albert Dondeyne	4
+7170	Diotimos	4
+7171	E. De Cooman	4
+7172	J. Smets	4
+7173	Pieter Frans Fransen	4
+7174	C.D.C. Leuven	4
+7175	J. De Fraine	4
+7176	Em. Peeters	4
+7177	G. Van Cutsem	4
+7178	Bern. Spaepen	4
+7179	L. Vanderkerckhove	4
+7180	B. van Ogtrop	4
+7181	A. Taymans	4
+7182	Paul De Vuyst	4
+7183	Jos Philippen	4
+7184	J. Köhlbrugge	4
+7185	Louis Sterkens	4
+7186	Joseph van der Meersch	4
+7187	J.M.L. Demeyere	4
+7188	Philippe Joseph Aimé van Isacker	4
+7189	W. Luyten	4
+7190	Fons Lambrechts	4
+7191	C. Pickery	4
+7192	R. D'hondt	4
+7193	O. van de Vijver	4
+7194	Wilfried Luyten	4
+7195	J. van Torre	4
+7196	F. Callebaut	4
+7197	Stanislas van de Velde	4
+7198	Antoon Fimmers	4
+7199	Jos. Burvenich	4
+7200	J. Rommens	4
+7201	Jan Olav Smit	4
+7202	J.W. Ludwig	4
+7203	Max de Cock	4
+7204	Werenfried van Straaten	4
+7205	Henricus de Blieck	4
+7206	Fil. de Ridder	4
+7207	Jef de Beus	4
+7208	Stephanus de Clippele	4
+7209	René Carpentier	4
+7210	J. Verwimp	4
+7211	Arthur Janssen	4
+7212	Andreas Nicolaas Metz	4
+7213	't Haakstertje	4
+7214	J. Talloen	4
+7215	Leo Symoens	4
+7216	Jan de Roeck	4
+7217	Louis Bruyns	4
+7218	I. De la Potterie	4
+7219	Jos Windey	4
+7220	M. Deckers	4
+7221	J. Masson	4
+7222	W. Cracco	4
+7223	L. de Borman	4
+7224	M. de Brabandere	4
+7225	P.W. Smet	4
+7226	G. Huyghe	4
+7227	Albert Kluyskens	4
+7228	Fr. Maeyens	4
+7229	P. Ronse	4
+7230	Fl. Bertiau	4
+7231	M. Mesotten	4
+7232	Maurice De Tollenaere	4
+7233	Jozef Andriessen	4
+7234	Leo De Wachter	4
+7235	Aimé de Cort	4
+7236	Alfred Scheers	4
+7237	L. Victor V. Edmond	4
+7238	H.M.H.A. van der Valk	4
+7239	R. Vanalderweireldt	4
+7240	G. Garmijn	4
+7241	Valentinus Morel	4
+7242	Paul Maria Jozef de Meester	4
+7243	Monique Darge	4
+7244	H. Bauweraerts	4
+7245	Alb. Decoene	4
+7246	Pierre de Beus	4
+7247	Richard Teunissen	4
+7248	Louis Wachters	4
+7249	M. Oris	4
+7250	Florimond Lox	4
+7251	Francis van den Broeck	4
+7252	Robert Kothen	4
+7253	L. Mestdagh	4
+7254	A. Frenay	4
+7255	K. Lens	4
+7256	K.L.M. Schoeters	4
+7257	A. de Meyer	4
+7258	Achilles Seghers	4
+7259	Gaston de Jaegher	4
+7260	J.-P. Fransen	4
+7261	Clément Mertens	4
+7262	Ch. Indekeu	4
+7263	J. Elens	4
+7264	G. Gilleman	4
+7265	R. Ghijsel	4
+7266	G. Dooreman	4
+7267	M. Huybens	4
+7268	J.G.M. Willebrands	4
+7269	K. Heireman	4
+7270	A. Verbist	4
+7271	H. de Clercq	4
+7272	V. Mertens	4
+7273	G. Van Massenhove	4
+7274	Cornelis van der Vijver	4
+7275	A. van de Walle	4
+7276	M. Duerinck	4
+7277	André Vandenbunder	4
+7278	J. Hoing	4
+7279	Flor Kielbaey	4
+7280	Hendrik Imberechts	4
+7281	Eva Moltesen-Hällström	4
+7282	Charles Gillès de Pélichy	4
+7283	Ludo Van de Wijgaert	4
+7284	Flora de Lannoy	4
+7285	Irma van de Port	4
+7286	Maria Jasnorzewska	4
+7287	M.L.A. Barnardiston-Van Riemsdijk	4
+7288	Chris Keulemans	5
+7289	Stephan Sanders	5
+7290	Marlene Dumas	5
+7291	Roel Schuyt	5
+7292	Predrag Dojcinovic	5
+7293	Paul Scheffer	5
+7294	Michael Ignatieff	5
+7295	Bora Cosic	5
+7296	Nina Zivancevic	5
+7297	Danijel Dragojevic	5
+7298	Slobodan Blagojevic	5
+7299	David Albahari	5
+7300	Miroslav Mandic	5
+7301	Dragan Velikic	5
+7302	Ivan Lovrenovic	5
+7303	Bogdan Bogdanovic	5
+7304	Zoran Djukanovic	5
+7305	Gavin Jantjes	5
+7306	Paul Gilroy	5
+7307	Geert van Istendael	5
+7308	Ashok Bhalotra	5
+7309	Anil Ramdas	5
+7310	Henk van Renssen	5
+7311	Wouter Vanstiphout	5
+7312	Stine Jensen	5
+7313	Roger Vansevenant	5
+7314	Gert-Jan van Rooij	5
+7315	Felx Tirry	5
+7316	Peter Cox	5
+7317	Peter Sander	5
+7318	Leo Landsman	6
+7319	Ferdynand Goetel	6
+7320	Waclaw Husarski	6
+7321	Jaroslaw Iwaszkiewicz	6
+7322	Emil Zegadlowicz	6
+7323	Kazimierz Wierzynski	6
+7324	Jan Parandowski	6
+7325	Julian Tuwim	6
+7326	Jan Lechon	6
+7327	Leopold Staff	6
+7328	Maria Dabrowska	6
+7329	Herminia Naglerowa	6
+7330	Tadeusz Boy-Zelenski	6
+7331	Waclaw Sieroszewski	6
+7332	Antoni Slonimski	6
+7333	Marja Kuncewiczowna	6
+7334	Amedée Arents	6
+7335	Pszisko Jacobs	6
+7336	Clarissa Jacobi	6
+7337	Malgorzata Hillar	6
+7338	Jerzy Sito	6
+7339	Mieczyslaw Jastrun	6
+7340	Kazimierz Gromski	6
+7341	Milo Anstadt	6
+7342	A.L Bem	6
+7343	Isabelle Landuyt	6
+7344	Kazimierz Tetmajer-Przerwa	6
+7345	T.J. Bezemer	7
+7346	J.H. Kramers	7
+7347	J.H. Kramer	7
+7348	G.W.J. Drewes	7
+7349	S.A. Bonebakker	7
+7350	J.J. Witkam	7
+7351	G.H.A. Juynboll	7
+7352	G.J.H. van Gelder	7
+7353	J.J.G. Jansen	7
+7354	Roel Otten	7
+7355	Sadiq Galal al'Azm	7
+7356	L. Geschiere	7
+7357	E.J. Haslinghuis	7
+7358	Saskia de Boer	7
+7359	J.J. Terwen	7
+7360	H.T. Wallinga	7
+7361	Grietje Drewes	7
+7362	J.C. Opstelten	7
+7363	R.E.H. Westendorp Boerma	7
+7364	Rivai Apin	8
+7365	Siti Nuraini	8
+7366	Chairil Anwar	8
+7367	Taslim Ali	8
+7368	Asrul Sani	8
+7369	Muhammad Rustandi Kartakusuma	8
+7370	Utuy T. Sontani	8
+7371	Hetty van Waalwijk	8
+7372	L.Th. Lehmann	8
+7373	H.M.J. Maier	8
+7374	Noegroho	8
+7375	Oscar Mohr	8
+7376	Sorin Alexandrescu	9
+7377	Adrian Pâunescu	9
+7378	Leonid Dimov	9
+7379	Nikita Stänescu	9
+7380	Sorin Marculescu	9
+7381	Liesbeth Ziedses	9
+7382	Irene Langedijk	9
+7383	Betty van Veelen	9
+7384	J. Vaissier	10
+7385	Charles Webster	10
+7386	William A. Robson	10
+7387	Oscar R. Hobson	10
+7388	Maurice van den Dries	11
+7389	Cees Verraak	11
+7390	Patrick Cornillie	11
+7391	J.P. van Rossum	12
+7392	Jean-Pierre van Rossem	12
+7393	J.P. Wesselink-van Rossum	12
+7394	Els Broeksma-van Capelle	13
+7395	Caroline Lamarche	13
+7396	Gustav Herling	13
+7397	G.W. Bruinsma	14
+7398	J. Menno Huizinga	14
+7399	Jacobus Boelen Jhz.	15
+7400	L.A.A. van Kervel	15
+7401	Hendrik Onnen	16
+7402	H.J.C.G. Eilbracht	16
+7403	Léon de Greiff	17
+7404	Elizabeth da Costa Gomez	17
+7405	Pieter S. Gerbrandy	18
+7406	C.L.W. Fock	18
+7407	H. Linnemann	19
+7408	A.J. Cuppen	19
+7409	Monika Warnenska	20
+7410	J. de Reus	20
+7411	B. Lipschits-Linnewiel	21
+7412	A.L.R. Fernhout	21
+7413	Eva Vondeling	22
+7414	Józef Lewandowski	22
+7415	Annie Gransch	23
+7416	I.F. Fedorov	23
+7417	Chris Mast	24
+7418	C.W. Aakster	24
+7419	Francisco Marinho	25
+7420	Joanna Martinez-Horsman	25
+7421	Peter Reinhart Gleichmann	26
+7422	Tine Ausma	26
+7423	Tjalling Bos	27
+7424	Jacobus Bos	27
+7425	J.L.J. van Schoot	28
+7426	G. Vertogen	28
+7427	Lucy Grealy	29
+7428	Marian Lameris	29
+7429	Wil Hansen	30
+7430	Marcel Beyer	30
+7431	Mirna Velcic-Canivez	31
+7432	Pim van Tol	31
+7433	Jelle Noorman	32
+7434	Raj Kamal Jha	32
+7435	Brady Udall	33
+7436	Bert Meelker	33
+7437	Hilde van Sumere	34
+7438	Hubert de Vogelaere	34
+7439	U Win Tin	35
+7440	Joke Pluvier-de Vries	35
+7441	H.P. Plantenga	36
+7442	Wanda Maya	36
+7443	C.N. Dubelaar	37
+7444	A.M.L. de Meere	37
+7445	Jacob Dirk Veegens	38
+7446	Rudolf Cornelis Hendrik Römer	38
+7447	Paulien Selter	39
+7448	Henriette van Duin	39
+7449	G. Leppers	40
+7450	José Rentes de Carvalho	40
