@@ -9,4 +9,4 @@ The network is stored as `CCLAMP_Directed_Network_update.txt` (see `Output`).
 ## Run and analyse community detection
 Use `C-CLAMP_networks revisited.ipynb` to reload the network created in the previous step and apply both the Louvain and the Leiden community detection algorithms.
 
-For more information on the network and additional scripts, see also `julienijs/Network_CCLAMP` (https://github.com/julienijs/Network_CCLAMP).
+For more information on the network and additional scripts, see also https://github.com/julienijs/Network_CCLAMP.
